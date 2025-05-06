@@ -1,0 +1,2067 @@
+Data,Produto,Quantidade Vendida,Preço Unitário,Total de Vendas,Lucro,Despesas,Promoções,Categoria
+01/01/2023,Passeio Pão de Açúcar (Carro),1,911.08,911.08,526.74,384.34,Não,Passeios Locais
+01/01/2023,City Tour Completo (Van),3,1063.69,3191.07,2306.95,884.12,Não,City Tour
+01/01/2023,Tour Arraial do Cabo (Van),3,362.78,1088.34,755.49,332.85,Sim,Viagens Longas
+01/01/2023,Passeio Cristo Redentor (Carro),2,560.76,1121.52,756.5,365.02,Não,Passeios Locais
+01/01/2023,City Tour Completo (Van),2,638.69,1277.38,830.02,447.36,Sim,City Tour
+02/01/2023,Passeio Cristo Redentor (Carro),2,946.37,1892.74,1086.55,806.19,Sim,Passeios Locais
+02/01/2023,Translado Aeroporto Santos Dumont,2,433.83,867.66,594.69,272.97,Sim,Translados
+02/01/2023,Translado Aeroporto Galeão,1,300.22,300.22,203.6,96.62,Não,Translados
+02/01/2023,City Tour Completo (Van),3,1119.49,3358.47,1971.7,1386.77,Não,City Tour
+02/01/2023,Aluguel Van Corporativa,3,1427.64,4282.92,3071.01,1211.91,Não,Serviço Privado
+03/01/2023,Translado Aeroporto Santos Dumont,3,962.27,2886.81,1840.66,1046.15,Não,Translados
+03/01/2023,City Tour Completo (Van),3,444.42,1333.26,902.3,430.96,Sim,City Tour
+03/01/2023,Passeio Pão de Açúcar (Carro),1,1455.31,1455.31,855.68,599.63,Sim,Passeios Locais
+03/01/2023,Aluguel Van Corporativa,2,401.22,802.44,511.36,291.08,Não,Serviço Privado
+03/01/2023,Tour Búzios (Van),1,1006.01,1006.01,601.76,404.25,Sim,Viagens Longas
+03/01/2023,Aluguel Van Corporativa,3,871.81,2615.43,1749.68,865.75,Não,Serviço Privado
+03/01/2023,Tour Búzios (Van),2,1040.99,2081.98,1556.12,525.86,Sim,Viagens Longas
+04/01/2023,City Tour Completo (Van),1,842.79,842.79,469.8,372.99,Não,City Tour
+04/01/2023,Tour Petrópolis (Carro),1,164.26,164.26,109.55,54.71,Não,Viagens Longas
+04/01/2023,Translado Aeroporto Galeão,2,473.82,947.64,569.67,377.97,Sim,Translados
+04/01/2023,Translado Aeroporto Galeão,3,1464.74,4394.22,2578.69,1815.53,Não,Translados
+04/01/2023,Tour Búzios (Van),2,474.95,949.9,558.0,391.9,Sim,Viagens Longas
+04/01/2023,Aluguel Van Corporativa,3,1496.8,4490.4,3282.53,1207.87,Não,Serviço Privado
+05/01/2023,Tour Arraial do Cabo (Van),3,611.92,1835.76,1194.09,641.67,Não,Viagens Longas
+05/01/2023,Translado Aeroporto Santos Dumont,3,240.71,722.13,437.84,284.29,Não,Translados
+05/01/2023,Tour Búzios (Van),3,357.08,1071.24,714.72,356.52,Sim,Viagens Longas
+05/01/2023,Aluguel Van Corporativa,1,193.72,193.72,128.79,64.93,Não,Serviço Privado
+06/01/2023,Tour Búzios (Van),1,485.3,485.3,343.12,142.18,Não,Viagens Longas
+06/01/2023,Translado Aeroporto Santos Dumont,1,494.74,494.74,325.32,169.42,Não,Translados
+06/01/2023,Aluguel Carro Executivo,2,1096.75,2193.5,1554.38,639.12,Sim,Serviço Privado
+07/01/2023,Translado Aeroporto Galeão,3,869.69,2609.07,1641.34,967.73,Não,Translados
+07/01/2023,Aluguel Van Corporativa,3,321.0,963.0,530.79,432.21,Sim,Serviço Privado
+07/01/2023,City Tour Completo (Van),2,1114.94,2229.88,1248.26,981.62,Não,City Tour
+08/01/2023,Tour Arraial do Cabo (Van),2,324.53,649.06,436.31,212.75,Não,Viagens Longas
+08/01/2023,Tour Arraial do Cabo (Van),1,319.64,319.64,226.15,93.49,Não,Viagens Longas
+08/01/2023,Tour Arraial do Cabo (Van),3,1452.09,4356.27,2782.76,1573.51,Sim,Viagens Longas
+08/01/2023,Passeio Cristo Redentor (Carro),1,739.61,739.61,554.2,185.41,Não,Passeios Locais
+08/01/2023,City Tour Completo (Van),3,164.29,492.87,350.61,142.26,Não,City Tour
+09/01/2023,Tour Arraial do Cabo (Van),3,944.24,2832.72,1713.41,1119.31,Não,Viagens Longas
+09/01/2023,Translado Aeroporto Galeão,1,364.47,364.47,226.03,138.44,Sim,Translados
+09/01/2023,Translado Aeroporto Santos Dumont,3,202.84,608.52,447.47,161.05,Sim,Translados
+10/01/2023,Aluguel Van Corporativa,1,1040.03,1040.03,578.87,461.16,Não,Serviço Privado
+10/01/2023,City Tour Completo (Van),1,1011.34,1011.34,709.17,302.17,Não,City Tour
+10/01/2023,Translado Aeroporto Galeão,2,225.66,451.32,267.57,183.75,Não,Translados
+11/01/2023,Translado Aeroporto Galeão,3,1437.92,4313.76,2992.59,1321.17,Não,Translados
+11/01/2023,Passeio Pão de Açúcar (Carro),2,1082.37,2164.74,1479.16,685.58,Sim,Passeios Locais
+11/01/2023,Passeio Cristo Redentor (Carro),2,510.02,1020.04,714.87,305.17,Sim,Passeios Locais
+11/01/2023,Aluguel Van Corporativa,2,288.92,577.84,422.53,155.31,Sim,Serviço Privado
+12/01/2023,Aluguel Carro Executivo,2,1304.11,2608.22,1543.65,1064.57,Não,Serviço Privado
+12/01/2023,Aluguel Carro Executivo,3,878.34,2635.02,1551.32,1083.7,Sim,Serviço Privado
+12/01/2023,Tour Petrópolis (Carro),1,524.27,524.27,300.84,223.43,Não,Viagens Longas
+12/01/2023,Passeio Cristo Redentor (Carro),2,436.2,872.4,540.08,332.32,Não,Passeios Locais
+12/01/2023,Tour Búzios (Van),1,739.19,739.19,491.03,248.16,Sim,Viagens Longas
+12/01/2023,Tour Búzios (Van),1,529.3,529.3,343.28,186.02,Sim,Viagens Longas
+12/01/2023,Tour Búzios (Van),3,1229.11,3687.33,2756.5,930.83,Não,Viagens Longas
+12/01/2023,Passeio Cristo Redentor (Carro),3,950.72,2852.16,2064.12,788.04,Sim,Passeios Locais
+13/01/2023,Aluguel Van Corporativa,2,300.74,601.48,368.64,232.84,Sim,Serviço Privado
+13/01/2023,Aluguel Van Corporativa,3,315.01,945.03,613.52,331.51,Não,Serviço Privado
+13/01/2023,Tour Búzios (Van),3,1168.39,3505.17,2530.41,974.76,Sim,Viagens Longas
+13/01/2023,City Tour Completo (Van),1,1244.99,1244.99,717.75,527.24,Não,City Tour
+13/01/2023,Aluguel Carro Executivo,1,1153.03,1153.03,846.15,306.88,Sim,Serviço Privado
+13/01/2023,Tour Arraial do Cabo (Van),2,1423.44,2846.88,2032.65,814.23,Não,Viagens Longas
+13/01/2023,Passeio Pão de Açúcar (Carro),1,937.37,937.37,555.89,381.48,Sim,Passeios Locais
+14/01/2023,Tour Búzios (Van),2,1337.46,2674.92,1651.57,1023.35,Não,Viagens Longas
+14/01/2023,Tour Búzios (Van),2,1247.03,2494.06,1688.0,806.06,Não,Viagens Longas
+14/01/2023,Translado Aeroporto Galeão,3,1458.15,4374.45,3102.81,1271.64,Sim,Translados
+14/01/2023,City Tour Completo (Van),3,824.34,2473.02,1476.03,996.99,Sim,City Tour
+14/01/2023,Tour Búzios (Van),3,689.67,2069.01,1223.01,846.0,Não,Viagens Longas
+14/01/2023,Tour Petrópolis (Carro),1,328.4,328.4,232.05,96.35,Não,Viagens Longas
+15/01/2023,City Tour Completo (Van),2,1462.56,2925.12,1688.07,1237.05,Não,City Tour
+15/01/2023,Tour Arraial do Cabo (Van),3,441.01,1323.03,802.71,520.32,Sim,Viagens Longas
+15/01/2023,City Tour Completo (Van),3,1045.02,3135.06,2235.14,899.92,Sim,City Tour
+15/01/2023,Tour Arraial do Cabo (Van),1,341.91,341.91,220.9,121.01,Não,Viagens Longas
+15/01/2023,Tour Arraial do Cabo (Van),1,760.85,760.85,533.35,227.5,Sim,Viagens Longas
+15/01/2023,Aluguel Carro Executivo,1,1472.15,1472.15,876.62,595.53,Não,Serviço Privado
+15/01/2023,City Tour Completo (Van),2,187.4,374.8,269.32,105.48,Não,City Tour
+16/01/2023,Passeio Pão de Açúcar (Carro),1,1029.85,1029.85,584.15,445.7,Não,Passeios Locais
+16/01/2023,Passeio Cristo Redentor (Carro),3,186.68,560.04,379.62,180.42,Não,Passeios Locais
+16/01/2023,Passeio Pão de Açúcar (Carro),1,375.14,375.14,272.67,102.47,Não,Passeios Locais
+17/01/2023,City Tour Completo (Van),3,504.86,1514.58,930.19,584.39,Sim,City Tour
+17/01/2023,Aluguel Van Corporativa,3,1361.97,4085.91,2654.65,1431.26,Não,Serviço Privado
+17/01/2023,Tour Petrópolis (Carro),1,966.94,966.94,584.03,382.91,Sim,Viagens Longas
+18/01/2023,Aluguel Van Corporativa,1,1492.4,1492.4,898.93,593.47,Sim,Serviço Privado
+18/01/2023,Tour Búzios (Van),3,225.85,677.55,373.23,304.32,Sim,Viagens Longas
+18/01/2023,Translado Aeroporto Santos Dumont,2,1251.62,2503.24,1539.03,964.21,Não,Translados
+18/01/2023,Passeio Cristo Redentor (Carro),2,405.16,810.32,518.59,291.73,Não,Passeios Locais
+18/01/2023,Aluguel Van Corporativa,1,534.23,534.23,363.66,170.57,Não,Serviço Privado
+18/01/2023,City Tour Completo (Van),2,1432.8,2865.6,1991.54,874.06,Sim,City Tour
+18/01/2023,Translado Aeroporto Santos Dumont,3,1110.82,3332.46,2403.91,928.55,Sim,Translados
+18/01/2023,Translado Aeroporto Galeão,3,1188.1,3564.3,2484.94,1079.36,Sim,Translados
+19/01/2023,City Tour Completo (Van),3,263.5,790.5,533.28,257.22,Não,City Tour
+19/01/2023,Translado Aeroporto Santos Dumont,3,1326.39,3979.17,2711.64,1267.53,Não,Translados
+19/01/2023,Translado Aeroporto Galeão,3,456.65,1369.95,1007.67,362.28,Não,Translados
+19/01/2023,Passeio Pão de Açúcar (Carro),2,437.95,875.9,500.31,375.59,Sim,Passeios Locais
+19/01/2023,Tour Arraial do Cabo (Van),1,411.44,411.44,228.93,182.51,Sim,Viagens Longas
+20/01/2023,Tour Petrópolis (Carro),2,661.14,1322.28,745.91,576.37,Não,Viagens Longas
+20/01/2023,Passeio Cristo Redentor (Carro),2,670.83,1341.66,836.07,505.59,Não,Passeios Locais
+20/01/2023,Aluguel Carro Executivo,2,918.82,1837.64,1160.86,676.78,Não,Serviço Privado
+20/01/2023,Aluguel Carro Executivo,3,1106.39,3319.17,2193.27,1125.9,Não,Serviço Privado
+20/01/2023,Translado Aeroporto Santos Dumont,3,537.44,1612.32,1064.4,547.92,Não,Translados
+21/01/2023,Tour Petrópolis (Carro),2,1344.88,2689.76,1927.88,761.88,Não,Viagens Longas
+21/01/2023,Translado Aeroporto Galeão,2,368.65,737.3,436.9,300.4,Não,Translados
+21/01/2023,Tour Arraial do Cabo (Van),2,1417.09,2834.18,1773.9,1060.28,Não,Viagens Longas
+21/01/2023,Passeio Cristo Redentor (Carro),1,1358.4,1358.4,960.57,397.83,Sim,Passeios Locais
+21/01/2023,Aluguel Carro Executivo,1,616.24,616.24,345.4,270.84,Não,Serviço Privado
+21/01/2023,Translado Aeroporto Santos Dumont,3,571.7,1715.1,1133.24,581.86,Não,Translados
+21/01/2023,Tour Arraial do Cabo (Van),1,818.2,818.2,451.08,367.12,Não,Viagens Longas
+21/01/2023,Passeio Cristo Redentor (Carro),2,1255.12,2510.24,1593.48,916.76,Não,Passeios Locais
+22/01/2023,Passeio Cristo Redentor (Carro),3,1407.26,4221.78,2495.82,1725.96,Não,Passeios Locais
+22/01/2023,City Tour Completo (Van),1,154.39,154.39,86.74,67.65,Não,City Tour
+22/01/2023,Tour Petrópolis (Carro),2,947.6,1895.2,1134.22,760.98,Sim,Viagens Longas
+22/01/2023,Tour Arraial do Cabo (Van),3,566.89,1700.67,1000.3,700.37,Não,Viagens Longas
+22/01/2023,Tour Arraial do Cabo (Van),1,454.47,454.47,261.5,192.97,Sim,Viagens Longas
+22/01/2023,Aluguel Van Corporativa,2,173.84,347.68,217.62,130.06,Não,Serviço Privado
+22/01/2023,City Tour Completo (Van),2,1100.62,2201.24,1416.91,784.33,Não,City Tour
+22/01/2023,Translado Aeroporto Santos Dumont,2,518.18,1036.36,773.48,262.88,Não,Translados
+23/01/2023,Tour Arraial do Cabo (Van),1,1462.45,1462.45,1017.45,445.0,Não,Viagens Longas
+23/01/2023,City Tour Completo (Van),2,210.19,420.38,305.98,114.4,Não,City Tour
+23/01/2023,Aluguel Carro Executivo,3,397.85,1193.55,799.86,393.69,Não,Serviço Privado
+23/01/2023,Aluguel Carro Executivo,2,952.58,1905.16,1366.05,539.11,Sim,Serviço Privado
+23/01/2023,Tour Búzios (Van),3,1456.31,4368.93,3245.18,1123.75,Não,Viagens Longas
+23/01/2023,Tour Petrópolis (Carro),1,185.48,185.48,103.32,82.16,Sim,Viagens Longas
+24/01/2023,Translado Aeroporto Galeão,1,1425.01,1425.01,930.36,494.65,Não,Translados
+24/01/2023,Tour Arraial do Cabo (Van),3,642.4,1927.2,1240.69,686.51,Sim,Viagens Longas
+24/01/2023,Translado Aeroporto Galeão,3,979.37,2938.11,1616.49,1321.62,Não,Translados
+24/01/2023,Passeio Pão de Açúcar (Carro),3,529.75,1589.25,907.06,682.19,Sim,Passeios Locais
+25/01/2023,Tour Búzios (Van),3,822.93,2468.79,1764.14,704.65,Não,Viagens Longas
+25/01/2023,Tour Petrópolis (Carro),3,1100.4,3301.2,2310.85,990.35,Sim,Viagens Longas
+25/01/2023,Aluguel Van Corporativa,2,1358.75,2717.5,1575.18,1142.32,Não,Serviço Privado
+25/01/2023,Tour Búzios (Van),1,737.67,737.67,508.46,229.21,Não,Viagens Longas
+25/01/2023,Aluguel Van Corporativa,2,312.96,625.92,421.11,204.81,Não,Serviço Privado
+25/01/2023,Translado Aeroporto Santos Dumont,1,486.81,486.81,319.49,167.32,Não,Translados
+25/01/2023,Translado Aeroporto Galeão,2,475.96,951.92,618.91,333.01,Sim,Translados
+26/01/2023,Aluguel Carro Executivo,2,671.4,1342.8,833.91,508.89,Não,Serviço Privado
+26/01/2023,Tour Petrópolis (Carro),3,985.79,2957.37,2091.57,865.8,Não,Viagens Longas
+26/01/2023,Passeio Cristo Redentor (Carro),2,380.81,761.62,492.56,269.06,Não,Passeios Locais
+26/01/2023,Aluguel Van Corporativa,1,388.05,388.05,221.12,166.93,Sim,Serviço Privado
+27/01/2023,City Tour Completo (Van),2,984.36,1968.72,1412.62,556.1,Sim,City Tour
+27/01/2023,Tour Petrópolis (Carro),1,282.73,282.73,158.3,124.43,Não,Viagens Longas
+27/01/2023,Tour Arraial do Cabo (Van),1,957.63,957.63,606.78,350.85,Sim,Viagens Longas
+28/01/2023,Passeio Cristo Redentor (Carro),1,873.45,873.45,618.71,254.74,Não,Passeios Locais
+28/01/2023,Tour Petrópolis (Carro),2,464.9,929.8,595.59,334.21,Não,Viagens Longas
+28/01/2023,Translado Aeroporto Galeão,1,1300.39,1300.39,762.34,538.05,Não,Translados
+28/01/2023,Passeio Pão de Açúcar (Carro),3,233.26,699.78,453.75,246.03,Sim,Passeios Locais
+28/01/2023,Tour Arraial do Cabo (Van),1,699.52,699.52,518.4,181.12,Não,Viagens Longas
+28/01/2023,Translado Aeroporto Galeão,3,1414.92,4244.76,2731.32,1513.44,Sim,Translados
+28/01/2023,Translado Aeroporto Galeão,3,799.26,2397.78,1438.88,958.9,Sim,Translados
+28/01/2023,Tour Arraial do Cabo (Van),3,837.37,2512.11,1805.67,706.44,Sim,Viagens Longas
+29/01/2023,Tour Arraial do Cabo (Van),2,1255.8,2511.6,1501.46,1010.14,Sim,Viagens Longas
+29/01/2023,Aluguel Van Corporativa,2,1110.25,2220.5,1551.16,669.34,Não,Serviço Privado
+29/01/2023,Passeio Pão de Açúcar (Carro),1,638.75,638.75,455.04,183.71,Não,Passeios Locais
+29/01/2023,Translado Aeroporto Santos Dumont,1,309.94,309.94,212.67,97.27,Sim,Translados
+29/01/2023,Translado Aeroporto Galeão,2,374.39,748.78,451.12,297.66,Não,Translados
+29/01/2023,Translado Aeroporto Santos Dumont,3,238.92,716.76,411.1,305.66,Não,Translados
+29/01/2023,Tour Petrópolis (Carro),1,425.1,425.1,258.44,166.66,Não,Viagens Longas
+30/01/2023,Tour Petrópolis (Carro),1,731.62,731.62,416.98,314.64,Não,Viagens Longas
+30/01/2023,Tour Arraial do Cabo (Van),3,405.67,1217.01,759.72,457.29,Sim,Viagens Longas
+30/01/2023,Aluguel Van Corporativa,1,1100.7,1100.7,726.78,373.92,Não,Serviço Privado
+30/01/2023,Passeio Pão de Açúcar (Carro),3,778.85,2336.55,1490.22,846.33,Não,Passeios Locais
+30/01/2023,Tour Petrópolis (Carro),2,470.88,941.76,673.75,268.01,Não,Viagens Longas
+31/01/2023,Translado Aeroporto Galeão,3,251.77,755.31,565.27,190.04,Sim,Translados
+31/01/2023,Tour Arraial do Cabo (Van),1,790.88,790.88,543.99,246.89,Não,Viagens Longas
+31/01/2023,Tour Arraial do Cabo (Van),2,512.69,1025.38,658.59,366.79,Sim,Viagens Longas
+31/01/2023,Passeio Cristo Redentor (Carro),1,524.37,524.37,379.12,145.25,Sim,Passeios Locais
+31/01/2023,Translado Aeroporto Galeão,3,566.31,1698.93,1166.03,532.9,Não,Translados
+31/01/2023,Passeio Pão de Açúcar (Carro),3,1176.97,3530.91,1965.68,1565.23,Não,Passeios Locais
+31/01/2023,Translado Aeroporto Santos Dumont,3,347.12,1041.36,733.09,308.27,Não,Translados
+31/01/2023,City Tour Completo (Van),3,871.96,2615.88,1551.14,1064.74,Sim,City Tour
+01/02/2023,Translado Aeroporto Galeão,2,983.47,1966.94,1180.84,786.1,Não,Translados
+01/02/2023,Translado Aeroporto Santos Dumont,3,207.38,622.14,388.51,233.63,Sim,Translados
+01/02/2023,Tour Arraial do Cabo (Van),2,1485.85,2971.7,1878.97,1092.73,Sim,Viagens Longas
+01/02/2023,Translado Aeroporto Santos Dumont,2,892.99,1785.98,1162.55,623.43,Não,Translados
+01/02/2023,Tour Búzios (Van),2,1171.46,2342.92,1588.68,754.24,Sim,Viagens Longas
+02/02/2023,Translado Aeroporto Galeão,1,757.22,757.22,441.69,315.53,Sim,Translados
+02/02/2023,Aluguel Carro Executivo,1,900.7,900.7,523.24,377.46,Sim,Serviço Privado
+02/02/2023,Passeio Cristo Redentor (Carro),3,954.54,2863.62,1824.32,1039.3,Não,Passeios Locais
+02/02/2023,Tour Petrópolis (Carro),3,1360.01,4080.03,2387.2,1692.83,Não,Viagens Longas
+03/02/2023,Aluguel Van Corporativa,1,287.97,287.97,200.13,87.84,Sim,Serviço Privado
+03/02/2023,Translado Aeroporto Galeão,2,164.72,329.44,239.66,89.78,Não,Translados
+03/02/2023,City Tour Completo (Van),3,1236.24,3708.72,2732.28,976.44,Sim,City Tour
+03/02/2023,Aluguel Van Corporativa,3,1273.42,3820.26,2523.91,1296.35,Não,Serviço Privado
+04/02/2023,Translado Aeroporto Galeão,2,914.86,1829.72,1079.43,750.29,Sim,Translados
+04/02/2023,Translado Aeroporto Santos Dumont,1,732.33,732.33,473.91,258.42,Não,Translados
+04/02/2023,Tour Petrópolis (Carro),3,967.73,2903.19,1951.04,952.15,Não,Viagens Longas
+05/02/2023,Tour Petrópolis (Carro),3,1294.89,3884.67,2862.17,1022.5,Não,Viagens Longas
+05/02/2023,Translado Aeroporto Galeão,1,222.35,222.35,146.65,75.7,Não,Translados
+05/02/2023,Aluguel Van Corporativa,3,1486.97,4460.91,3276.62,1184.29,Não,Serviço Privado
+05/02/2023,Translado Aeroporto Santos Dumont,2,419.34,838.68,613.38,225.3,Não,Translados
+05/02/2023,Aluguel Van Corporativa,3,174.71,524.13,305.63,218.5,Não,Serviço Privado
+05/02/2023,Tour Búzios (Van),1,1023.15,1023.15,631.8,391.35,Não,Viagens Longas
+06/02/2023,City Tour Completo (Van),3,969.11,2907.33,2091.64,815.69,Não,City Tour
+06/02/2023,Translado Aeroporto Santos Dumont,2,1211.37,2422.74,1526.73,896.01,Sim,Translados
+06/02/2023,Aluguel Carro Executivo,3,746.07,2238.21,1297.79,940.42,Sim,Serviço Privado
+07/02/2023,Translado Aeroporto Galeão,1,296.41,296.41,199.6,96.81,Não,Translados
+07/02/2023,Aluguel Van Corporativa,3,297.3,891.9,493.07,398.83,Não,Serviço Privado
+07/02/2023,City Tour Completo (Van),3,1275.7,3827.1,2365.89,1461.21,Não,City Tour
+07/02/2023,Tour Arraial do Cabo (Van),1,1067.01,1067.01,774.95,292.06,Não,Viagens Longas
+07/02/2023,Aluguel Carro Executivo,1,172.65,172.65,116.15,56.5,Não,Serviço Privado
+08/02/2023,Tour Búzios (Van),2,270.91,541.82,347.94,193.88,Sim,Viagens Longas
+08/02/2023,Translado Aeroporto Galeão,3,279.57,838.71,467.92,370.79,Não,Translados
+08/02/2023,Aluguel Van Corporativa,3,1207.84,3623.52,2707.75,915.77,Sim,Serviço Privado
+08/02/2023,Tour Búzios (Van),2,1184.97,2369.94,1708.54,661.4,Não,Viagens Longas
+08/02/2023,Passeio Cristo Redentor (Carro),2,802.08,1604.16,1022.9,581.26,Não,Passeios Locais
+09/02/2023,Aluguel Carro Executivo,1,194.08,194.08,140.6,53.48,Não,Serviço Privado
+09/02/2023,Translado Aeroporto Galeão,1,895.62,895.62,575.33,320.29,Não,Translados
+09/02/2023,Aluguel Carro Executivo,3,1138.81,3416.43,2380.04,1036.39,Não,Serviço Privado
+10/02/2023,Aluguel Carro Executivo,3,1157.78,3473.34,2095.74,1377.6,Não,Serviço Privado
+10/02/2023,Passeio Cristo Redentor (Carro),1,402.03,402.03,281.89,120.14,Não,Passeios Locais
+10/02/2023,Tour Petrópolis (Carro),3,1161.5,3484.5,1970.44,1514.06,Não,Viagens Longas
+10/02/2023,Aluguel Carro Executivo,2,685.5,1371.0,1011.56,359.44,Não,Serviço Privado
+10/02/2023,Translado Aeroporto Santos Dumont,3,1341.73,4025.19,2851.63,1173.56,Sim,Translados
+10/02/2023,Tour Petrópolis (Carro),3,1204.15,3612.45,2681.27,931.18,Sim,Viagens Longas
+11/02/2023,Passeio Cristo Redentor (Carro),1,1334.63,1334.63,795.95,538.68,Sim,Passeios Locais
+11/02/2023,Passeio Cristo Redentor (Carro),2,1225.54,2451.08,1349.21,1101.87,Sim,Passeios Locais
+11/02/2023,Passeio Cristo Redentor (Carro),3,645.71,1937.13,1355.24,581.89,Não,Passeios Locais
+11/02/2023,Passeio Pão de Açúcar (Carro),2,986.41,1972.82,1411.41,561.41,Não,Passeios Locais
+11/02/2023,City Tour Completo (Van),1,1481.3,1481.3,969.09,512.21,Não,City Tour
+12/02/2023,Passeio Cristo Redentor (Carro),3,1290.4,3871.2,2754.49,1116.71,Sim,Passeios Locais
+12/02/2023,Tour Petrópolis (Carro),3,1313.45,3940.35,2406.36,1533.99,Não,Viagens Longas
+12/02/2023,Aluguel Carro Executivo,2,806.45,1612.9,895.61,717.29,Sim,Serviço Privado
+12/02/2023,Tour Arraial do Cabo (Van),1,1369.8,1369.8,782.68,587.12,Sim,Viagens Longas
+13/02/2023,Aluguel Van Corporativa,2,1204.13,2408.26,1532.0,876.26,Não,Serviço Privado
+13/02/2023,Passeio Cristo Redentor (Carro),2,1251.03,2502.06,1866.83,635.23,Sim,Passeios Locais
+13/02/2023,Passeio Cristo Redentor (Carro),3,405.26,1215.78,866.14,349.64,Sim,Passeios Locais
+13/02/2023,Aluguel Carro Executivo,1,416.07,416.07,300.13,115.94,Não,Serviço Privado
+13/02/2023,Tour Petrópolis (Carro),3,539.66,1618.98,1162.83,456.15,Sim,Viagens Longas
+13/02/2023,Aluguel Van Corporativa,1,976.21,976.21,630.1,346.11,Não,Serviço Privado
+14/02/2023,Tour Petrópolis (Carro),3,1006.05,3018.15,2106.53,911.62,Não,Viagens Longas
+14/02/2023,Tour Petrópolis (Carro),3,1430.42,4291.26,2504.18,1787.08,Não,Viagens Longas
+14/02/2023,Tour Petrópolis (Carro),2,1027.73,2055.46,1269.45,786.01,Não,Viagens Longas
+14/02/2023,Tour Búzios (Van),2,302.39,604.78,370.7,234.08,Sim,Viagens Longas
+14/02/2023,Tour Arraial do Cabo (Van),2,722.96,1445.92,880.48,565.44,Não,Viagens Longas
+14/02/2023,Passeio Cristo Redentor (Carro),2,457.28,914.56,566.85,347.71,Não,Passeios Locais
+14/02/2023,Passeio Cristo Redentor (Carro),3,1280.01,3840.03,2192.68,1647.35,Não,Passeios Locais
+14/02/2023,City Tour Completo (Van),3,1321.89,3965.67,2531.3,1434.37,Não,City Tour
+15/02/2023,Aluguel Carro Executivo,1,323.71,323.71,200.45,123.26,Sim,Serviço Privado
+15/02/2023,Tour Arraial do Cabo (Van),2,931.47,1862.94,1243.08,619.86,Sim,Viagens Longas
+15/02/2023,Aluguel Van Corporativa,1,325.23,325.23,237.64,87.59,Sim,Serviço Privado
+15/02/2023,Translado Aeroporto Santos Dumont,3,511.36,1534.08,935.29,598.79,Sim,Translados
+15/02/2023,Tour Arraial do Cabo (Van),3,617.23,1851.69,1226.05,625.64,Não,Viagens Longas
+15/02/2023,Translado Aeroporto Galeão,2,1468.68,2937.36,1827.58,1109.78,Não,Translados
+15/02/2023,City Tour Completo (Van),2,1365.87,2731.74,1724.62,1007.12,Não,City Tour
+15/02/2023,Tour Arraial do Cabo (Van),1,1160.82,1160.82,835.02,325.8,Sim,Viagens Longas
+16/02/2023,Translado Aeroporto Galeão,2,700.5,1401.0,1012.97,388.03,Não,Translados
+16/02/2023,City Tour Completo (Van),3,350.32,1050.96,732.59,318.37,Sim,City Tour
+16/02/2023,Aluguel Van Corporativa,2,982.73,1965.46,1310.55,654.91,Sim,Serviço Privado
+16/02/2023,Aluguel Carro Executivo,1,1029.84,1029.84,748.81,281.03,Não,Serviço Privado
+16/02/2023,Translado Aeroporto Santos Dumont,3,294.53,883.59,613.25,270.34,Sim,Translados
+16/02/2023,Translado Aeroporto Santos Dumont,2,733.69,1467.38,905.28,562.1,Não,Translados
+16/02/2023,Passeio Cristo Redentor (Carro),3,1105.09,3315.27,2436.96,878.31,Sim,Passeios Locais
+17/02/2023,Passeio Pão de Açúcar (Carro),1,1184.44,1184.44,688.49,495.95,Sim,Passeios Locais
+17/02/2023,Aluguel Carro Executivo,2,1399.87,2799.74,2074.88,724.86,Sim,Serviço Privado
+17/02/2023,Tour Búzios (Van),3,739.11,2217.33,1250.76,966.57,Sim,Viagens Longas
+17/02/2023,Translado Aeroporto Galeão,3,675.9,2027.7,1421.58,606.12,Sim,Translados
+17/02/2023,Aluguel Carro Executivo,3,642.14,1926.42,1363.52,562.9,Sim,Serviço Privado
+18/02/2023,Translado Aeroporto Galeão,3,625.22,1875.66,1063.23,812.43,Não,Translados
+18/02/2023,Aluguel Carro Executivo,2,774.82,1549.64,1107.11,442.53,Sim,Serviço Privado
+18/02/2023,Tour Búzios (Van),2,771.85,1543.7,985.51,558.19,Não,Viagens Longas
+18/02/2023,Passeio Cristo Redentor (Carro),1,559.11,559.11,349.23,209.88,Não,Passeios Locais
+19/02/2023,Passeio Pão de Açúcar (Carro),2,1463.85,2927.7,1827.4,1100.3,Não,Passeios Locais
+19/02/2023,Passeio Cristo Redentor (Carro),3,1178.38,3535.14,2155.91,1379.23,Não,Passeios Locais
+19/02/2023,Translado Aeroporto Galeão,2,591.37,1182.74,740.19,442.55,Sim,Translados
+19/02/2023,Passeio Cristo Redentor (Carro),3,427.36,1282.08,751.88,530.2,Sim,Passeios Locais
+19/02/2023,Tour Petrópolis (Carro),3,827.97,2483.91,1713.04,770.87,Não,Viagens Longas
+19/02/2023,Translado Aeroporto Santos Dumont,1,212.86,212.86,132.58,80.28,Não,Translados
+19/02/2023,Tour Arraial do Cabo (Van),2,810.02,1620.04,1214.28,405.76,Sim,Viagens Longas
+19/02/2023,City Tour Completo (Van),3,687.7,2063.1,1155.2,907.9,Não,City Tour
+20/02/2023,Passeio Cristo Redentor (Carro),1,452.8,452.8,293.78,159.02,Não,Passeios Locais
+20/02/2023,Passeio Cristo Redentor (Carro),3,843.01,2529.03,1667.4,861.63,Sim,Passeios Locais
+20/02/2023,Tour Arraial do Cabo (Van),2,1071.16,2142.32,1603.72,538.6,Sim,Viagens Longas
+20/02/2023,Translado Aeroporto Galeão,2,868.84,1737.68,1283.99,453.69,Sim,Translados
+20/02/2023,Passeio Pão de Açúcar (Carro),2,1330.93,2661.86,1857.78,804.08,Não,Passeios Locais
+20/02/2023,Aluguel Carro Executivo,3,1101.85,3305.55,2402.09,903.46,Não,Serviço Privado
+20/02/2023,Tour Petrópolis (Carro),2,372.98,745.96,522.26,223.7,Sim,Viagens Longas
+21/02/2023,Passeio Cristo Redentor (Carro),2,1413.63,2827.26,1814.06,1013.2,Sim,Passeios Locais
+21/02/2023,Aluguel Van Corporativa,1,717.97,717.97,401.93,316.04,Não,Serviço Privado
+21/02/2023,Aluguel Van Corporativa,2,868.87,1737.74,983.23,754.51,Não,Serviço Privado
+21/02/2023,Tour Arraial do Cabo (Van),1,835.4,835.4,515.78,319.62,Sim,Viagens Longas
+21/02/2023,Passeio Pão de Açúcar (Carro),1,726.96,726.96,418.02,308.94,Sim,Passeios Locais
+22/02/2023,Aluguel Van Corporativa,2,788.27,1576.54,879.53,697.01,Sim,Serviço Privado
+22/02/2023,Tour Petrópolis (Carro),1,772.1,772.1,568.3,203.8,Sim,Viagens Longas
+22/02/2023,Aluguel Van Corporativa,2,296.36,592.72,417.51,175.21,Não,Serviço Privado
+22/02/2023,Passeio Cristo Redentor (Carro),3,1123.6,3370.8,2068.81,1301.99,Não,Passeios Locais
+22/02/2023,Passeio Cristo Redentor (Carro),2,1259.37,2518.74,1487.52,1031.22,Sim,Passeios Locais
+22/02/2023,Tour Petrópolis (Carro),1,1412.57,1412.57,956.63,455.94,Não,Viagens Longas
+23/02/2023,Translado Aeroporto Santos Dumont,3,1012.08,3036.24,1719.22,1317.02,Não,Translados
+23/02/2023,Passeio Cristo Redentor (Carro),2,1046.83,2093.66,1270.39,823.27,Não,Passeios Locais
+23/02/2023,Passeio Cristo Redentor (Carro),1,1216.35,1216.35,729.98,486.37,Não,Passeios Locais
+23/02/2023,Tour Petrópolis (Carro),3,390.8,1172.4,770.85,401.55,Sim,Viagens Longas
+23/02/2023,Passeio Pão de Açúcar (Carro),3,860.76,2582.28,1480.43,1101.85,Não,Passeios Locais
+24/02/2023,Passeio Cristo Redentor (Carro),2,1151.11,2302.22,1643.92,658.3,Não,Passeios Locais
+24/02/2023,Aluguel Van Corporativa,3,671.93,2015.79,1386.4,629.39,Não,Serviço Privado
+24/02/2023,Tour Petrópolis (Carro),3,1228.35,3685.05,2741.79,943.26,Não,Viagens Longas
+24/02/2023,Aluguel Van Corporativa,1,1132.43,1132.43,751.62,380.81,Não,Serviço Privado
+24/02/2023,Tour Búzios (Van),2,570.62,1141.24,675.13,466.11,Sim,Viagens Longas
+24/02/2023,Translado Aeroporto Santos Dumont,1,543.8,543.8,407.09,136.71,Não,Translados
+24/02/2023,City Tour Completo (Van),3,1132.3,3396.9,2540.72,856.18,Não,City Tour
+24/02/2023,City Tour Completo (Van),1,714.73,714.73,492.51,222.22,Não,City Tour
+25/02/2023,Passeio Cristo Redentor (Carro),3,732.02,2196.06,1580.39,615.67,Sim,Passeios Locais
+25/02/2023,Aluguel Van Corporativa,2,249.78,499.56,334.07,165.49,Sim,Serviço Privado
+25/02/2023,Passeio Cristo Redentor (Carro),1,1282.11,1282.11,790.47,491.64,Não,Passeios Locais
+25/02/2023,Tour Arraial do Cabo (Van),1,1002.87,1002.87,706.72,296.15,Não,Viagens Longas
+25/02/2023,Aluguel Van Corporativa,1,684.13,684.13,497.92,186.21,Sim,Serviço Privado
+25/02/2023,Tour Búzios (Van),1,681.47,681.47,489.33,192.14,Não,Viagens Longas
+26/02/2023,Aluguel Carro Executivo,1,308.24,308.24,229.04,79.2,Sim,Serviço Privado
+26/02/2023,City Tour Completo (Van),1,398.62,398.62,261.82,136.8,Sim,City Tour
+26/02/2023,City Tour Completo (Van),3,352.29,1056.87,735.42,321.45,Sim,City Tour
+27/02/2023,Tour Arraial do Cabo (Van),3,1397.84,4193.52,2715.42,1478.1,Não,Viagens Longas
+27/02/2023,Aluguel Carro Executivo,2,769.34,1538.68,904.64,634.04,Não,Serviço Privado
+27/02/2023,City Tour Completo (Van),3,600.7,1802.1,1055.73,746.37,Sim,City Tour
+27/02/2023,City Tour Completo (Van),3,976.55,2929.65,1922.37,1007.28,Sim,City Tour
+27/02/2023,City Tour Completo (Van),2,327.64,655.28,419.23,236.05,Não,City Tour
+28/02/2023,Aluguel Carro Executivo,3,1449.17,4347.51,2784.7,1562.81,Não,Serviço Privado
+28/02/2023,Aluguel Carro Executivo,1,1334.22,1334.22,862.68,471.54,Não,Serviço Privado
+28/02/2023,Tour Arraial do Cabo (Van),3,1445.0,4335.0,2750.98,1584.02,Não,Viagens Longas
+28/02/2023,Tour Arraial do Cabo (Van),1,1070.54,1070.54,758.28,312.26,Não,Viagens Longas
+28/02/2023,Aluguel Carro Executivo,2,515.12,1030.24,754.27,275.97,Não,Serviço Privado
+28/02/2023,Aluguel Van Corporativa,1,1002.51,1002.51,687.0,315.51,Sim,Serviço Privado
+01/03/2023,Translado Aeroporto Santos Dumont,1,658.99,658.99,393.86,265.13,Não,Translados
+01/03/2023,Passeio Cristo Redentor (Carro),1,506.09,506.09,333.51,172.58,Sim,Passeios Locais
+01/03/2023,Tour Búzios (Van),3,451.07,1353.21,805.91,547.3,Não,Viagens Longas
+01/03/2023,Translado Aeroporto Galeão,3,530.05,1590.15,1027.8,562.35,Não,Translados
+01/03/2023,Passeio Cristo Redentor (Carro),3,1040.14,3120.42,2099.29,1021.13,Sim,Passeios Locais
+01/03/2023,Aluguel Carro Executivo,2,584.72,1169.44,674.33,495.11,Sim,Serviço Privado
+01/03/2023,Tour Arraial do Cabo (Van),1,645.75,645.75,403.35,242.4,Sim,Viagens Longas
+02/03/2023,Passeio Cristo Redentor (Carro),2,471.69,943.38,682.19,261.19,Não,Passeios Locais
+02/03/2023,Tour Petrópolis (Carro),1,484.99,484.99,344.66,140.33,Não,Viagens Longas
+02/03/2023,Tour Búzios (Van),3,215.97,647.91,373.5,274.41,Não,Viagens Longas
+03/03/2023,Tour Petrópolis (Carro),3,604.1,1812.3,1140.42,671.88,Sim,Viagens Longas
+03/03/2023,Aluguel Van Corporativa,3,1239.67,3719.01,2369.33,1349.68,Sim,Serviço Privado
+03/03/2023,Translado Aeroporto Santos Dumont,2,966.4,1932.8,1180.62,752.18,Não,Translados
+03/03/2023,Aluguel Carro Executivo,3,526.14,1578.42,1035.39,543.03,Não,Serviço Privado
+03/03/2023,Passeio Pão de Açúcar (Carro),2,159.83,319.66,221.07,98.59,Sim,Passeios Locais
+04/03/2023,Translado Aeroporto Santos Dumont,2,211.31,422.62,256.5,166.12,Não,Translados
+04/03/2023,Translado Aeroporto Galeão,2,1267.45,2534.9,1759.43,775.47,Não,Translados
+04/03/2023,Tour Arraial do Cabo (Van),2,1286.69,2573.38,1874.84,698.54,Não,Viagens Longas
+05/03/2023,Translado Aeroporto Santos Dumont,3,173.99,521.97,340.72,181.25,Não,Translados
+05/03/2023,Translado Aeroporto Galeão,3,1075.36,3226.08,1976.01,1250.07,Não,Translados
+05/03/2023,Translado Aeroporto Galeão,3,827.3,2481.9,1637.6,844.3,Não,Translados
+05/03/2023,Passeio Pão de Açúcar (Carro),1,1063.01,1063.01,605.17,457.84,Não,Passeios Locais
+05/03/2023,Aluguel Carro Executivo,1,520.08,520.08,313.17,206.91,Não,Serviço Privado
+06/03/2023,Tour Arraial do Cabo (Van),2,754.76,1509.52,845.93,663.59,Não,Viagens Longas
+06/03/2023,Aluguel Van Corporativa,2,417.57,835.14,603.74,231.4,Não,Serviço Privado
+06/03/2023,Passeio Cristo Redentor (Carro),3,988.65,2965.95,1876.74,1089.21,Não,Passeios Locais
+06/03/2023,Tour Arraial do Cabo (Van),3,1474.15,4422.45,3001.01,1421.44,Não,Viagens Longas
+06/03/2023,Tour Búzios (Van),2,397.22,794.44,517.91,276.53,Não,Viagens Longas
+06/03/2023,City Tour Completo (Van),1,271.19,271.19,198.4,72.79,Sim,City Tour
+07/03/2023,Aluguel Carro Executivo,1,700.49,700.49,459.2,241.29,Não,Serviço Privado
+07/03/2023,Aluguel Carro Executivo,3,516.11,1548.33,954.41,593.92,Sim,Serviço Privado
+07/03/2023,City Tour Completo (Van),2,329.01,658.02,483.98,174.04,Não,City Tour
+07/03/2023,Translado Aeroporto Galeão,3,1302.02,3906.06,2621.77,1284.29,Sim,Translados
+08/03/2023,Translado Aeroporto Galeão,1,533.86,533.86,314.14,219.72,Não,Translados
+08/03/2023,Tour Búzios (Van),2,378.56,757.12,427.82,329.3,Sim,Viagens Longas
+08/03/2023,Tour Arraial do Cabo (Van),1,1222.47,1222.47,813.95,408.52,Não,Viagens Longas
+08/03/2023,Translado Aeroporto Santos Dumont,3,939.09,2817.27,1896.5,920.77,Sim,Translados
+08/03/2023,Translado Aeroporto Galeão,1,357.32,357.32,237.33,119.99,Sim,Translados
+08/03/2023,Passeio Cristo Redentor (Carro),1,1345.55,1345.55,959.83,385.72,Sim,Passeios Locais
+09/03/2023,Passeio Cristo Redentor (Carro),1,386.31,386.31,281.15,105.16,Não,Passeios Locais
+09/03/2023,Translado Aeroporto Galeão,2,633.79,1267.58,766.76,500.82,Não,Translados
+09/03/2023,Passeio Cristo Redentor (Carro),2,1147.26,2294.52,1692.78,601.74,Sim,Passeios Locais
+09/03/2023,City Tour Completo (Van),1,488.03,488.03,339.47,148.56,Não,City Tour
+10/03/2023,Tour Petrópolis (Carro),2,1041.92,2083.84,1266.49,817.35,Sim,Viagens Longas
+10/03/2023,Passeio Pão de Açúcar (Carro),1,905.67,905.67,649.74,255.93,Sim,Passeios Locais
+10/03/2023,Tour Búzios (Van),2,319.49,638.98,449.22,189.76,Não,Viagens Longas
+10/03/2023,Passeio Pão de Açúcar (Carro),3,174.33,522.99,346.37,176.62,Sim,Passeios Locais
+10/03/2023,Passeio Pão de Açúcar (Carro),3,865.23,2595.69,1875.34,720.35,Não,Passeios Locais
+10/03/2023,Translado Aeroporto Santos Dumont,3,1421.85,4265.55,2748.08,1517.47,Sim,Translados
+10/03/2023,Passeio Cristo Redentor (Carro),2,1288.52,2577.04,1674.07,902.97,Sim,Passeios Locais
+11/03/2023,Aluguel Carro Executivo,3,839.86,2519.58,1756.02,763.56,Não,Serviço Privado
+11/03/2023,Tour Arraial do Cabo (Van),3,371.31,1113.93,753.05,360.88,Sim,Viagens Longas
+11/03/2023,Tour Búzios (Van),3,307.49,922.47,537.53,384.94,Sim,Viagens Longas
+11/03/2023,City Tour Completo (Van),3,185.33,555.99,358.45,197.54,Sim,City Tour
+11/03/2023,Translado Aeroporto Galeão,2,539.39,1078.78,682.42,396.36,Não,Translados
+12/03/2023,Tour Arraial do Cabo (Van),2,228.14,456.28,269.91,186.37,Sim,Viagens Longas
+12/03/2023,Passeio Pão de Açúcar (Carro),3,303.7,911.1,672.72,238.38,Não,Passeios Locais
+12/03/2023,Passeio Pão de Açúcar (Carro),3,371.55,1114.65,808.41,306.24,Não,Passeios Locais
+12/03/2023,Aluguel Carro Executivo,2,957.44,1914.88,1178.36,736.52,Não,Serviço Privado
+12/03/2023,Passeio Cristo Redentor (Carro),1,550.82,550.82,391.3,159.52,Não,Passeios Locais
+12/03/2023,Translado Aeroporto Galeão,3,1218.42,3655.26,2252.07,1403.19,Sim,Translados
+12/03/2023,Tour Arraial do Cabo (Van),1,1437.97,1437.97,1038.23,399.74,Não,Viagens Longas
+12/03/2023,Aluguel Van Corporativa,3,608.67,1826.01,1245.95,580.06,Sim,Serviço Privado
+13/03/2023,Tour Búzios (Van),2,1251.74,2503.48,1638.41,865.07,Não,Viagens Longas
+13/03/2023,Aluguel Van Corporativa,2,1036.16,2072.32,1322.98,749.34,Sim,Serviço Privado
+13/03/2023,Passeio Cristo Redentor (Carro),3,1322.47,3967.41,2535.21,1432.2,Sim,Passeios Locais
+14/03/2023,Aluguel Van Corporativa,2,468.35,936.7,696.62,240.08,Não,Serviço Privado
+14/03/2023,Aluguel Carro Executivo,2,743.2,1486.4,926.9,559.5,Não,Serviço Privado
+14/03/2023,Passeio Cristo Redentor (Carro),2,1249.39,2498.78,1660.12,838.66,Sim,Passeios Locais
+14/03/2023,Tour Petrópolis (Carro),3,1226.25,3678.75,2449.39,1229.36,Sim,Viagens Longas
+14/03/2023,Tour Búzios (Van),3,810.86,2432.58,1594.59,837.99,Sim,Viagens Longas
+14/03/2023,Translado Aeroporto Galeão,3,741.83,2225.49,1531.76,693.73,Não,Translados
+14/03/2023,Translado Aeroporto Galeão,1,257.52,257.52,192.85,64.67,Não,Translados
+14/03/2023,Aluguel Carro Executivo,1,744.12,744.12,454.89,289.23,Não,Serviço Privado
+15/03/2023,Passeio Cristo Redentor (Carro),1,1168.45,1168.45,717.28,451.17,Não,Passeios Locais
+15/03/2023,Aluguel Carro Executivo,3,1035.24,3105.72,2038.85,1066.87,Não,Serviço Privado
+15/03/2023,Translado Aeroporto Galeão,2,1091.05,2182.1,1518.84,663.26,Não,Translados
+15/03/2023,Aluguel Van Corporativa,1,1396.59,1396.59,884.5,512.09,Sim,Serviço Privado
+15/03/2023,Aluguel Carro Executivo,2,226.89,453.78,273.99,179.79,Não,Serviço Privado
+15/03/2023,Tour Petrópolis (Carro),1,965.49,965.49,695.61,269.88,Não,Viagens Longas
+15/03/2023,Translado Aeroporto Galeão,3,1002.62,3007.86,2215.27,792.59,Não,Translados
+16/03/2023,Aluguel Carro Executivo,2,246.92,493.84,366.54,127.3,Não,Serviço Privado
+16/03/2023,Translado Aeroporto Galeão,3,1351.87,4055.61,2423.47,1632.14,Não,Translados
+16/03/2023,Translado Aeroporto Santos Dumont,1,180.83,180.83,103.82,77.01,Não,Translados
+16/03/2023,Passeio Pão de Açúcar (Carro),1,1015.73,1015.73,725.46,290.27,Não,Passeios Locais
+16/03/2023,Tour Arraial do Cabo (Van),2,1326.29,2652.58,1918.6,733.98,Sim,Viagens Longas
+16/03/2023,Aluguel Carro Executivo,2,1100.3,2200.6,1560.87,639.73,Não,Serviço Privado
+16/03/2023,Translado Aeroporto Santos Dumont,1,1412.0,1412.0,1020.0,392.0,Sim,Translados
+17/03/2023,Passeio Pão de Açúcar (Carro),1,340.5,340.5,189.69,150.81,Sim,Passeios Locais
+17/03/2023,Passeio Pão de Açúcar (Carro),3,1388.16,4164.48,2809.09,1355.39,Não,Passeios Locais
+17/03/2023,City Tour Completo (Van),3,916.35,2749.05,1790.72,958.33,Não,City Tour
+17/03/2023,City Tour Completo (Van),3,693.8,2081.4,1146.48,934.92,Não,City Tour
+17/03/2023,Tour Petrópolis (Carro),1,180.08,180.08,117.91,62.17,Não,Viagens Longas
+17/03/2023,Tour Petrópolis (Carro),2,726.69,1453.38,902.95,550.43,Sim,Viagens Longas
+17/03/2023,Tour Petrópolis (Carro),1,1367.79,1367.79,925.08,442.71,Não,Viagens Longas
+17/03/2023,Tour Petrópolis (Carro),1,1191.8,1191.8,757.24,434.56,Não,Viagens Longas
+18/03/2023,Passeio Cristo Redentor (Carro),2,530.68,1061.36,707.49,353.87,Não,Passeios Locais
+18/03/2023,Translado Aeroporto Galeão,3,1192.51,3577.53,2476.46,1101.07,Não,Translados
+18/03/2023,Tour Petrópolis (Carro),1,195.17,195.17,131.84,63.33,Não,Viagens Longas
+18/03/2023,Tour Petrópolis (Carro),1,539.61,539.61,357.74,181.87,Sim,Viagens Longas
+18/03/2023,Tour Arraial do Cabo (Van),3,964.45,2893.35,1600.01,1293.34,Não,Viagens Longas
+18/03/2023,Translado Aeroporto Santos Dumont,3,222.66,667.98,449.74,218.24,Não,Translados
+19/03/2023,Tour Arraial do Cabo (Van),1,1464.63,1464.63,849.89,614.74,Sim,Viagens Longas
+19/03/2023,Aluguel Van Corporativa,1,989.36,989.36,549.88,439.48,Não,Serviço Privado
+19/03/2023,City Tour Completo (Van),1,531.66,531.66,298.78,232.88,Não,City Tour
+19/03/2023,Aluguel Van Corporativa,2,537.29,1074.58,750.3,324.28,Sim,Serviço Privado
+19/03/2023,Passeio Pão de Açúcar (Carro),3,1152.9,3458.7,2303.75,1154.95,Sim,Passeios Locais
+20/03/2023,Translado Aeroporto Santos Dumont,3,1132.61,3397.83,2404.75,993.08,Sim,Translados
+20/03/2023,City Tour Completo (Van),2,592.66,1185.32,685.43,499.89,Não,City Tour
+20/03/2023,Tour Petrópolis (Carro),3,404.09,1212.27,672.14,540.13,Sim,Viagens Longas
+20/03/2023,Aluguel Carro Executivo,1,293.43,293.43,198.75,94.68,Não,Serviço Privado
+20/03/2023,Aluguel Carro Executivo,1,617.27,617.27,433.77,183.5,Não,Serviço Privado
+20/03/2023,Translado Aeroporto Santos Dumont,1,425.65,425.65,284.19,141.46,Sim,Translados
+20/03/2023,Translado Aeroporto Santos Dumont,3,1451.81,4355.43,2408.69,1946.74,Sim,Translados
+21/03/2023,Tour Búzios (Van),3,215.1,645.3,437.32,207.98,Sim,Viagens Longas
+21/03/2023,City Tour Completo (Van),3,314.98,944.94,667.11,277.83,Sim,City Tour
+21/03/2023,Tour Petrópolis (Carro),3,714.69,2144.07,1548.51,595.56,Sim,Viagens Longas
+21/03/2023,Tour Petrópolis (Carro),2,1319.46,2638.92,1733.98,904.94,Sim,Viagens Longas
+21/03/2023,Aluguel Van Corporativa,3,494.1,1482.3,889.84,592.46,Sim,Serviço Privado
+21/03/2023,Passeio Pão de Açúcar (Carro),3,875.15,2625.45,1798.66,826.79,Sim,Passeios Locais
+21/03/2023,Translado Aeroporto Santos Dumont,1,670.57,670.57,476.28,194.29,Sim,Translados
+22/03/2023,Tour Arraial do Cabo (Van),1,433.42,433.42,258.76,174.66,Não,Viagens Longas
+22/03/2023,Aluguel Carro Executivo,1,398.83,398.83,222.61,176.22,Sim,Serviço Privado
+22/03/2023,Tour Búzios (Van),2,344.81,689.62,436.06,253.56,Sim,Viagens Longas
+22/03/2023,Translado Aeroporto Galeão,3,944.39,2833.17,1903.22,929.95,Não,Translados
+22/03/2023,Tour Búzios (Van),2,278.18,556.36,317.91,238.45,Não,Viagens Longas
+22/03/2023,Tour Arraial do Cabo (Van),3,1183.67,3551.01,2536.63,1014.38,Não,Viagens Longas
+22/03/2023,Passeio Pão de Açúcar (Carro),1,743.0,743.0,469.98,273.02,Não,Passeios Locais
+23/03/2023,Passeio Cristo Redentor (Carro),1,691.37,691.37,435.64,255.73,Sim,Passeios Locais
+23/03/2023,Translado Aeroporto Santos Dumont,1,1285.05,1285.05,794.4,490.65,Sim,Translados
+23/03/2023,Tour Petrópolis (Carro),3,1047.91,3143.73,1884.01,1259.72,Não,Viagens Longas
+23/03/2023,Aluguel Carro Executivo,3,586.89,1760.67,1312.24,448.43,Não,Serviço Privado
+23/03/2023,Tour Petrópolis (Carro),2,1454.55,2909.1,1838.95,1070.15,Não,Viagens Longas
+23/03/2023,City Tour Completo (Van),2,421.03,842.06,507.83,334.23,Não,City Tour
+23/03/2023,City Tour Completo (Van),1,209.58,209.58,130.87,78.71,Sim,City Tour
+24/03/2023,Translado Aeroporto Galeão,1,495.65,495.65,359.18,136.47,Sim,Translados
+24/03/2023,Tour Búzios (Van),2,761.74,1523.48,1001.78,521.7,Sim,Viagens Longas
+24/03/2023,Tour Arraial do Cabo (Van),3,1163.29,3489.87,2166.08,1323.79,Não,Viagens Longas
+24/03/2023,Aluguel Carro Executivo,1,518.94,518.94,291.96,226.98,Não,Serviço Privado
+25/03/2023,Passeio Cristo Redentor (Carro),1,1178.6,1178.6,778.18,400.42,Sim,Passeios Locais
+25/03/2023,Aluguel Carro Executivo,2,366.52,733.04,440.26,292.78,Não,Serviço Privado
+25/03/2023,Passeio Cristo Redentor (Carro),1,890.25,890.25,507.89,382.36,Sim,Passeios Locais
+25/03/2023,Translado Aeroporto Santos Dumont,3,307.99,923.97,647.95,276.02,Não,Translados
+25/03/2023,Aluguel Van Corporativa,3,1048.91,3146.73,2222.52,924.21,Não,Serviço Privado
+25/03/2023,Tour Arraial do Cabo (Van),3,1138.66,3415.98,2272.27,1143.71,Não,Viagens Longas
+25/03/2023,Tour Búzios (Van),2,1000.67,2001.34,1175.64,825.7,Não,Viagens Longas
+26/03/2023,Translado Aeroporto Galeão,2,859.15,1718.3,1094.39,623.91,Não,Translados
+26/03/2023,Tour Búzios (Van),2,1072.56,2145.12,1400.43,744.69,Sim,Viagens Longas
+26/03/2023,Tour Petrópolis (Carro),3,624.74,1874.22,1206.93,667.29,Sim,Viagens Longas
+26/03/2023,Passeio Pão de Açúcar (Carro),2,759.82,1519.64,881.89,637.75,Sim,Passeios Locais
+26/03/2023,Translado Aeroporto Galeão,3,507.9,1523.7,936.6,587.1,Não,Translados
+26/03/2023,Tour Búzios (Van),3,300.24,900.72,534.44,366.28,Não,Viagens Longas
+26/03/2023,Passeio Cristo Redentor (Carro),2,767.45,1534.9,1013.84,521.06,Não,Passeios Locais
+27/03/2023,Passeio Pão de Açúcar (Carro),2,1087.4,2174.8,1346.71,828.09,Não,Passeios Locais
+27/03/2023,Tour Búzios (Van),1,1157.49,1157.49,731.4,426.09,Sim,Viagens Longas
+27/03/2023,City Tour Completo (Van),2,1243.47,2486.94,1409.98,1076.96,Não,City Tour
+27/03/2023,Translado Aeroporto Galeão,1,1275.34,1275.34,791.31,484.03,Sim,Translados
+27/03/2023,Tour Búzios (Van),1,1256.33,1256.33,870.61,385.72,Sim,Viagens Longas
+27/03/2023,Aluguel Carro Executivo,1,1165.12,1165.12,869.34,295.78,Sim,Serviço Privado
+27/03/2023,Translado Aeroporto Galeão,3,724.04,2172.12,1303.61,868.51,Não,Translados
+28/03/2023,Tour Arraial do Cabo (Van),2,1497.35,2994.7,2209.61,785.09,Não,Viagens Longas
+28/03/2023,Tour Búzios (Van),3,529.03,1587.09,949.61,637.48,Não,Viagens Longas
+28/03/2023,Tour Petrópolis (Carro),2,1460.9,2921.8,1748.95,1172.85,Não,Viagens Longas
+28/03/2023,Translado Aeroporto Santos Dumont,1,1227.16,1227.16,812.83,414.33,Sim,Translados
+28/03/2023,Tour Petrópolis (Carro),1,675.39,675.39,412.8,262.59,Não,Viagens Longas
+28/03/2023,Tour Arraial do Cabo (Van),2,475.24,950.48,708.39,242.09,Não,Viagens Longas
+28/03/2023,Tour Búzios (Van),3,194.4,583.2,392.49,190.71,Sim,Viagens Longas
+28/03/2023,City Tour Completo (Van),2,370.75,741.5,463.25,278.25,Sim,City Tour
+29/03/2023,Aluguel Van Corporativa,3,427.95,1283.85,766.41,517.44,Sim,Serviço Privado
+29/03/2023,Tour Arraial do Cabo (Van),2,1124.8,2249.6,1587.81,661.79,Não,Viagens Longas
+29/03/2023,Tour Petrópolis (Carro),1,757.53,757.53,553.13,204.4,Não,Viagens Longas
+29/03/2023,Passeio Cristo Redentor (Carro),3,728.74,2186.22,1219.4,966.82,Não,Passeios Locais
+29/03/2023,Passeio Cristo Redentor (Carro),1,1116.22,1116.22,761.4,354.82,Não,Passeios Locais
+29/03/2023,City Tour Completo (Van),1,733.0,733.0,479.72,253.28,Não,City Tour
+29/03/2023,Passeio Cristo Redentor (Carro),2,478.89,957.78,549.36,408.42,Não,Passeios Locais
+29/03/2023,Passeio Cristo Redentor (Carro),3,737.84,2213.52,1441.52,772.0,Não,Passeios Locais
+30/03/2023,Tour Búzios (Van),2,978.15,1956.3,1461.56,494.74,Não,Viagens Longas
+30/03/2023,Passeio Pão de Açúcar (Carro),3,810.96,2432.88,1707.9,724.98,Não,Passeios Locais
+30/03/2023,Aluguel Carro Executivo,2,1312.18,2624.36,1556.87,1067.49,Não,Serviço Privado
+30/03/2023,Tour Petrópolis (Carro),3,1101.52,3304.56,2333.17,971.39,Não,Viagens Longas
+30/03/2023,Passeio Pão de Açúcar (Carro),1,484.54,484.54,292.2,192.34,Não,Passeios Locais
+30/03/2023,Passeio Cristo Redentor (Carro),3,828.37,2485.11,1787.75,697.36,Sim,Passeios Locais
+30/03/2023,Translado Aeroporto Galeão,1,261.08,261.08,158.71,102.37,Sim,Translados
+30/03/2023,Aluguel Carro Executivo,3,608.38,1825.14,1205.73,619.41,Sim,Serviço Privado
+31/03/2023,Translado Aeroporto Santos Dumont,2,605.69,1211.38,764.81,446.57,Sim,Translados
+31/03/2023,Aluguel Van Corporativa,3,1047.54,3142.62,2284.33,858.29,Sim,Serviço Privado
+31/03/2023,Tour Petrópolis (Carro),1,1244.28,1244.28,744.9,499.38,Sim,Viagens Longas
+31/03/2023,Translado Aeroporto Santos Dumont,2,1411.27,2822.54,1772.44,1050.1,Sim,Translados
+31/03/2023,Tour Petrópolis (Carro),2,1303.59,2607.18,1484.56,1122.62,Não,Viagens Longas
+01/04/2023,Aluguel Carro Executivo,3,1376.41,4129.23,3010.83,1118.4,Sim,Serviço Privado
+01/04/2023,Aluguel Van Corporativa,2,274.98,549.96,409.54,140.42,Não,Serviço Privado
+01/04/2023,Passeio Pão de Açúcar (Carro),2,1414.81,2829.62,1558.11,1271.51,Não,Passeios Locais
+02/04/2023,Translado Aeroporto Santos Dumont,3,1295.84,3887.52,2516.02,1371.5,Não,Translados
+02/04/2023,Tour Arraial do Cabo (Van),2,1327.57,2655.14,1462.14,1193.0,Sim,Viagens Longas
+02/04/2023,Passeio Cristo Redentor (Carro),1,1071.64,1071.64,681.09,390.55,Não,Passeios Locais
+02/04/2023,Tour Petrópolis (Carro),2,877.51,1755.02,1224.3,530.72,Sim,Viagens Longas
+02/04/2023,Aluguel Van Corporativa,1,784.89,784.89,435.83,349.06,Sim,Serviço Privado
+02/04/2023,Translado Aeroporto Santos Dumont,3,442.81,1328.43,909.78,418.65,Não,Translados
+02/04/2023,City Tour Completo (Van),2,227.82,455.64,283.59,172.05,Não,City Tour
+03/04/2023,Passeio Cristo Redentor (Carro),3,322.41,967.23,680.7,286.53,Sim,Passeios Locais
+03/04/2023,Passeio Cristo Redentor (Carro),2,1438.38,2876.76,1754.63,1122.13,Não,Passeios Locais
+03/04/2023,Passeio Cristo Redentor (Carro),3,530.94,1592.82,887.42,705.4,Não,Passeios Locais
+03/04/2023,Aluguel Carro Executivo,1,521.62,521.62,341.44,180.18,Sim,Serviço Privado
+03/04/2023,Tour Arraial do Cabo (Van),1,881.53,881.53,550.21,331.32,Não,Viagens Longas
+03/04/2023,Tour Búzios (Van),2,603.95,1207.9,771.93,435.97,Sim,Viagens Longas
+04/04/2023,Tour Petrópolis (Carro),2,921.74,1843.48,1174.93,668.55,Sim,Viagens Longas
+04/04/2023,Tour Petrópolis (Carro),3,1043.02,3129.06,1910.63,1218.43,Sim,Viagens Longas
+04/04/2023,Passeio Cristo Redentor (Carro),1,845.28,845.28,490.51,354.77,Não,Passeios Locais
+04/04/2023,Translado Aeroporto Santos Dumont,2,1048.06,2096.12,1222.95,873.17,Não,Translados
+04/04/2023,Passeio Pão de Açúcar (Carro),3,1142.29,3426.87,2383.0,1043.87,Não,Passeios Locais
+05/04/2023,City Tour Completo (Van),3,941.48,2824.44,2099.85,724.59,Não,City Tour
+05/04/2023,Translado Aeroporto Santos Dumont,1,1042.12,1042.12,604.19,437.93,Sim,Translados
+05/04/2023,City Tour Completo (Van),1,325.3,325.3,205.84,119.46,Não,City Tour
+05/04/2023,Tour Arraial do Cabo (Van),2,1227.94,2455.88,1583.46,872.42,Sim,Viagens Longas
+05/04/2023,Passeio Cristo Redentor (Carro),3,416.48,1249.44,833.04,416.4,Não,Passeios Locais
+05/04/2023,Tour Arraial do Cabo (Van),2,932.16,1864.32,1156.51,707.81,Não,Viagens Longas
+05/04/2023,Tour Búzios (Van),2,1460.2,2920.4,2160.6,759.8,Não,Viagens Longas
+06/04/2023,Passeio Cristo Redentor (Carro),3,264.44,793.32,575.76,217.56,Não,Passeios Locais
+06/04/2023,Tour Búzios (Van),3,152.55,457.65,288.47,169.18,Sim,Viagens Longas
+06/04/2023,City Tour Completo (Van),3,1062.18,3186.54,1969.95,1216.59,Sim,City Tour
+06/04/2023,Tour Búzios (Van),1,1018.69,1018.69,584.2,434.49,Não,Viagens Longas
+07/04/2023,Translado Aeroporto Santos Dumont,1,469.82,469.82,292.01,177.81,Não,Translados
+07/04/2023,Tour Búzios (Van),1,1127.83,1127.83,637.62,490.21,Não,Viagens Longas
+07/04/2023,Tour Petrópolis (Carro),1,1295.74,1295.74,799.34,496.4,Não,Viagens Longas
+07/04/2023,Tour Búzios (Van),2,207.54,415.08,233.07,182.01,Não,Viagens Longas
+07/04/2023,Tour Arraial do Cabo (Van),3,927.65,2782.95,1942.72,840.23,Não,Viagens Longas
+07/04/2023,Passeio Cristo Redentor (Carro),1,218.77,218.77,153.75,65.02,Não,Passeios Locais
+07/04/2023,Tour Arraial do Cabo (Van),1,951.81,951.81,605.7,346.11,Sim,Viagens Longas
+08/04/2023,Tour Petrópolis (Carro),1,421.27,421.27,264.21,157.06,Sim,Viagens Longas
+08/04/2023,Tour Petrópolis (Carro),1,886.32,886.32,531.41,354.91,Não,Viagens Longas
+08/04/2023,Passeio Pão de Açúcar (Carro),1,1236.93,1236.93,696.68,540.25,Sim,Passeios Locais
+09/04/2023,Passeio Pão de Açúcar (Carro),2,754.29,1508.58,993.73,514.85,Não,Passeios Locais
+09/04/2023,Passeio Pão de Açúcar (Carro),2,1020.67,2041.34,1370.51,670.83,Não,Passeios Locais
+09/04/2023,Tour Petrópolis (Carro),1,806.19,806.19,557.37,248.82,Sim,Viagens Longas
+09/04/2023,Aluguel Van Corporativa,2,457.16,914.32,617.96,296.36,Não,Serviço Privado
+09/04/2023,Aluguel Van Corporativa,1,1327.68,1327.68,877.67,450.01,Não,Serviço Privado
+09/04/2023,Tour Petrópolis (Carro),1,262.59,262.59,144.44,118.15,Não,Viagens Longas
+10/04/2023,Passeio Cristo Redentor (Carro),3,967.4,2902.2,1957.07,945.13,Não,Passeios Locais
+10/04/2023,Tour Arraial do Cabo (Van),1,939.02,939.02,624.52,314.5,Sim,Viagens Longas
+10/04/2023,Aluguel Carro Executivo,2,1269.14,2538.28,1820.76,717.52,Sim,Serviço Privado
+11/04/2023,Aluguel Carro Executivo,1,558.18,558.18,386.21,171.97,Sim,Serviço Privado
+11/04/2023,Aluguel Carro Executivo,1,354.26,354.26,198.91,155.35,Não,Serviço Privado
+11/04/2023,City Tour Completo (Van),1,452.25,452.25,326.13,126.12,Sim,City Tour
+11/04/2023,Passeio Pão de Açúcar (Carro),1,1275.09,1275.09,905.46,369.63,Não,Passeios Locais
+11/04/2023,Tour Arraial do Cabo (Van),3,587.53,1762.59,1234.22,528.37,Sim,Viagens Longas
+12/04/2023,Aluguel Carro Executivo,3,280.23,840.69,584.19,256.5,Não,Serviço Privado
+12/04/2023,Passeio Cristo Redentor (Carro),3,1110.16,3330.48,1913.14,1417.34,Sim,Passeios Locais
+12/04/2023,Tour Petrópolis (Carro),3,580.32,1740.96,1287.38,453.58,Sim,Viagens Longas
+12/04/2023,Aluguel Van Corporativa,2,917.61,1835.22,1252.88,582.34,Sim,Serviço Privado
+12/04/2023,Passeio Cristo Redentor (Carro),2,718.21,1436.42,902.2,534.22,Sim,Passeios Locais
+12/04/2023,Tour Arraial do Cabo (Van),1,235.48,235.48,131.61,103.87,Não,Viagens Longas
+13/04/2023,Translado Aeroporto Santos Dumont,2,622.28,1244.56,909.09,335.47,Não,Translados
+13/04/2023,Tour Petrópolis (Carro),2,394.67,789.34,508.33,281.01,Não,Viagens Longas
+13/04/2023,City Tour Completo (Van),1,992.99,992.99,685.61,307.38,Não,City Tour
+13/04/2023,Translado Aeroporto Galeão,1,1298.16,1298.16,906.72,391.44,Sim,Translados
+13/04/2023,Passeio Cristo Redentor (Carro),1,1135.51,1135.51,739.54,395.97,Não,Passeios Locais
+13/04/2023,Aluguel Carro Executivo,2,664.74,1329.48,844.78,484.7,Não,Serviço Privado
+13/04/2023,City Tour Completo (Van),1,514.74,514.74,320.26,194.48,Não,City Tour
+13/04/2023,City Tour Completo (Van),2,1257.28,2514.56,1702.79,811.77,Sim,City Tour
+14/04/2023,Translado Aeroporto Santos Dumont,1,1254.02,1254.02,731.99,522.03,Sim,Translados
+14/04/2023,Passeio Cristo Redentor (Carro),3,1483.85,4451.55,2809.79,1641.76,Sim,Passeios Locais
+14/04/2023,Tour Búzios (Van),3,896.17,2688.51,1620.34,1068.17,Sim,Viagens Longas
+14/04/2023,Translado Aeroporto Santos Dumont,2,1468.15,2936.3,1672.66,1263.64,Não,Translados
+14/04/2023,Tour Arraial do Cabo (Van),3,251.12,753.36,490.43,262.93,Não,Viagens Longas
+14/04/2023,Aluguel Van Corporativa,2,1042.19,2084.38,1415.06,669.32,Não,Serviço Privado
+14/04/2023,Aluguel Carro Executivo,3,517.37,1552.11,975.76,576.35,Sim,Serviço Privado
+14/04/2023,Tour Petrópolis (Carro),2,1326.46,2652.92,1960.03,692.89,Sim,Viagens Longas
+15/04/2023,Aluguel Carro Executivo,1,736.67,736.67,408.59,328.08,Não,Serviço Privado
+15/04/2023,Passeio Pão de Açúcar (Carro),2,205.8,411.6,229.99,181.61,Não,Passeios Locais
+15/04/2023,Tour Búzios (Van),3,1475.38,4426.14,3026.79,1399.35,Não,Viagens Longas
+16/04/2023,Aluguel Carro Executivo,1,851.87,851.87,597.12,254.75,Não,Serviço Privado
+16/04/2023,Aluguel Van Corporativa,3,1236.12,3708.36,2061.46,1646.9,Sim,Serviço Privado
+16/04/2023,Tour Búzios (Van),2,1430.61,2861.22,2091.36,769.86,Sim,Viagens Longas
+16/04/2023,Translado Aeroporto Galeão,1,1107.96,1107.96,724.66,383.3,Não,Translados
+16/04/2023,Aluguel Van Corporativa,2,1460.2,2920.4,2011.8,908.6,Sim,Serviço Privado
+17/04/2023,Tour Petrópolis (Carro),1,1178.84,1178.84,750.25,428.59,Sim,Viagens Longas
+17/04/2023,Translado Aeroporto Galeão,2,730.11,1460.22,933.55,526.67,Não,Translados
+17/04/2023,Tour Búzios (Van),3,191.77,575.31,398.71,176.6,Sim,Viagens Longas
+18/04/2023,Translado Aeroporto Santos Dumont,2,842.11,1684.22,1193.2,491.02,Não,Translados
+18/04/2023,Aluguel Carro Executivo,3,482.92,1448.76,959.31,489.45,Sim,Serviço Privado
+18/04/2023,Tour Búzios (Van),2,1173.96,2347.92,1523.31,824.61,Sim,Viagens Longas
+18/04/2023,Aluguel Van Corporativa,3,929.99,2789.97,1860.34,929.63,Sim,Serviço Privado
+18/04/2023,Passeio Cristo Redentor (Carro),3,300.53,901.59,576.93,324.66,Não,Passeios Locais
+18/04/2023,Translado Aeroporto Santos Dumont,2,201.04,402.08,221.4,180.68,Não,Translados
+19/04/2023,Tour Búzios (Van),3,1409.43,4228.29,2633.73,1594.56,Sim,Viagens Longas
+19/04/2023,Tour Arraial do Cabo (Van),3,680.97,2042.91,1263.05,779.86,Sim,Viagens Longas
+19/04/2023,Tour Arraial do Cabo (Van),1,1031.7,1031.7,623.88,407.82,Não,Viagens Longas
+19/04/2023,Aluguel Carro Executivo,1,1341.25,1341.25,837.67,503.58,Não,Serviço Privado
+19/04/2023,Passeio Pão de Açúcar (Carro),3,1310.52,3931.56,2835.52,1096.04,Não,Passeios Locais
+20/04/2023,Passeio Cristo Redentor (Carro),2,438.49,876.98,576.61,300.37,Não,Passeios Locais
+20/04/2023,Tour Búzios (Van),1,204.87,204.87,118.54,86.33,Sim,Viagens Longas
+20/04/2023,Tour Petrópolis (Carro),2,801.07,1602.14,946.12,656.02,Não,Viagens Longas
+20/04/2023,Aluguel Carro Executivo,2,506.32,1012.64,756.08,256.56,Sim,Serviço Privado
+20/04/2023,Translado Aeroporto Galeão,1,744.49,744.49,498.4,246.09,Não,Translados
+20/04/2023,Aluguel Carro Executivo,1,1418.23,1418.23,850.84,567.39,Não,Serviço Privado
+20/04/2023,Translado Aeroporto Galeão,2,1487.6,2975.2,1928.39,1046.81,Não,Translados
+21/04/2023,Passeio Cristo Redentor (Carro),2,191.2,382.4,215.94,166.46,Não,Passeios Locais
+21/04/2023,Aluguel Van Corporativa,2,634.75,1269.5,825.13,444.37,Não,Serviço Privado
+21/04/2023,Translado Aeroporto Santos Dumont,1,1052.08,1052.08,682.33,369.75,Sim,Translados
+21/04/2023,City Tour Completo (Van),1,1470.94,1470.94,936.13,534.81,Sim,City Tour
+21/04/2023,Aluguel Van Corporativa,2,764.48,1528.96,958.22,570.74,Sim,Serviço Privado
+21/04/2023,City Tour Completo (Van),2,1310.93,2621.86,1739.43,882.43,Não,City Tour
+22/04/2023,Translado Aeroporto Galeão,2,1439.08,2878.16,1669.09,1209.07,Não,Translados
+22/04/2023,Tour Petrópolis (Carro),2,665.07,1330.14,808.61,521.53,Sim,Viagens Longas
+22/04/2023,Aluguel Carro Executivo,1,923.14,923.14,566.77,356.37,Não,Serviço Privado
+22/04/2023,Tour Arraial do Cabo (Van),1,174.26,174.26,95.85,78.41,Não,Viagens Longas
+22/04/2023,Translado Aeroporto Galeão,2,855.69,1711.38,1069.61,641.77,Não,Translados
+22/04/2023,Translado Aeroporto Santos Dumont,3,723.81,2171.43,1266.37,905.06,Sim,Translados
+23/04/2023,City Tour Completo (Van),1,1374.59,1374.59,985.74,388.85,Não,City Tour
+23/04/2023,Tour Arraial do Cabo (Van),3,180.3,540.9,394.04,146.86,Não,Viagens Longas
+23/04/2023,Passeio Pão de Açúcar (Carro),3,403.37,1210.11,730.91,479.2,Sim,Passeios Locais
+23/04/2023,Tour Petrópolis (Carro),1,196.74,196.74,135.02,61.72,Não,Viagens Longas
+23/04/2023,Translado Aeroporto Santos Dumont,2,298.34,596.68,427.15,169.53,Não,Translados
+23/04/2023,Translado Aeroporto Galeão,3,1086.53,3259.59,2168.5,1091.09,Não,Translados
+23/04/2023,Tour Petrópolis (Carro),3,388.32,1164.96,851.16,313.8,Sim,Viagens Longas
+23/04/2023,Translado Aeroporto Galeão,2,1051.09,2102.18,1540.78,561.4,Não,Translados
+24/04/2023,City Tour Completo (Van),3,151.8,455.4,313.24,142.16,Não,City Tour
+24/04/2023,Tour Búzios (Van),1,779.46,779.46,492.83,286.63,Não,Viagens Longas
+24/04/2023,Tour Búzios (Van),2,431.4,862.8,583.65,279.15,Sim,Viagens Longas
+24/04/2023,Translado Aeroporto Galeão,3,1039.9,3119.7,1895.8,1223.9,Não,Translados
+24/04/2023,Tour Búzios (Van),2,1144.14,2288.28,1298.92,989.36,Sim,Viagens Longas
+25/04/2023,Tour Petrópolis (Carro),1,702.72,702.72,461.89,240.83,Não,Viagens Longas
+25/04/2023,Tour Petrópolis (Carro),3,1444.8,4334.4,3162.59,1171.81,Não,Viagens Longas
+25/04/2023,Translado Aeroporto Santos Dumont,2,425.89,851.78,580.66,271.12,Não,Translados
+25/04/2023,Tour Arraial do Cabo (Van),2,1104.16,2208.32,1283.78,924.54,Sim,Viagens Longas
+25/04/2023,Tour Petrópolis (Carro),2,1227.16,2454.32,1533.61,920.71,Sim,Viagens Longas
+25/04/2023,Translado Aeroporto Galeão,1,562.78,562.78,315.9,246.88,Sim,Translados
+25/04/2023,Translado Aeroporto Santos Dumont,1,462.7,462.7,319.4,143.3,Não,Translados
+25/04/2023,Passeio Pão de Açúcar (Carro),1,219.35,219.35,140.57,78.78,Não,Passeios Locais
+26/04/2023,Translado Aeroporto Santos Dumont,1,1349.19,1349.19,989.06,360.13,Não,Translados
+26/04/2023,Aluguel Van Corporativa,1,792.14,792.14,511.06,281.08,Sim,Serviço Privado
+26/04/2023,City Tour Completo (Van),2,1112.92,2225.84,1525.01,700.83,Sim,City Tour
+27/04/2023,Translado Aeroporto Galeão,2,354.08,708.16,405.74,302.42,Não,Translados
+27/04/2023,Aluguel Van Corporativa,3,325.53,976.59,718.45,258.14,Sim,Serviço Privado
+27/04/2023,Aluguel Van Corporativa,3,1063.83,3191.49,2339.73,851.76,Sim,Serviço Privado
+27/04/2023,Translado Aeroporto Galeão,2,1224.06,2448.12,1407.47,1040.65,Não,Translados
+28/04/2023,City Tour Completo (Van),1,355.59,355.59,230.21,125.38,Não,City Tour
+28/04/2023,Translado Aeroporto Santos Dumont,1,705.99,705.99,512.87,193.12,Não,Translados
+28/04/2023,City Tour Completo (Van),2,833.99,1667.98,1040.12,627.86,Não,City Tour
+28/04/2023,Tour Arraial do Cabo (Van),1,910.08,910.08,657.72,252.36,Não,Viagens Longas
+28/04/2023,Tour Petrópolis (Carro),3,1180.84,3542.52,2478.36,1064.16,Sim,Viagens Longas
+29/04/2023,Aluguel Van Corporativa,3,1413.18,4239.54,2796.85,1442.69,Sim,Serviço Privado
+29/04/2023,Translado Aeroporto Santos Dumont,2,169.72,339.44,187.23,152.21,Sim,Translados
+29/04/2023,Aluguel Carro Executivo,1,767.72,767.72,514.53,253.19,Não,Serviço Privado
+30/04/2023,City Tour Completo (Van),3,505.77,1517.31,1033.77,483.54,Não,City Tour
+30/04/2023,Passeio Pão de Açúcar (Carro),2,1162.95,2325.9,1402.9,923.0,Não,Passeios Locais
+30/04/2023,Tour Búzios (Van),1,937.63,937.63,587.61,350.02,Sim,Viagens Longas
+30/04/2023,Tour Búzios (Van),3,714.36,2143.08,1321.02,822.06,Sim,Viagens Longas
+30/04/2023,Aluguel Carro Executivo,3,949.55,2848.65,1579.28,1269.37,Não,Serviço Privado
+30/04/2023,Passeio Pão de Açúcar (Carro),3,645.09,1935.27,1161.45,773.82,Não,Passeios Locais
+01/05/2023,Translado Aeroporto Galeão,1,1289.52,1289.52,872.82,416.7,Sim,Translados
+01/05/2023,Translado Aeroporto Galeão,2,1406.47,2812.94,1693.6,1119.34,Sim,Translados
+01/05/2023,Aluguel Carro Executivo,1,907.64,907.64,635.0,272.64,Não,Serviço Privado
+01/05/2023,Aluguel Van Corporativa,3,1008.59,3025.77,1913.59,1112.18,Não,Serviço Privado
+01/05/2023,Aluguel Carro Executivo,3,1007.03,3021.09,2159.58,861.51,Sim,Serviço Privado
+01/05/2023,Tour Arraial do Cabo (Van),1,719.95,719.95,437.5,282.45,Sim,Viagens Longas
+01/05/2023,City Tour Completo (Van),3,1375.44,4126.32,2701.92,1424.4,Não,City Tour
+02/05/2023,Passeio Pão de Açúcar (Carro),1,256.07,256.07,164.98,91.09,Não,Passeios Locais
+02/05/2023,Translado Aeroporto Galeão,3,963.96,2891.88,1621.83,1270.05,Não,Translados
+02/05/2023,Tour Petrópolis (Carro),3,984.22,2952.66,1819.59,1133.07,Não,Viagens Longas
+02/05/2023,Passeio Pão de Açúcar (Carro),2,1071.76,2143.52,1602.9,540.62,Não,Passeios Locais
+02/05/2023,Aluguel Van Corporativa,1,389.43,389.43,251.09,138.34,Não,Serviço Privado
+02/05/2023,Tour Petrópolis (Carro),3,203.28,609.84,366.54,243.3,Não,Viagens Longas
+02/05/2023,Tour Búzios (Van),1,1008.57,1008.57,722.75,285.82,Não,Viagens Longas
+02/05/2023,Translado Aeroporto Santos Dumont,1,1191.49,1191.49,791.39,400.1,Não,Translados
+03/05/2023,Translado Aeroporto Santos Dumont,1,554.15,554.15,361.61,192.54,Não,Translados
+03/05/2023,Tour Búzios (Van),2,605.59,1211.18,681.25,529.93,Não,Viagens Longas
+03/05/2023,Tour Arraial do Cabo (Van),3,899.47,2698.41,1935.45,762.96,Sim,Viagens Longas
+03/05/2023,Tour Petrópolis (Carro),1,1491.29,1491.29,1056.32,434.97,Não,Viagens Longas
+04/05/2023,Tour Arraial do Cabo (Van),2,227.08,454.16,307.78,146.38,Sim,Viagens Longas
+04/05/2023,Translado Aeroporto Santos Dumont,1,859.58,859.58,478.29,381.29,Não,Translados
+04/05/2023,Aluguel Van Corporativa,2,876.17,1752.34,966.03,786.31,Não,Serviço Privado
+05/05/2023,Tour Búzios (Van),3,594.9,1784.7,1223.19,561.51,Não,Viagens Longas
+05/05/2023,Tour Búzios (Van),2,505.29,1010.58,626.95,383.63,Não,Viagens Longas
+05/05/2023,Tour Búzios (Van),1,768.26,768.26,501.16,267.1,Não,Viagens Longas
+05/05/2023,Aluguel Van Corporativa,3,986.89,2960.67,1785.11,1175.56,Sim,Serviço Privado
+05/05/2023,Passeio Cristo Redentor (Carro),2,1119.0,2238.0,1450.33,787.67,Não,Passeios Locais
+05/05/2023,Tour Petrópolis (Carro),1,250.72,250.72,151.2,99.52,Não,Viagens Longas
+05/05/2023,Aluguel Van Corporativa,1,390.96,390.96,278.3,112.66,Não,Serviço Privado
+06/05/2023,Aluguel Van Corporativa,2,1482.45,2964.9,2214.31,750.59,Não,Serviço Privado
+06/05/2023,City Tour Completo (Van),1,1121.59,1121.59,727.92,393.67,Não,City Tour
+06/05/2023,Aluguel Van Corporativa,2,753.3,1506.6,868.22,638.38,Sim,Serviço Privado
+06/05/2023,Translado Aeroporto Galeão,1,1064.62,1064.62,793.84,270.78,Não,Translados
+06/05/2023,Translado Aeroporto Santos Dumont,1,1069.56,1069.56,613.44,456.12,Sim,Translados
+06/05/2023,Passeio Cristo Redentor (Carro),1,448.07,448.07,276.86,171.21,Não,Passeios Locais
+06/05/2023,City Tour Completo (Van),1,238.02,238.02,140.04,97.98,Não,City Tour
+06/05/2023,Passeio Cristo Redentor (Carro),2,844.35,1688.7,1161.86,526.84,Sim,Passeios Locais
+07/05/2023,Translado Aeroporto Santos Dumont,2,1293.04,2586.08,1558.55,1027.53,Não,Translados
+07/05/2023,Aluguel Van Corporativa,3,505.86,1517.58,925.77,591.81,Sim,Serviço Privado
+07/05/2023,Passeio Cristo Redentor (Carro),3,754.92,2264.76,1457.93,806.83,Não,Passeios Locais
+08/05/2023,Tour Petrópolis (Carro),2,1373.79,2747.58,1783.07,964.51,Sim,Viagens Longas
+08/05/2023,Passeio Pão de Açúcar (Carro),3,1129.24,3387.72,2419.41,968.31,Não,Passeios Locais
+08/05/2023,Tour Arraial do Cabo (Van),1,812.91,812.91,535.12,277.79,Não,Viagens Longas
+08/05/2023,Tour Petrópolis (Carro),3,1484.84,4454.52,2953.04,1501.48,Sim,Viagens Longas
+08/05/2023,Tour Búzios (Van),1,825.73,825.73,576.46,249.27,Não,Viagens Longas
+08/05/2023,Tour Petrópolis (Carro),2,1459.87,2919.74,2152.64,767.1,Sim,Viagens Longas
+08/05/2023,Passeio Pão de Açúcar (Carro),2,1457.93,2915.86,2041.6,874.26,Sim,Passeios Locais
+09/05/2023,Translado Aeroporto Santos Dumont,3,350.96,1052.88,604.46,448.42,Sim,Translados
+09/05/2023,Translado Aeroporto Galeão,1,1161.92,1161.92,779.69,382.23,Não,Translados
+09/05/2023,Tour Búzios (Van),1,1246.77,1246.77,731.88,514.89,Sim,Viagens Longas
+10/05/2023,Passeio Cristo Redentor (Carro),2,1215.35,2430.7,1514.97,915.73,Sim,Passeios Locais
+10/05/2023,Tour Arraial do Cabo (Van),2,394.69,789.38,563.72,225.66,Não,Viagens Longas
+10/05/2023,Tour Petrópolis (Carro),3,470.41,1411.23,794.17,617.06,Não,Viagens Longas
+10/05/2023,Aluguel Carro Executivo,2,1385.78,2771.56,1839.1,932.46,Não,Serviço Privado
+10/05/2023,Passeio Pão de Açúcar (Carro),1,918.94,918.94,520.59,398.35,Não,Passeios Locais
+11/05/2023,Translado Aeroporto Santos Dumont,1,992.03,992.03,673.4,318.63,Não,Translados
+11/05/2023,Aluguel Carro Executivo,2,1067.83,2135.66,1420.38,715.28,Não,Serviço Privado
+11/05/2023,Aluguel Van Corporativa,2,1234.74,2469.48,1738.79,730.69,Sim,Serviço Privado
+12/05/2023,Aluguel Van Corporativa,3,1160.91,3482.73,2312.92,1169.81,Não,Serviço Privado
+12/05/2023,Translado Aeroporto Galeão,2,574.38,1148.76,848.02,300.74,Não,Translados
+12/05/2023,Passeio Cristo Redentor (Carro),2,703.79,1407.58,1039.73,367.85,Não,Passeios Locais
+12/05/2023,Tour Petrópolis (Carro),3,956.82,2870.46,1957.52,912.94,Não,Viagens Longas
+12/05/2023,Tour Arraial do Cabo (Van),1,464.79,464.79,325.06,139.73,Sim,Viagens Longas
+12/05/2023,Passeio Cristo Redentor (Carro),2,981.55,1963.1,1080.44,882.66,Não,Passeios Locais
+12/05/2023,Tour Búzios (Van),2,782.99,1565.98,1142.94,423.04,Não,Viagens Longas
+13/05/2023,Aluguel Van Corporativa,2,1121.88,2243.76,1663.41,580.35,Não,Serviço Privado
+13/05/2023,City Tour Completo (Van),1,1058.81,1058.81,704.83,353.98,Não,City Tour
+13/05/2023,Tour Petrópolis (Carro),1,1196.64,1196.64,759.21,437.43,Não,Viagens Longas
+13/05/2023,City Tour Completo (Van),1,793.71,793.71,516.94,276.77,Sim,City Tour
+14/05/2023,Tour Arraial do Cabo (Van),3,662.18,1986.54,1470.82,515.72,Sim,Viagens Longas
+14/05/2023,Translado Aeroporto Galeão,1,255.59,255.59,152.23,103.36,Sim,Translados
+14/05/2023,Aluguel Carro Executivo,3,286.14,858.42,537.02,321.4,Não,Serviço Privado
+14/05/2023,Aluguel Carro Executivo,3,301.51,904.53,635.21,269.32,Não,Serviço Privado
+15/05/2023,Translado Aeroporto Galeão,2,597.62,1195.24,801.76,393.48,Sim,Translados
+15/05/2023,City Tour Completo (Van),2,1272.49,2544.98,1852.62,692.36,Sim,City Tour
+15/05/2023,Tour Petrópolis (Carro),3,1229.22,3687.66,2409.89,1277.77,Não,Viagens Longas
+16/05/2023,Translado Aeroporto Galeão,1,1448.13,1448.13,1029.88,418.25,Não,Translados
+16/05/2023,Translado Aeroporto Galeão,3,626.11,1878.33,1340.55,537.78,Não,Translados
+16/05/2023,Aluguel Carro Executivo,1,301.51,301.51,183.12,118.39,Não,Serviço Privado
+17/05/2023,Tour Petrópolis (Carro),3,1041.48,3124.44,1768.91,1355.53,Sim,Viagens Longas
+17/05/2023,Tour Búzios (Van),1,916.47,916.47,649.01,267.46,Não,Viagens Longas
+17/05/2023,Tour Búzios (Van),2,890.31,1780.62,1243.54,537.08,Não,Viagens Longas
+17/05/2023,Tour Petrópolis (Carro),2,786.1,1572.2,992.36,579.84,Não,Viagens Longas
+17/05/2023,Aluguel Carro Executivo,1,257.83,257.83,154.43,103.4,Não,Serviço Privado
+17/05/2023,Passeio Pão de Açúcar (Carro),2,194.75,389.5,232.58,156.92,Não,Passeios Locais
+18/05/2023,Tour Petrópolis (Carro),1,1252.74,1252.74,740.83,511.91,Não,Viagens Longas
+18/05/2023,Aluguel Carro Executivo,3,627.63,1882.89,1111.85,771.04,Não,Serviço Privado
+18/05/2023,Translado Aeroporto Santos Dumont,2,498.58,997.16,655.77,341.39,Não,Translados
+18/05/2023,Aluguel Carro Executivo,2,260.68,521.36,295.89,225.47,Não,Serviço Privado
+19/05/2023,City Tour Completo (Van),1,964.83,964.83,622.37,342.46,Não,City Tour
+19/05/2023,Tour Arraial do Cabo (Van),1,1262.89,1262.89,760.16,502.73,Não,Viagens Longas
+19/05/2023,Tour Búzios (Van),2,1387.15,2774.3,1725.42,1048.88,Não,Viagens Longas
+19/05/2023,Tour Petrópolis (Carro),1,161.18,161.18,115.65,45.53,Não,Viagens Longas
+19/05/2023,Passeio Cristo Redentor (Carro),2,274.57,549.14,376.4,172.74,Não,Passeios Locais
+19/05/2023,Passeio Cristo Redentor (Carro),1,1356.08,1356.08,807.46,548.62,Não,Passeios Locais
+19/05/2023,Tour Petrópolis (Carro),2,799.87,1599.74,897.29,702.45,Não,Viagens Longas
+20/05/2023,Aluguel Van Corporativa,3,1311.8,3935.4,2524.1,1411.3,Não,Serviço Privado
+20/05/2023,Aluguel Van Corporativa,1,735.37,735.37,479.12,256.25,Sim,Serviço Privado
+20/05/2023,Aluguel Van Corporativa,1,752.12,752.12,499.55,252.57,Não,Serviço Privado
+20/05/2023,Aluguel Van Corporativa,1,725.66,725.66,436.87,288.79,Não,Serviço Privado
+20/05/2023,City Tour Completo (Van),3,1244.44,3733.32,2693.09,1040.23,Sim,City Tour
+21/05/2023,City Tour Completo (Van),3,1347.8,4043.4,2594.0,1449.4,Não,City Tour
+21/05/2023,Passeio Pão de Açúcar (Carro),2,1294.33,2588.66,1637.48,951.18,Não,Passeios Locais
+21/05/2023,Tour Petrópolis (Carro),1,1447.5,1447.5,907.14,540.36,Não,Viagens Longas
+21/05/2023,Aluguel Van Corporativa,3,1319.49,3958.47,2609.89,1348.58,Não,Serviço Privado
+21/05/2023,Aluguel Carro Executivo,1,1349.71,1349.71,865.4,484.31,Não,Serviço Privado
+21/05/2023,Tour Petrópolis (Carro),1,1213.1,1213.1,900.22,312.88,Não,Viagens Longas
+21/05/2023,Passeio Pão de Açúcar (Carro),2,1102.79,2205.58,1302.53,903.05,Não,Passeios Locais
+22/05/2023,Passeio Pão de Açúcar (Carro),2,1328.26,2656.52,1979.29,677.23,Não,Passeios Locais
+22/05/2023,Aluguel Carro Executivo,3,728.58,2185.74,1322.52,863.22,Sim,Serviço Privado
+22/05/2023,City Tour Completo (Van),2,1448.61,2897.22,1826.28,1070.94,Sim,City Tour
+22/05/2023,Translado Aeroporto Galeão,1,173.81,173.81,104.07,69.74,Não,Translados
+22/05/2023,Aluguel Carro Executivo,2,1130.8,2261.6,1662.62,598.98,Não,Serviço Privado
+23/05/2023,Tour Petrópolis (Carro),2,269.11,538.22,378.8,159.42,Não,Viagens Longas
+23/05/2023,Tour Búzios (Van),3,1195.27,3585.81,2306.9,1278.91,Não,Viagens Longas
+23/05/2023,Tour Arraial do Cabo (Van),1,1081.86,1081.86,751.58,330.28,Sim,Viagens Longas
+23/05/2023,Translado Aeroporto Santos Dumont,1,763.18,763.18,559.59,203.59,Sim,Translados
+23/05/2023,Aluguel Van Corporativa,2,1408.65,2817.3,1660.06,1157.24,Não,Serviço Privado
+23/05/2023,Translado Aeroporto Galeão,3,192.56,577.68,370.49,207.19,Não,Translados
+24/05/2023,Passeio Cristo Redentor (Carro),2,1329.68,2659.36,1571.22,1088.14,Não,Passeios Locais
+24/05/2023,Aluguel Carro Executivo,2,231.46,462.92,285.13,177.79,Não,Serviço Privado
+24/05/2023,Passeio Cristo Redentor (Carro),3,266.51,799.53,457.75,341.78,Não,Passeios Locais
+24/05/2023,Tour Petrópolis (Carro),3,1362.01,4086.03,2771.13,1314.9,Não,Viagens Longas
+24/05/2023,Aluguel Van Corporativa,2,1311.71,2623.42,1511.82,1111.6,Não,Serviço Privado
+24/05/2023,Aluguel Van Corporativa,2,1207.35,2414.7,1399.08,1015.62,Sim,Serviço Privado
+25/05/2023,Tour Arraial do Cabo (Van),1,576.89,576.89,331.62,245.27,Sim,Viagens Longas
+25/05/2023,Translado Aeroporto Santos Dumont,3,657.76,1973.28,1475.52,497.76,Não,Translados
+25/05/2023,Tour Petrópolis (Carro),3,1216.13,3648.39,2346.35,1302.04,Não,Viagens Longas
+25/05/2023,Passeio Pão de Açúcar (Carro),1,1205.25,1205.25,814.91,390.34,Sim,Passeios Locais
+25/05/2023,Aluguel Van Corporativa,1,477.62,477.62,280.9,196.72,Sim,Serviço Privado
+26/05/2023,Tour Petrópolis (Carro),1,745.73,745.73,432.58,313.15,Sim,Viagens Longas
+26/05/2023,Aluguel Van Corporativa,3,459.52,1378.56,913.97,464.59,Sim,Serviço Privado
+26/05/2023,Aluguel Carro Executivo,1,738.01,738.01,453.73,284.28,Sim,Serviço Privado
+26/05/2023,Translado Aeroporto Santos Dumont,2,728.62,1457.24,1010.03,447.21,Sim,Translados
+27/05/2023,Translado Aeroporto Santos Dumont,1,1403.52,1403.52,783.88,619.64,Sim,Translados
+27/05/2023,City Tour Completo (Van),3,241.36,724.08,459.2,264.88,Sim,City Tour
+27/05/2023,Passeio Cristo Redentor (Carro),3,1277.7,3833.1,2232.27,1600.83,Não,Passeios Locais
+27/05/2023,Tour Arraial do Cabo (Van),1,1457.97,1457.97,1016.57,441.4,Sim,Viagens Longas
+28/05/2023,Translado Aeroporto Santos Dumont,3,1264.05,3792.15,2513.75,1278.4,Não,Translados
+28/05/2023,Tour Búzios (Van),1,390.45,390.45,232.96,157.49,Não,Viagens Longas
+28/05/2023,Passeio Cristo Redentor (Carro),3,1468.25,4404.75,2448.5,1956.25,Sim,Passeios Locais
+28/05/2023,Passeio Pão de Açúcar (Carro),3,995.77,2987.31,1938.45,1048.86,Não,Passeios Locais
+29/05/2023,Aluguel Van Corporativa,2,395.37,790.74,545.37,245.37,Não,Serviço Privado
+29/05/2023,Tour Arraial do Cabo (Van),3,1346.36,4039.08,2503.42,1535.66,Sim,Viagens Longas
+29/05/2023,Passeio Cristo Redentor (Carro),2,454.62,909.24,614.21,295.03,Não,Passeios Locais
+29/05/2023,Translado Aeroporto Santos Dumont,3,947.41,2842.23,1665.63,1176.6,Não,Translados
+30/05/2023,Tour Arraial do Cabo (Van),1,858.24,858.24,609.87,248.37,Sim,Viagens Longas
+30/05/2023,Tour Petrópolis (Carro),2,1272.85,2545.7,1508.26,1037.44,Não,Viagens Longas
+30/05/2023,City Tour Completo (Van),3,857.08,2571.24,1651.67,919.57,Não,City Tour
+30/05/2023,Tour Petrópolis (Carro),2,233.51,467.02,257.26,209.76,Sim,Viagens Longas
+30/05/2023,Tour Arraial do Cabo (Van),2,1328.33,2656.66,1892.95,763.71,Sim,Viagens Longas
+31/05/2023,Tour Búzios (Van),3,977.71,2933.13,1824.29,1108.84,Sim,Viagens Longas
+31/05/2023,City Tour Completo (Van),2,1114.09,2228.18,1478.91,749.27,Não,City Tour
+31/05/2023,Translado Aeroporto Galeão,3,524.19,1572.57,1147.21,425.36,Sim,Translados
+01/06/2023,City Tour Completo (Van),1,354.35,354.35,214.68,139.67,Não,City Tour
+01/06/2023,Aluguel Carro Executivo,2,547.09,1094.18,610.87,483.31,Não,Serviço Privado
+01/06/2023,City Tour Completo (Van),2,1319.2,2638.4,1852.94,785.46,Sim,City Tour
+01/06/2023,Passeio Pão de Açúcar (Carro),2,951.63,1903.26,1409.19,494.07,Sim,Passeios Locais
+01/06/2023,Passeio Cristo Redentor (Carro),3,277.54,832.62,606.73,225.89,Sim,Passeios Locais
+02/06/2023,Passeio Cristo Redentor (Carro),2,1320.33,2640.66,1784.94,855.72,Sim,Passeios Locais
+02/06/2023,Tour Búzios (Van),3,1287.82,3863.46,2523.05,1340.41,Sim,Viagens Longas
+02/06/2023,City Tour Completo (Van),1,1032.41,1032.41,573.99,458.42,Não,City Tour
+02/06/2023,Tour Petrópolis (Carro),1,1354.12,1354.12,845.63,508.49,Sim,Viagens Longas
+02/06/2023,Tour Arraial do Cabo (Van),1,1087.06,1087.06,776.2,310.86,Não,Viagens Longas
+02/06/2023,Translado Aeroporto Galeão,1,1401.38,1401.38,969.01,432.37,Não,Translados
+03/06/2023,Passeio Pão de Açúcar (Carro),2,1096.49,2192.98,1552.52,640.46,Não,Passeios Locais
+03/06/2023,Tour Búzios (Van),3,706.7,2120.1,1447.51,672.59,Sim,Viagens Longas
+03/06/2023,Passeio Cristo Redentor (Carro),1,300.44,300.44,225.25,75.19,Sim,Passeios Locais
+03/06/2023,Tour Búzios (Van),1,1297.4,1297.4,897.08,400.32,Não,Viagens Longas
+03/06/2023,Aluguel Carro Executivo,1,334.24,334.24,225.11,109.13,Sim,Serviço Privado
+04/06/2023,Translado Aeroporto Galeão,2,536.56,1073.12,786.9,286.22,Sim,Translados
+04/06/2023,Tour Petrópolis (Carro),1,552.65,552.65,406.6,146.05,Não,Viagens Longas
+04/06/2023,Tour Petrópolis (Carro),3,1203.2,3609.6,2396.95,1212.65,Não,Viagens Longas
+05/06/2023,Tour Búzios (Van),3,1293.41,3880.23,2458.51,1421.72,Sim,Viagens Longas
+05/06/2023,Tour Petrópolis (Carro),3,958.92,2876.76,1657.15,1219.61,Não,Viagens Longas
+05/06/2023,Tour Búzios (Van),1,1105.89,1105.89,739.93,365.96,Sim,Viagens Longas
+05/06/2023,Tour Arraial do Cabo (Van),2,946.71,1893.42,1149.19,744.23,Não,Viagens Longas
+05/06/2023,Passeio Cristo Redentor (Carro),3,659.07,1977.21,1386.39,590.82,Sim,Passeios Locais
+05/06/2023,City Tour Completo (Van),1,767.27,767.27,541.2,226.07,Sim,City Tour
+05/06/2023,City Tour Completo (Van),1,598.39,598.39,388.46,209.93,Não,City Tour
+06/06/2023,Aluguel Carro Executivo,2,1182.11,2364.22,1594.66,769.56,Não,Serviço Privado
+06/06/2023,Passeio Cristo Redentor (Carro),1,1169.56,1169.56,744.83,424.73,Não,Passeios Locais
+06/06/2023,City Tour Completo (Van),2,779.79,1559.58,859.13,700.45,Não,City Tour
+06/06/2023,Tour Arraial do Cabo (Van),2,354.81,709.62,449.86,259.76,Não,Viagens Longas
+06/06/2023,Translado Aeroporto Santos Dumont,2,819.12,1638.24,1158.56,479.68,Não,Translados
+07/06/2023,Tour Arraial do Cabo (Van),3,1289.25,3867.75,2328.93,1538.82,Não,Viagens Longas
+07/06/2023,City Tour Completo (Van),1,951.42,951.42,533.49,417.93,Não,City Tour
+07/06/2023,Translado Aeroporto Santos Dumont,1,769.04,769.04,539.59,229.45,Não,Translados
+07/06/2023,Translado Aeroporto Santos Dumont,2,1243.31,2486.62,1520.22,966.4,Sim,Translados
+07/06/2023,City Tour Completo (Van),1,1383.52,1383.52,927.1,456.42,Não,City Tour
+07/06/2023,City Tour Completo (Van),2,875.35,1750.7,1084.33,666.37,Não,City Tour
+07/06/2023,Passeio Cristo Redentor (Carro),2,595.92,1191.84,800.16,391.68,Não,Passeios Locais
+08/06/2023,Passeio Pão de Açúcar (Carro),2,1315.66,2631.32,1604.83,1026.49,Não,Passeios Locais
+08/06/2023,Tour Búzios (Van),2,642.65,1285.3,882.0,403.3,Não,Viagens Longas
+08/06/2023,City Tour Completo (Van),2,1478.48,2956.96,1648.02,1308.94,Não,City Tour
+08/06/2023,Aluguel Van Corporativa,1,711.67,711.67,507.35,204.32,Não,Serviço Privado
+08/06/2023,Aluguel Van Corporativa,2,895.74,1791.48,1121.02,670.46,Não,Serviço Privado
+08/06/2023,City Tour Completo (Van),2,945.21,1890.42,1330.04,560.38,Não,City Tour
+08/06/2023,Translado Aeroporto Galeão,3,532.39,1597.17,974.36,622.81,Não,Translados
+08/06/2023,Passeio Pão de Açúcar (Carro),2,483.68,967.36,583.47,383.89,Não,Passeios Locais
+09/06/2023,Passeio Pão de Açúcar (Carro),1,797.0,797.0,480.76,316.24,Não,Passeios Locais
+09/06/2023,Aluguel Van Corporativa,2,910.04,1820.08,1282.55,537.53,Sim,Serviço Privado
+09/06/2023,Tour Búzios (Van),2,701.64,1403.28,878.37,524.91,Sim,Viagens Longas
+09/06/2023,Passeio Cristo Redentor (Carro),2,1217.92,2435.84,1408.16,1027.68,Sim,Passeios Locais
+09/06/2023,Passeio Pão de Açúcar (Carro),2,879.02,1758.04,969.94,788.1,Não,Passeios Locais
+09/06/2023,Tour Búzios (Van),2,638.93,1277.86,728.74,549.12,Não,Viagens Longas
+10/06/2023,Aluguel Van Corporativa,1,1256.82,1256.82,872.01,384.81,Sim,Serviço Privado
+10/06/2023,Passeio Cristo Redentor (Carro),3,1228.02,3684.06,2426.08,1257.98,Sim,Passeios Locais
+10/06/2023,Tour Petrópolis (Carro),1,693.15,693.15,480.68,212.47,Não,Viagens Longas
+10/06/2023,Passeio Pão de Açúcar (Carro),3,1332.68,3998.04,2202.03,1796.01,Não,Passeios Locais
+11/06/2023,Passeio Cristo Redentor (Carro),1,162.58,162.58,114.76,47.82,Sim,Passeios Locais
+11/06/2023,Tour Petrópolis (Carro),1,625.8,625.8,398.3,227.5,Não,Viagens Longas
+11/06/2023,Tour Petrópolis (Carro),2,1370.95,2741.9,1647.18,1094.72,Não,Viagens Longas
+11/06/2023,Passeio Pão de Açúcar (Carro),1,1039.12,1039.12,716.71,322.41,Não,Passeios Locais
+12/06/2023,Passeio Cristo Redentor (Carro),1,271.73,271.73,168.34,103.39,Sim,Passeios Locais
+12/06/2023,Tour Arraial do Cabo (Van),2,788.19,1576.38,1123.14,453.24,Sim,Viagens Longas
+12/06/2023,Aluguel Carro Executivo,1,769.33,769.33,550.14,219.19,Não,Serviço Privado
+12/06/2023,Translado Aeroporto Santos Dumont,3,1249.42,3748.26,2520.93,1227.33,Sim,Translados
+12/06/2023,City Tour Completo (Van),1,215.82,215.82,142.4,73.42,Não,City Tour
+12/06/2023,Aluguel Carro Executivo,2,564.88,1129.76,627.26,502.5,Não,Serviço Privado
+12/06/2023,Translado Aeroporto Santos Dumont,1,784.27,784.27,580.59,203.68,Sim,Translados
+12/06/2023,Translado Aeroporto Santos Dumont,3,856.26,2568.78,1521.78,1047.0,Não,Translados
+13/06/2023,City Tour Completo (Van),3,492.01,1476.03,1022.52,453.51,Não,City Tour
+13/06/2023,Translado Aeroporto Santos Dumont,2,606.29,1212.58,674.6,537.98,Não,Translados
+13/06/2023,Aluguel Carro Executivo,2,178.22,356.44,240.69,115.75,Não,Serviço Privado
+13/06/2023,Passeio Cristo Redentor (Carro),3,1409.64,4228.92,2623.04,1605.88,Não,Passeios Locais
+13/06/2023,City Tour Completo (Van),1,868.64,868.64,631.61,237.03,Sim,City Tour
+13/06/2023,Passeio Pão de Açúcar (Carro),1,997.31,997.31,718.39,278.92,Sim,Passeios Locais
+13/06/2023,Tour Arraial do Cabo (Van),2,846.83,1693.66,1203.39,490.27,Não,Viagens Longas
+13/06/2023,Tour Búzios (Van),2,348.02,696.04,398.01,298.03,Sim,Viagens Longas
+14/06/2023,Passeio Cristo Redentor (Carro),1,1201.91,1201.91,824.65,377.26,Sim,Passeios Locais
+14/06/2023,Aluguel Van Corporativa,1,982.98,982.98,717.6,265.38,Não,Serviço Privado
+14/06/2023,Aluguel Carro Executivo,3,415.57,1246.71,757.92,488.79,Não,Serviço Privado
+14/06/2023,Passeio Cristo Redentor (Carro),2,832.08,1664.16,1109.01,555.15,Sim,Passeios Locais
+14/06/2023,Passeio Cristo Redentor (Carro),3,1291.22,3873.66,2558.59,1315.07,Sim,Passeios Locais
+14/06/2023,Tour Búzios (Van),3,628.21,1884.63,1161.13,723.5,Não,Viagens Longas
+14/06/2023,City Tour Completo (Van),2,546.75,1093.5,699.04,394.46,Não,City Tour
+14/06/2023,Tour Arraial do Cabo (Van),2,954.29,1908.58,1202.86,705.72,Não,Viagens Longas
+15/06/2023,City Tour Completo (Van),2,283.19,566.38,319.32,247.06,Não,City Tour
+15/06/2023,Passeio Cristo Redentor (Carro),1,535.93,535.93,342.21,193.72,Não,Passeios Locais
+15/06/2023,Translado Aeroporto Galeão,3,469.14,1407.42,1042.22,365.2,Não,Translados
+15/06/2023,Tour Arraial do Cabo (Van),3,1436.51,4309.53,2377.56,1931.97,Não,Viagens Longas
+15/06/2023,Translado Aeroporto Santos Dumont,2,300.37,600.74,443.44,157.3,Não,Translados
+15/06/2023,Aluguel Van Corporativa,2,352.98,705.96,513.74,192.22,Não,Serviço Privado
+15/06/2023,Passeio Cristo Redentor (Carro),1,154.77,154.77,98.47,56.3,Sim,Passeios Locais
+15/06/2023,Translado Aeroporto Galeão,3,667.59,2002.77,1109.32,893.45,Sim,Translados
+16/06/2023,Aluguel Carro Executivo,2,811.33,1622.66,1118.24,504.42,Sim,Serviço Privado
+16/06/2023,Passeio Cristo Redentor (Carro),3,1297.61,3892.83,2640.96,1251.87,Sim,Passeios Locais
+16/06/2023,Tour Arraial do Cabo (Van),1,476.53,476.53,355.81,120.72,Não,Viagens Longas
+16/06/2023,Aluguel Carro Executivo,2,228.53,457.06,271.22,185.84,Sim,Serviço Privado
+17/06/2023,Tour Búzios (Van),2,1060.73,2121.46,1228.99,892.47,Sim,Viagens Longas
+17/06/2023,Tour Petrópolis (Carro),3,336.13,1008.39,754.33,254.06,Sim,Viagens Longas
+17/06/2023,Translado Aeroporto Santos Dumont,1,248.5,248.5,159.24,89.26,Sim,Translados
+17/06/2023,Translado Aeroporto Santos Dumont,1,1074.8,1074.8,719.82,354.98,Não,Translados
+18/06/2023,City Tour Completo (Van),3,513.42,1540.26,1066.52,473.74,Não,City Tour
+18/06/2023,City Tour Completo (Van),1,689.81,689.81,400.03,289.78,Não,City Tour
+18/06/2023,Aluguel Van Corporativa,3,955.27,2865.81,1924.52,941.29,Não,Serviço Privado
+18/06/2023,Translado Aeroporto Galeão,2,436.16,872.32,492.72,379.6,Não,Translados
+19/06/2023,Passeio Pão de Açúcar (Carro),1,1225.51,1225.51,795.89,429.62,Sim,Passeios Locais
+19/06/2023,Passeio Pão de Açúcar (Carro),3,1406.13,4218.39,2914.4,1303.99,Sim,Passeios Locais
+19/06/2023,Tour Búzios (Van),3,205.97,617.91,410.14,207.77,Não,Viagens Longas
+19/06/2023,Tour Búzios (Van),3,1182.5,3547.5,1971.8,1575.7,Não,Viagens Longas
+19/06/2023,Passeio Pão de Açúcar (Carro),3,299.9,899.7,608.52,291.18,Não,Passeios Locais
+19/06/2023,Passeio Cristo Redentor (Carro),3,1002.3,3006.9,2167.67,839.23,Sim,Passeios Locais
+20/06/2023,Translado Aeroporto Santos Dumont,3,1090.23,3270.69,2259.05,1011.64,Sim,Translados
+20/06/2023,Translado Aeroporto Santos Dumont,3,727.37,2182.11,1579.96,602.15,Não,Translados
+20/06/2023,Passeio Cristo Redentor (Carro),2,558.67,1117.34,753.72,363.62,Não,Passeios Locais
+20/06/2023,Translado Aeroporto Galeão,3,395.79,1187.37,871.43,315.94,Sim,Translados
+21/06/2023,Translado Aeroporto Galeão,1,719.93,719.93,525.51,194.42,Não,Translados
+21/06/2023,Tour Petrópolis (Carro),3,968.97,2906.91,2145.27,761.64,Não,Viagens Longas
+21/06/2023,Aluguel Van Corporativa,3,803.33,2409.99,1568.29,841.7,Não,Serviço Privado
+21/06/2023,Tour Arraial do Cabo (Van),3,727.76,2183.28,1248.0,935.28,Não,Viagens Longas
+22/06/2023,Passeio Cristo Redentor (Carro),1,504.5,504.5,335.36,169.14,Sim,Passeios Locais
+22/06/2023,Aluguel Carro Executivo,2,561.26,1122.52,793.48,329.04,Não,Serviço Privado
+22/06/2023,Tour Arraial do Cabo (Van),2,1006.19,2012.38,1114.11,898.27,Não,Viagens Longas
+22/06/2023,Passeio Cristo Redentor (Carro),1,159.17,159.17,109.89,49.28,Sim,Passeios Locais
+22/06/2023,Passeio Cristo Redentor (Carro),3,516.21,1548.63,1084.95,463.68,Sim,Passeios Locais
+22/06/2023,Translado Aeroporto Galeão,1,737.06,737.06,482.92,254.14,Sim,Translados
+22/06/2023,Translado Aeroporto Galeão,1,293.1,293.1,176.24,116.86,Sim,Translados
+22/06/2023,Tour Petrópolis (Carro),1,1244.12,1244.12,923.76,320.36,Sim,Viagens Longas
+23/06/2023,Aluguel Van Corporativa,3,1179.51,3538.53,2161.32,1377.21,Sim,Serviço Privado
+23/06/2023,Aluguel Carro Executivo,1,1355.86,1355.86,993.84,362.02,Sim,Serviço Privado
+23/06/2023,Passeio Pão de Açúcar (Carro),1,583.58,583.58,386.26,197.32,Não,Passeios Locais
+23/06/2023,Passeio Cristo Redentor (Carro),3,500.82,1502.46,835.62,666.84,Sim,Passeios Locais
+23/06/2023,Passeio Cristo Redentor (Carro),1,1361.58,1361.58,919.65,441.93,Não,Passeios Locais
+23/06/2023,Passeio Cristo Redentor (Carro),2,251.11,502.22,282.9,219.32,Não,Passeios Locais
+23/06/2023,Passeio Cristo Redentor (Carro),3,1234.41,3703.23,2529.77,1173.46,Sim,Passeios Locais
+23/06/2023,Translado Aeroporto Santos Dumont,2,168.23,336.46,246.81,89.65,Não,Translados
+24/06/2023,Aluguel Van Corporativa,2,340.31,680.62,421.92,258.7,Sim,Serviço Privado
+24/06/2023,Passeio Cristo Redentor (Carro),1,1420.83,1420.83,1065.33,355.5,Não,Passeios Locais
+24/06/2023,Tour Búzios (Van),2,994.15,1988.3,1395.78,592.52,Não,Viagens Longas
+24/06/2023,Translado Aeroporto Galeão,3,1448.63,4345.89,2473.13,1872.76,Não,Translados
+24/06/2023,Translado Aeroporto Santos Dumont,2,459.83,919.66,603.32,316.34,Sim,Translados
+24/06/2023,Tour Búzios (Van),3,1345.76,4037.28,2322.62,1714.66,Não,Viagens Longas
+24/06/2023,Passeio Cristo Redentor (Carro),3,323.38,970.14,625.82,344.32,Não,Passeios Locais
+24/06/2023,Passeio Pão de Açúcar (Carro),3,1349.55,4048.65,2934.8,1113.85,Não,Passeios Locais
+25/06/2023,Tour Petrópolis (Carro),1,684.62,684.62,501.56,183.06,Não,Viagens Longas
+25/06/2023,Tour Petrópolis (Carro),2,432.48,864.96,587.33,277.63,Não,Viagens Longas
+25/06/2023,Translado Aeroporto Galeão,3,898.75,2696.25,1829.14,867.11,Não,Translados
+25/06/2023,Tour Arraial do Cabo (Van),2,451.35,902.7,661.81,240.89,Sim,Viagens Longas
+25/06/2023,Translado Aeroporto Galeão,3,297.26,891.78,643.07,248.71,Sim,Translados
+26/06/2023,Translado Aeroporto Santos Dumont,1,682.54,682.54,421.06,261.48,Não,Translados
+26/06/2023,City Tour Completo (Van),1,1189.94,1189.94,749.51,440.43,Sim,City Tour
+26/06/2023,Passeio Pão de Açúcar (Carro),3,698.12,2094.36,1407.72,686.64,Não,Passeios Locais
+26/06/2023,Aluguel Van Corporativa,3,468.06,1404.18,897.24,506.94,Não,Serviço Privado
+26/06/2023,Tour Petrópolis (Carro),3,1173.17,3519.51,2091.25,1428.26,Sim,Viagens Longas
+26/06/2023,Tour Búzios (Van),2,1221.27,2442.54,1372.43,1070.11,Não,Viagens Longas
+26/06/2023,Aluguel Carro Executivo,2,881.69,1763.38,996.43,766.95,Não,Serviço Privado
+27/06/2023,Aluguel Carro Executivo,1,369.22,369.22,205.41,163.81,Não,Serviço Privado
+27/06/2023,Translado Aeroporto Santos Dumont,2,1411.6,2823.2,1588.76,1234.44,Não,Translados
+27/06/2023,Passeio Pão de Açúcar (Carro),2,219.65,439.3,318.78,120.52,Não,Passeios Locais
+28/06/2023,Passeio Cristo Redentor (Carro),3,373.6,1120.8,805.21,315.59,Não,Passeios Locais
+28/06/2023,Tour Arraial do Cabo (Van),1,1136.87,1136.87,638.19,498.68,Não,Viagens Longas
+28/06/2023,Passeio Cristo Redentor (Carro),1,786.65,786.65,458.58,328.07,Não,Passeios Locais
+29/06/2023,Tour Arraial do Cabo (Van),3,811.12,2433.36,1632.85,800.51,Sim,Viagens Longas
+29/06/2023,City Tour Completo (Van),2,306.75,613.5,445.26,168.24,Não,City Tour
+29/06/2023,Passeio Cristo Redentor (Carro),2,520.74,1041.48,697.29,344.19,Não,Passeios Locais
+29/06/2023,Tour Arraial do Cabo (Van),3,681.49,2044.47,1477.27,567.2,Sim,Viagens Longas
+30/06/2023,Translado Aeroporto Galeão,2,411.47,822.94,492.93,330.01,Não,Translados
+30/06/2023,City Tour Completo (Van),2,319.32,638.64,372.79,265.85,Sim,City Tour
+30/06/2023,Tour Búzios (Van),2,1437.5,2875.0,1892.36,982.64,Não,Viagens Longas
+30/06/2023,Passeio Cristo Redentor (Carro),1,286.78,286.78,171.65,115.13,Não,Passeios Locais
+30/06/2023,Tour Petrópolis (Carro),2,669.34,1338.68,907.38,431.3,Sim,Viagens Longas
+30/06/2023,Translado Aeroporto Santos Dumont,3,1312.1,3936.3,2517.2,1419.1,Não,Translados
+30/06/2023,Aluguel Carro Executivo,3,887.46,2662.38,1763.01,899.37,Sim,Serviço Privado
+01/07/2023,Tour Petrópolis (Carro),3,634.39,1903.17,1081.45,821.72,Não,Viagens Longas
+01/07/2023,City Tour Completo (Van),1,1202.76,1202.76,733.72,469.04,Não,City Tour
+01/07/2023,Aluguel Carro Executivo,1,457.83,457.83,291.5,166.33,Não,Serviço Privado
+01/07/2023,Translado Aeroporto Galeão,1,438.63,438.63,281.31,157.32,Sim,Translados
+01/07/2023,Tour Arraial do Cabo (Van),2,340.0,680.0,427.4,252.6,Sim,Viagens Longas
+01/07/2023,Translado Aeroporto Galeão,3,570.39,1711.17,1034.81,676.36,Não,Translados
+01/07/2023,Tour Petrópolis (Carro),1,1451.19,1451.19,1043.65,407.54,Não,Viagens Longas
+02/07/2023,Aluguel Carro Executivo,3,1160.68,3482.04,2504.95,977.09,Não,Serviço Privado
+02/07/2023,Aluguel Carro Executivo,2,479.9,959.8,654.71,305.09,Não,Serviço Privado
+02/07/2023,Aluguel Carro Executivo,1,753.35,753.35,494.21,259.14,Sim,Serviço Privado
+02/07/2023,Aluguel Carro Executivo,3,414.94,1244.82,929.41,315.41,Sim,Serviço Privado
+02/07/2023,Aluguel Carro Executivo,3,1428.81,4286.43,2734.67,1551.76,Sim,Serviço Privado
+03/07/2023,Passeio Pão de Açúcar (Carro),1,1363.76,1363.76,885.04,478.72,Não,Passeios Locais
+03/07/2023,Aluguel Carro Executivo,3,1285.06,3855.18,2351.98,1503.2,Sim,Serviço Privado
+03/07/2023,Tour Búzios (Van),3,1137.48,3412.44,2325.98,1086.46,Não,Viagens Longas
+03/07/2023,City Tour Completo (Van),3,1202.42,3607.26,2398.97,1208.29,Não,City Tour
+03/07/2023,Translado Aeroporto Galeão,1,1387.71,1387.71,781.61,606.1,Não,Translados
+04/07/2023,Translado Aeroporto Galeão,1,295.48,295.48,217.55,77.93,Não,Translados
+04/07/2023,Passeio Cristo Redentor (Carro),2,1356.3,2712.6,1756.52,956.08,Não,Passeios Locais
+04/07/2023,Tour Búzios (Van),1,897.79,897.79,629.92,267.87,Sim,Viagens Longas
+04/07/2023,Tour Petrópolis (Carro),1,488.09,488.09,289.67,198.42,Não,Viagens Longas
+04/07/2023,Translado Aeroporto Santos Dumont,2,1300.1,2600.2,1634.47,965.73,Não,Translados
+04/07/2023,Tour Petrópolis (Carro),2,1337.68,2675.36,1571.35,1104.01,Não,Viagens Longas
+04/07/2023,Tour Petrópolis (Carro),1,631.05,631.05,419.92,211.13,Sim,Viagens Longas
+05/07/2023,Tour Arraial do Cabo (Van),1,953.16,953.16,574.77,378.39,Não,Viagens Longas
+05/07/2023,Translado Aeroporto Galeão,3,1008.45,3025.35,1919.26,1106.09,Sim,Translados
+05/07/2023,Passeio Pão de Açúcar (Carro),3,1156.3,3468.9,2586.33,882.57,Não,Passeios Locais
+05/07/2023,Tour Arraial do Cabo (Van),1,732.39,732.39,408.54,323.85,Sim,Viagens Longas
+05/07/2023,Tour Petrópolis (Carro),3,1323.4,3970.2,2188.66,1781.54,Não,Viagens Longas
+05/07/2023,Translado Aeroporto Santos Dumont,2,341.01,682.02,450.5,231.52,Não,Translados
+05/07/2023,Translado Aeroporto Galeão,2,892.78,1785.56,1207.7,577.86,Não,Translados
+05/07/2023,Aluguel Carro Executivo,1,1447.21,1447.21,922.68,524.53,Sim,Serviço Privado
+06/07/2023,Passeio Cristo Redentor (Carro),3,1148.37,3445.11,1964.34,1480.77,Não,Passeios Locais
+06/07/2023,Tour Búzios (Van),2,854.83,1709.66,1113.08,596.58,Não,Viagens Longas
+06/07/2023,Translado Aeroporto Galeão,2,1336.92,2673.84,1667.84,1006.0,Não,Translados
+06/07/2023,Translado Aeroporto Galeão,2,1206.71,2413.42,1398.99,1014.43,Sim,Translados
+06/07/2023,Tour Arraial do Cabo (Van),2,185.83,371.66,255.88,115.78,Não,Viagens Longas
+07/07/2023,Aluguel Carro Executivo,3,1429.52,4288.56,2700.07,1588.49,Não,Serviço Privado
+07/07/2023,Tour Petrópolis (Carro),3,215.85,647.55,399.49,248.06,Não,Viagens Longas
+07/07/2023,Tour Petrópolis (Carro),1,150.55,150.55,88.73,61.82,Sim,Viagens Longas
+08/07/2023,Translado Aeroporto Santos Dumont,3,713.77,2141.31,1277.97,863.34,Sim,Translados
+08/07/2023,Passeio Pão de Açúcar (Carro),2,771.17,1542.34,923.52,618.82,Não,Passeios Locais
+08/07/2023,Tour Petrópolis (Carro),3,727.6,2182.8,1288.87,893.93,Não,Viagens Longas
+08/07/2023,Translado Aeroporto Santos Dumont,3,1321.76,3965.28,2887.73,1077.55,Sim,Translados
+08/07/2023,Translado Aeroporto Santos Dumont,1,1374.19,1374.19,1023.87,350.32,Sim,Translados
+08/07/2023,Aluguel Van Corporativa,3,1360.26,4080.78,2707.23,1373.55,Não,Serviço Privado
+08/07/2023,Tour Búzios (Van),2,666.06,1332.12,983.36,348.76,Sim,Viagens Longas
+09/07/2023,Passeio Cristo Redentor (Carro),2,840.05,1680.1,1120.33,559.77,Sim,Passeios Locais
+09/07/2023,Tour Arraial do Cabo (Van),3,1270.23,3810.69,2771.06,1039.63,Não,Viagens Longas
+09/07/2023,Tour Arraial do Cabo (Van),2,270.61,541.22,374.14,167.08,Não,Viagens Longas
+09/07/2023,Passeio Pão de Açúcar (Carro),3,1054.18,3162.54,2349.14,813.4,Não,Passeios Locais
+09/07/2023,Translado Aeroporto Santos Dumont,1,387.21,387.21,288.62,98.59,Sim,Translados
+09/07/2023,Translado Aeroporto Galeão,1,1144.61,1144.61,828.19,316.42,Não,Translados
+10/07/2023,Passeio Cristo Redentor (Carro),2,1109.8,2219.6,1655.91,563.69,Sim,Passeios Locais
+10/07/2023,Passeio Pão de Açúcar (Carro),1,296.02,296.02,176.88,119.14,Não,Passeios Locais
+10/07/2023,Translado Aeroporto Santos Dumont,2,513.26,1026.52,663.04,363.48,Não,Translados
+10/07/2023,Translado Aeroporto Santos Dumont,2,1191.71,2383.42,1620.3,763.12,Não,Translados
+11/07/2023,Passeio Pão de Açúcar (Carro),1,992.78,992.78,673.24,319.54,Não,Passeios Locais
+11/07/2023,Tour Petrópolis (Carro),2,336.53,673.06,375.84,297.22,Sim,Viagens Longas
+11/07/2023,Tour Petrópolis (Carro),1,589.37,589.37,409.19,180.18,Não,Viagens Longas
+11/07/2023,Tour Petrópolis (Carro),2,1002.07,2004.14,1193.69,810.45,Não,Viagens Longas
+11/07/2023,Tour Petrópolis (Carro),2,1079.11,2158.22,1400.82,757.4,Sim,Viagens Longas
+11/07/2023,Passeio Cristo Redentor (Carro),3,825.52,2476.56,1851.09,625.47,Sim,Passeios Locais
+11/07/2023,Passeio Cristo Redentor (Carro),2,993.34,1986.68,1153.73,832.95,Não,Passeios Locais
+12/07/2023,Passeio Pão de Açúcar (Carro),2,532.98,1065.96,632.21,433.75,Não,Passeios Locais
+12/07/2023,Passeio Cristo Redentor (Carro),3,384.2,1152.6,840.91,311.69,Não,Passeios Locais
+12/07/2023,City Tour Completo (Van),3,1386.83,4160.49,2895.43,1265.06,Não,City Tour
+13/07/2023,Translado Aeroporto Galeão,1,532.31,532.31,341.74,190.57,Não,Translados
+13/07/2023,Translado Aeroporto Santos Dumont,2,410.08,820.16,529.77,290.39,Sim,Translados
+13/07/2023,Tour Búzios (Van),2,206.74,413.48,245.77,167.71,Não,Viagens Longas
+13/07/2023,Aluguel Van Corporativa,3,563.14,1689.42,967.8,721.62,Sim,Serviço Privado
+13/07/2023,Tour Búzios (Van),3,1022.62,3067.86,1813.37,1254.49,Sim,Viagens Longas
+13/07/2023,Tour Arraial do Cabo (Van),3,687.32,2061.96,1344.24,717.72,Sim,Viagens Longas
+13/07/2023,City Tour Completo (Van),1,664.75,664.75,412.23,252.52,Não,City Tour
+13/07/2023,Tour Búzios (Van),1,1111.21,1111.21,624.76,486.45,Não,Viagens Longas
+14/07/2023,Translado Aeroporto Galeão,1,711.98,711.98,505.72,206.26,Não,Translados
+14/07/2023,City Tour Completo (Van),2,1157.27,2314.54,1630.15,684.39,Sim,City Tour
+14/07/2023,Passeio Pão de Açúcar (Carro),1,1316.86,1316.86,965.33,351.53,Não,Passeios Locais
+14/07/2023,Translado Aeroporto Santos Dumont,2,730.55,1461.1,851.46,609.64,Não,Translados
+14/07/2023,Tour Arraial do Cabo (Van),1,661.95,661.95,449.21,212.74,Sim,Viagens Longas
+14/07/2023,Aluguel Van Corporativa,1,1179.25,1179.25,810.95,368.3,Sim,Serviço Privado
+14/07/2023,Tour Petrópolis (Carro),2,1491.92,2983.84,2069.74,914.1,Sim,Viagens Longas
+14/07/2023,Tour Búzios (Van),3,1476.94,4430.82,3275.65,1155.17,Sim,Viagens Longas
+15/07/2023,Tour Búzios (Van),2,549.3,1098.6,793.44,305.16,Sim,Viagens Longas
+15/07/2023,Passeio Cristo Redentor (Carro),2,1054.13,2108.26,1394.34,713.92,Não,Passeios Locais
+15/07/2023,Passeio Pão de Açúcar (Carro),3,1285.54,3856.62,2473.45,1383.17,Sim,Passeios Locais
+15/07/2023,Passeio Pão de Açúcar (Carro),1,654.88,654.88,466.91,187.97,Não,Passeios Locais
+15/07/2023,City Tour Completo (Van),3,1056.24,3168.72,1818.1,1350.62,Sim,City Tour
+15/07/2023,Tour Petrópolis (Carro),1,763.81,763.81,481.74,282.07,Não,Viagens Longas
+15/07/2023,Tour Petrópolis (Carro),2,1458.89,2917.78,1675.79,1241.99,Não,Viagens Longas
+15/07/2023,Passeio Pão de Açúcar (Carro),3,1039.81,3119.43,2164.36,955.07,Não,Passeios Locais
+16/07/2023,Tour Búzios (Van),2,1269.78,2539.56,1899.02,640.54,Sim,Viagens Longas
+16/07/2023,Tour Arraial do Cabo (Van),2,1306.13,2612.26,1743.86,868.4,Não,Viagens Longas
+16/07/2023,Aluguel Van Corporativa,2,1331.21,2662.42,1953.19,709.23,Sim,Serviço Privado
+16/07/2023,Tour Búzios (Van),1,1034.05,1034.05,624.93,409.12,Não,Viagens Longas
+16/07/2023,Tour Petrópolis (Carro),1,879.65,879.65,488.79,390.86,Sim,Viagens Longas
+16/07/2023,Passeio Cristo Redentor (Carro),1,657.51,657.51,392.17,265.34,Não,Passeios Locais
+16/07/2023,Aluguel Carro Executivo,2,399.39,798.78,536.78,262.0,Sim,Serviço Privado
+16/07/2023,Translado Aeroporto Galeão,3,1012.72,3038.16,1707.75,1330.41,Não,Translados
+17/07/2023,Translado Aeroporto Santos Dumont,3,823.27,2469.81,1470.88,998.93,Sim,Translados
+17/07/2023,Tour Petrópolis (Carro),2,429.9,859.8,574.41,285.39,Sim,Viagens Longas
+17/07/2023,Translado Aeroporto Galeão,2,687.19,1374.38,889.51,484.87,Sim,Translados
+17/07/2023,Tour Búzios (Van),2,242.19,484.38,270.33,214.05,Sim,Viagens Longas
+18/07/2023,City Tour Completo (Van),1,898.74,898.74,550.47,348.27,Não,City Tour
+18/07/2023,Tour Petrópolis (Carro),2,524.35,1048.7,646.67,402.03,Não,Viagens Longas
+18/07/2023,City Tour Completo (Van),3,927.85,2783.55,1753.71,1029.84,Não,City Tour
+18/07/2023,Translado Aeroporto Galeão,1,1291.48,1291.48,731.22,560.26,Sim,Translados
+18/07/2023,Passeio Cristo Redentor (Carro),1,311.99,311.99,218.52,93.47,Sim,Passeios Locais
+18/07/2023,Passeio Pão de Açúcar (Carro),3,734.88,2204.64,1316.52,888.12,Não,Passeios Locais
+18/07/2023,Passeio Pão de Açúcar (Carro),1,474.75,474.75,288.18,186.57,Não,Passeios Locais
+19/07/2023,Passeio Cristo Redentor (Carro),1,683.47,683.47,438.03,245.44,Não,Passeios Locais
+19/07/2023,Passeio Cristo Redentor (Carro),3,286.27,858.81,580.09,278.72,Não,Passeios Locais
+19/07/2023,Passeio Cristo Redentor (Carro),2,269.7,539.4,361.82,177.58,Não,Passeios Locais
+19/07/2023,Tour Búzios (Van),2,1463.04,2926.08,2087.68,838.4,Não,Viagens Longas
+19/07/2023,Passeio Cristo Redentor (Carro),3,768.27,2304.81,1431.07,873.74,Sim,Passeios Locais
+19/07/2023,Tour Búzios (Van),1,659.14,659.14,414.11,245.03,Não,Viagens Longas
+20/07/2023,Aluguel Carro Executivo,2,1373.42,2746.84,1745.31,1001.53,Sim,Serviço Privado
+20/07/2023,City Tour Completo (Van),3,1111.86,3335.58,2239.55,1096.03,Não,City Tour
+20/07/2023,Aluguel Van Corporativa,2,1033.58,2067.16,1344.09,723.07,Sim,Serviço Privado
+20/07/2023,Aluguel Van Corporativa,3,399.07,1197.21,762.2,435.01,Não,Serviço Privado
+20/07/2023,Translado Aeroporto Galeão,2,717.03,1434.06,888.03,546.03,Sim,Translados
+21/07/2023,Tour Búzios (Van),2,871.63,1743.26,970.21,773.05,Não,Viagens Longas
+21/07/2023,Tour Petrópolis (Carro),3,619.84,1859.52,1186.64,672.88,Não,Viagens Longas
+21/07/2023,Aluguel Van Corporativa,1,1313.62,1313.62,829.3,484.32,Sim,Serviço Privado
+21/07/2023,Tour Búzios (Van),2,401.02,802.04,586.23,215.81,Sim,Viagens Longas
+21/07/2023,Tour Arraial do Cabo (Van),2,1192.55,2385.1,1355.67,1029.43,Sim,Viagens Longas
+21/07/2023,Translado Aeroporto Santos Dumont,1,368.56,368.56,238.45,130.11,Sim,Translados
+21/07/2023,City Tour Completo (Van),1,533.55,533.55,368.23,165.32,Não,City Tour
+21/07/2023,Aluguel Carro Executivo,3,416.57,1249.71,775.86,473.85,Não,Serviço Privado
+22/07/2023,Translado Aeroporto Galeão,2,160.41,320.82,210.97,109.85,Sim,Translados
+22/07/2023,Aluguel Carro Executivo,3,966.71,2900.13,2055.09,845.04,Sim,Serviço Privado
+22/07/2023,Translado Aeroporto Galeão,3,239.17,717.51,528.75,188.76,Não,Translados
+22/07/2023,Tour Arraial do Cabo (Van),3,698.78,2096.34,1545.99,550.35,Não,Viagens Longas
+22/07/2023,Passeio Cristo Redentor (Carro),1,356.48,356.48,221.99,134.49,Não,Passeios Locais
+23/07/2023,Passeio Cristo Redentor (Carro),3,1360.73,4082.19,2855.27,1226.92,Não,Passeios Locais
+23/07/2023,Tour Búzios (Van),1,1165.75,1165.75,708.77,456.98,Não,Viagens Longas
+23/07/2023,Aluguel Van Corporativa,2,1360.07,2720.14,1579.88,1140.26,Não,Serviço Privado
+23/07/2023,City Tour Completo (Van),2,622.24,1244.48,816.33,428.15,Não,City Tour
+24/07/2023,City Tour Completo (Van),2,1351.51,2703.02,1497.45,1205.57,Sim,City Tour
+24/07/2023,Tour Petrópolis (Carro),1,1464.12,1464.12,944.03,520.09,Sim,Viagens Longas
+24/07/2023,Translado Aeroporto Galeão,2,1125.4,2250.8,1655.22,595.58,Sim,Translados
+24/07/2023,Tour Búzios (Van),2,1065.33,2130.66,1425.66,705.0,Sim,Viagens Longas
+24/07/2023,Tour Arraial do Cabo (Van),2,546.42,1092.84,770.57,322.27,Sim,Viagens Longas
+24/07/2023,Tour Petrópolis (Carro),2,1291.15,2582.3,1834.09,748.21,Sim,Viagens Longas
+24/07/2023,Tour Petrópolis (Carro),2,347.93,695.86,476.34,219.52,Sim,Viagens Longas
+24/07/2023,Tour Arraial do Cabo (Van),3,711.21,2133.63,1524.87,608.76,Não,Viagens Longas
+25/07/2023,Tour Arraial do Cabo (Van),2,1288.53,2577.06,1884.85,692.21,Não,Viagens Longas
+25/07/2023,Translado Aeroporto Galeão,2,610.1,1220.2,696.6,523.6,Sim,Translados
+25/07/2023,Translado Aeroporto Galeão,1,854.45,854.45,630.47,223.98,Não,Translados
+25/07/2023,Passeio Cristo Redentor (Carro),2,1190.23,2380.46,1334.43,1046.03,Não,Passeios Locais
+25/07/2023,Passeio Cristo Redentor (Carro),1,743.28,743.28,459.43,283.85,Não,Passeios Locais
+25/07/2023,Passeio Cristo Redentor (Carro),3,1431.3,4293.9,2797.6,1496.3,Sim,Passeios Locais
+25/07/2023,Passeio Cristo Redentor (Carro),2,706.7,1413.4,780.26,633.14,Não,Passeios Locais
+26/07/2023,Tour Petrópolis (Carro),1,237.72,237.72,174.61,63.11,Não,Viagens Longas
+26/07/2023,Translado Aeroporto Galeão,2,1174.39,2348.78,1576.71,772.07,Não,Translados
+26/07/2023,Passeio Pão de Açúcar (Carro),2,331.83,663.66,465.66,198.0,Não,Passeios Locais
+26/07/2023,Translado Aeroporto Galeão,1,937.9,937.9,620.76,317.14,Sim,Translados
+26/07/2023,Translado Aeroporto Galeão,1,477.81,477.81,283.89,193.92,Sim,Translados
+26/07/2023,Aluguel Carro Executivo,2,189.77,379.54,225.33,154.21,Sim,Serviço Privado
+27/07/2023,Aluguel Van Corporativa,3,1328.49,3985.47,2296.09,1689.38,Não,Serviço Privado
+27/07/2023,Tour Petrópolis (Carro),1,1414.03,1414.03,1054.98,359.05,Sim,Viagens Longas
+27/07/2023,Tour Petrópolis (Carro),3,1072.67,3218.01,2360.34,857.67,Não,Viagens Longas
+27/07/2023,Tour Arraial do Cabo (Van),1,285.73,285.73,209.91,75.82,Não,Viagens Longas
+27/07/2023,Passeio Cristo Redentor (Carro),2,816.77,1633.54,969.0,664.54,Sim,Passeios Locais
+27/07/2023,Translado Aeroporto Galeão,3,177.29,531.87,362.6,169.27,Não,Translados
+27/07/2023,Translado Aeroporto Santos Dumont,1,371.23,371.23,255.76,115.47,Sim,Translados
+28/07/2023,Aluguel Van Corporativa,3,502.44,1507.32,1018.7,488.62,Não,Serviço Privado
+28/07/2023,Aluguel Carro Executivo,1,750.41,750.41,480.07,270.34,Não,Serviço Privado
+28/07/2023,Tour Búzios (Van),1,1206.92,1206.92,873.5,333.42,Sim,Viagens Longas
+28/07/2023,Passeio Cristo Redentor (Carro),1,1390.3,1390.3,840.93,549.37,Não,Passeios Locais
+28/07/2023,Translado Aeroporto Santos Dumont,1,654.22,654.22,427.49,226.73,Não,Translados
+29/07/2023,Tour Petrópolis (Carro),3,1327.01,3981.03,2498.44,1482.59,Sim,Viagens Longas
+29/07/2023,Passeio Pão de Açúcar (Carro),3,415.78,1247.34,846.7,400.64,Sim,Passeios Locais
+29/07/2023,Aluguel Van Corporativa,2,694.89,1389.78,917.5,472.28,Sim,Serviço Privado
+30/07/2023,Tour Búzios (Van),2,1150.46,2300.92,1493.76,807.16,Sim,Viagens Longas
+30/07/2023,Tour Búzios (Van),3,553.74,1661.22,1192.14,469.08,Não,Viagens Longas
+30/07/2023,Tour Arraial do Cabo (Van),3,1195.55,3586.65,2050.09,1536.56,Não,Viagens Longas
+30/07/2023,Passeio Cristo Redentor (Carro),1,756.27,756.27,549.25,207.02,Sim,Passeios Locais
+31/07/2023,Translado Aeroporto Santos Dumont,2,422.61,845.22,581.61,263.61,Não,Translados
+31/07/2023,Translado Aeroporto Santos Dumont,2,754.88,1509.76,903.09,606.67,Sim,Translados
+31/07/2023,Aluguel Carro Executivo,3,1041.83,3125.49,2048.57,1076.92,Não,Serviço Privado
+31/07/2023,Translado Aeroporto Santos Dumont,3,1275.43,3826.29,2315.03,1511.26,Sim,Translados
+31/07/2023,Tour Arraial do Cabo (Van),3,975.92,2927.76,2017.26,910.5,Sim,Viagens Longas
+31/07/2023,Passeio Cristo Redentor (Carro),3,565.83,1697.49,1115.34,582.15,Sim,Passeios Locais
+31/07/2023,Passeio Pão de Açúcar (Carro),2,950.87,1901.74,1113.72,788.02,Sim,Passeios Locais
+31/07/2023,Tour Búzios (Van),2,746.05,1492.1,888.33,603.77,Sim,Viagens Longas
+01/08/2023,Passeio Pão de Açúcar (Carro),1,1120.98,1120.98,705.38,415.6,Não,Passeios Locais
+01/08/2023,Tour Búzios (Van),2,1492.44,2984.88,2222.98,761.9,Não,Viagens Longas
+01/08/2023,City Tour Completo (Van),1,924.84,924.84,644.66,280.18,Não,City Tour
+02/08/2023,City Tour Completo (Van),1,1352.73,1352.73,881.11,471.62,Sim,City Tour
+02/08/2023,Tour Búzios (Van),2,1240.83,2481.66,1680.38,801.28,Sim,Viagens Longas
+02/08/2023,Tour Arraial do Cabo (Van),1,995.81,995.81,654.22,341.59,Sim,Viagens Longas
+02/08/2023,City Tour Completo (Van),2,933.92,1867.84,1310.33,557.51,Sim,City Tour
+02/08/2023,Tour Petrópolis (Carro),3,1004.76,3014.28,2067.77,946.51,Não,Viagens Longas
+03/08/2023,City Tour Completo (Van),2,1393.54,2787.08,1798.85,988.23,Não,City Tour
+03/08/2023,Translado Aeroporto Santos Dumont,1,1014.78,1014.78,607.96,406.82,Sim,Translados
+03/08/2023,Passeio Pão de Açúcar (Carro),2,1370.0,2740.0,1778.61,961.39,Não,Passeios Locais
+03/08/2023,Aluguel Carro Executivo,3,1476.28,4428.84,3230.53,1198.31,Não,Serviço Privado
+04/08/2023,Translado Aeroporto Galeão,3,895.36,2686.08,1510.77,1175.31,Sim,Translados
+04/08/2023,Tour Búzios (Van),1,473.28,473.28,343.08,130.2,Não,Viagens Longas
+04/08/2023,Passeio Cristo Redentor (Carro),2,745.48,1490.96,1024.55,466.41,Não,Passeios Locais
+04/08/2023,Aluguel Carro Executivo,3,1219.59,3658.77,2607.05,1051.72,Não,Serviço Privado
+04/08/2023,City Tour Completo (Van),3,414.21,1242.63,706.61,536.02,Não,City Tour
+04/08/2023,Aluguel Van Corporativa,1,245.61,245.61,153.98,91.63,Não,Serviço Privado
+05/08/2023,Tour Petrópolis (Carro),1,236.55,236.55,148.26,88.29,Sim,Viagens Longas
+05/08/2023,Aluguel Van Corporativa,3,930.31,2790.93,1663.82,1127.11,Não,Serviço Privado
+05/08/2023,Tour Arraial do Cabo (Van),3,1353.94,4061.82,2592.44,1469.38,Não,Viagens Longas
+05/08/2023,Passeio Pão de Açúcar (Carro),2,219.92,439.84,275.57,164.27,Sim,Passeios Locais
+05/08/2023,Translado Aeroporto Galeão,2,346.37,692.74,384.38,308.36,Sim,Translados
+05/08/2023,Passeio Pão de Açúcar (Carro),3,198.22,594.66,439.04,155.62,Não,Passeios Locais
+05/08/2023,Tour Búzios (Van),2,222.84,445.68,263.64,182.04,Não,Viagens Longas
+06/08/2023,Translado Aeroporto Santos Dumont,3,974.98,2924.94,1728.07,1196.87,Sim,Translados
+06/08/2023,Passeio Pão de Açúcar (Carro),2,243.51,487.02,312.76,174.26,Não,Passeios Locais
+06/08/2023,Tour Arraial do Cabo (Van),3,864.12,2592.36,1637.46,954.9,Não,Viagens Longas
+06/08/2023,Tour Petrópolis (Carro),2,344.19,688.38,495.88,192.5,Não,Viagens Longas
+06/08/2023,City Tour Completo (Van),3,738.03,2214.09,1242.77,971.32,Não,City Tour
+06/08/2023,Aluguel Van Corporativa,3,1443.4,4330.2,2891.07,1439.13,Sim,Serviço Privado
+06/08/2023,Aluguel Carro Executivo,1,655.04,655.04,375.29,279.75,Sim,Serviço Privado
+07/08/2023,Translado Aeroporto Galeão,2,559.61,1119.22,630.24,488.98,Sim,Translados
+07/08/2023,Passeio Cristo Redentor (Carro),3,387.74,1163.22,690.45,472.77,Sim,Passeios Locais
+07/08/2023,Tour Búzios (Van),1,181.66,181.66,117.73,63.93,Não,Viagens Longas
+07/08/2023,City Tour Completo (Van),2,297.65,595.3,441.26,154.04,Sim,City Tour
+07/08/2023,Tour Petrópolis (Carro),3,976.62,2929.86,2137.88,791.98,Não,Viagens Longas
+08/08/2023,Aluguel Carro Executivo,3,1332.26,3996.78,2515.6,1481.18,Sim,Serviço Privado
+08/08/2023,Passeio Cristo Redentor (Carro),1,1470.88,1470.88,938.25,532.63,Sim,Passeios Locais
+08/08/2023,Translado Aeroporto Santos Dumont,2,483.38,966.76,643.53,323.23,Não,Translados
+08/08/2023,Aluguel Carro Executivo,2,248.92,497.84,287.83,210.01,Não,Serviço Privado
+08/08/2023,Aluguel Van Corporativa,1,907.55,907.55,613.21,294.34,Não,Serviço Privado
+08/08/2023,Tour Búzios (Van),1,1278.37,1278.37,863.95,414.42,Não,Viagens Longas
+08/08/2023,Aluguel Carro Executivo,1,231.05,231.05,130.85,100.2,Sim,Serviço Privado
+08/08/2023,Aluguel Van Corporativa,1,507.05,507.05,285.91,221.14,Não,Serviço Privado
+09/08/2023,Passeio Cristo Redentor (Carro),3,428.02,1284.06,733.73,550.33,Sim,Passeios Locais
+09/08/2023,Aluguel Carro Executivo,2,250.14,500.28,309.06,191.22,Não,Serviço Privado
+09/08/2023,Translado Aeroporto Santos Dumont,2,501.16,1002.32,714.87,287.45,Não,Translados
+09/08/2023,City Tour Completo (Van),2,248.81,497.62,365.91,131.71,Não,City Tour
+09/08/2023,Tour Petrópolis (Carro),3,1054.64,3163.92,2337.19,826.73,Não,Viagens Longas
+10/08/2023,Passeio Cristo Redentor (Carro),2,1268.35,2536.7,1831.19,705.51,Não,Passeios Locais
+10/08/2023,Passeio Cristo Redentor (Carro),1,1046.13,1046.13,649.94,396.19,Sim,Passeios Locais
+10/08/2023,Aluguel Carro Executivo,1,781.59,781.59,489.39,292.2,Não,Serviço Privado
+10/08/2023,Aluguel Carro Executivo,3,258.75,776.25,438.02,338.23,Sim,Serviço Privado
+10/08/2023,Aluguel Van Corporativa,1,767.08,767.08,525.53,241.55,Sim,Serviço Privado
+10/08/2023,Tour Búzios (Van),2,237.4,474.8,345.97,128.83,Não,Viagens Longas
+11/08/2023,Translado Aeroporto Santos Dumont,2,1465.41,2930.82,2171.19,759.63,Sim,Translados
+11/08/2023,Translado Aeroporto Santos Dumont,3,229.47,688.41,415.01,273.4,Sim,Translados
+11/08/2023,Translado Aeroporto Santos Dumont,2,1423.79,2847.58,1578.74,1268.84,Não,Translados
+11/08/2023,Aluguel Carro Executivo,3,877.61,2632.83,1679.89,952.94,Sim,Serviço Privado
+11/08/2023,Translado Aeroporto Galeão,1,376.39,376.39,235.74,140.65,Não,Translados
+11/08/2023,Tour Arraial do Cabo (Van),1,1347.73,1347.73,948.23,399.5,Não,Viagens Longas
+11/08/2023,Aluguel Van Corporativa,1,170.15,170.15,112.95,57.2,Não,Serviço Privado
+11/08/2023,Tour Búzios (Van),3,1361.8,4085.4,2967.33,1118.07,Sim,Viagens Longas
+12/08/2023,Aluguel Carro Executivo,1,747.9,747.9,421.17,326.73,Não,Serviço Privado
+12/08/2023,City Tour Completo (Van),2,320.55,641.1,402.98,238.12,Não,City Tour
+12/08/2023,Tour Arraial do Cabo (Van),3,1452.81,4358.43,2677.98,1680.45,Sim,Viagens Longas
+12/08/2023,City Tour Completo (Van),1,1273.91,1273.91,762.61,511.3,Sim,City Tour
+12/08/2023,Tour Búzios (Van),3,162.74,488.22,358.27,129.95,Não,Viagens Longas
+12/08/2023,Aluguel Carro Executivo,3,478.41,1435.23,820.47,614.76,Sim,Serviço Privado
+12/08/2023,City Tour Completo (Van),3,584.04,1752.12,1067.46,684.66,Não,City Tour
+13/08/2023,Aluguel Van Corporativa,2,1355.91,2711.82,1946.52,765.3,Sim,Serviço Privado
+13/08/2023,Translado Aeroporto Santos Dumont,1,196.21,196.21,132.17,64.04,Não,Translados
+13/08/2023,Aluguel Van Corporativa,1,752.65,752.65,459.52,293.13,Não,Serviço Privado
+13/08/2023,Passeio Pão de Açúcar (Carro),1,881.74,881.74,600.3,281.44,Não,Passeios Locais
+14/08/2023,Tour Búzios (Van),1,927.76,927.76,652.66,275.1,Não,Viagens Longas
+14/08/2023,Tour Arraial do Cabo (Van),3,294.33,882.99,495.6,387.39,Sim,Viagens Longas
+14/08/2023,Translado Aeroporto Galeão,3,985.17,2955.51,2032.12,923.39,Sim,Translados
+14/08/2023,Aluguel Van Corporativa,1,1304.97,1304.97,726.14,578.83,Não,Serviço Privado
+14/08/2023,Tour Arraial do Cabo (Van),1,1265.95,1265.95,864.55,401.4,Não,Viagens Longas
+15/08/2023,Passeio Cristo Redentor (Carro),3,987.07,2961.21,2173.5,787.71,Não,Passeios Locais
+15/08/2023,Translado Aeroporto Galeão,2,622.07,1244.14,685.11,559.03,Sim,Translados
+15/08/2023,Translado Aeroporto Galeão,3,379.61,1138.83,677.46,461.37,Sim,Translados
+15/08/2023,Passeio Cristo Redentor (Carro),1,270.0,270.0,167.13,102.87,Sim,Passeios Locais
+15/08/2023,Passeio Cristo Redentor (Carro),1,784.85,784.85,570.88,213.97,Não,Passeios Locais
+15/08/2023,Tour Petrópolis (Carro),1,797.06,797.06,457.1,339.96,Não,Viagens Longas
+15/08/2023,Tour Petrópolis (Carro),2,988.21,1976.42,1326.48,649.94,Não,Viagens Longas
+15/08/2023,Passeio Pão de Açúcar (Carro),2,1314.46,2628.92,1822.1,806.82,Sim,Passeios Locais
+16/08/2023,Tour Petrópolis (Carro),1,1209.3,1209.3,743.62,465.68,Sim,Viagens Longas
+16/08/2023,Passeio Pão de Açúcar (Carro),2,925.45,1850.9,1177.68,673.22,Não,Passeios Locais
+16/08/2023,Translado Aeroporto Galeão,2,1015.94,2031.88,1472.46,559.42,Sim,Translados
+16/08/2023,Aluguel Carro Executivo,2,887.79,1775.58,1183.78,591.8,Não,Serviço Privado
+17/08/2023,Passeio Cristo Redentor (Carro),2,869.64,1739.28,1090.79,648.49,Não,Passeios Locais
+17/08/2023,Passeio Cristo Redentor (Carro),2,873.36,1746.72,1169.58,577.14,Não,Passeios Locais
+17/08/2023,Tour Búzios (Van),1,570.41,570.41,396.57,173.84,Sim,Viagens Longas
+17/08/2023,Passeio Pão de Açúcar (Carro),1,1085.69,1085.69,733.99,351.7,Não,Passeios Locais
+17/08/2023,Passeio Cristo Redentor (Carro),2,461.58,923.16,687.08,236.08,Não,Passeios Locais
+18/08/2023,Aluguel Carro Executivo,3,350.26,1050.78,638.75,412.03,Sim,Serviço Privado
+18/08/2023,Translado Aeroporto Galeão,1,218.95,218.95,156.47,62.48,Não,Translados
+18/08/2023,City Tour Completo (Van),3,243.24,729.72,478.44,251.28,Não,City Tour
+18/08/2023,Translado Aeroporto Santos Dumont,1,751.79,751.79,529.85,221.94,Não,Translados
+18/08/2023,Aluguel Carro Executivo,1,787.45,787.45,494.34,293.11,Não,Serviço Privado
+18/08/2023,Aluguel Carro Executivo,1,883.34,883.34,537.13,346.21,Não,Serviço Privado
+18/08/2023,Tour Arraial do Cabo (Van),2,850.84,1701.68,1122.94,578.74,Sim,Viagens Longas
+19/08/2023,Translado Aeroporto Galeão,2,275.63,551.26,401.01,150.25,Não,Translados
+19/08/2023,Aluguel Carro Executivo,2,527.49,1054.98,593.14,461.84,Não,Serviço Privado
+19/08/2023,Tour Búzios (Van),2,251.92,503.84,370.78,133.06,Não,Viagens Longas
+19/08/2023,Tour Arraial do Cabo (Van),3,658.4,1975.2,1396.06,579.14,Sim,Viagens Longas
+19/08/2023,Translado Aeroporto Santos Dumont,1,467.75,467.75,277.76,189.99,Sim,Translados
+20/08/2023,Aluguel Carro Executivo,3,1406.16,4218.48,3123.8,1094.68,Não,Serviço Privado
+20/08/2023,Tour Búzios (Van),3,907.36,2722.08,2032.54,689.54,Não,Viagens Longas
+20/08/2023,Translado Aeroporto Galeão,1,192.9,192.9,139.31,53.59,Sim,Translados
+20/08/2023,Translado Aeroporto Santos Dumont,2,822.15,1644.3,1026.68,617.62,Não,Translados
+21/08/2023,Tour Petrópolis (Carro),3,559.37,1678.11,1240.5,437.61,Não,Viagens Longas
+21/08/2023,Tour Arraial do Cabo (Van),1,232.94,232.94,133.02,99.92,Não,Viagens Longas
+21/08/2023,Translado Aeroporto Santos Dumont,2,681.52,1363.04,848.44,514.6,Sim,Translados
+21/08/2023,Translado Aeroporto Santos Dumont,1,466.34,466.34,257.24,209.1,Não,Translados
+21/08/2023,Tour Búzios (Van),1,402.21,402.21,270.65,131.56,Não,Viagens Longas
+21/08/2023,Passeio Pão de Açúcar (Carro),3,684.14,2052.42,1536.9,515.52,Sim,Passeios Locais
+22/08/2023,Tour Petrópolis (Carro),1,1313.56,1313.56,830.6,482.96,Não,Viagens Longas
+22/08/2023,Aluguel Carro Executivo,1,752.32,752.32,528.35,223.97,Sim,Serviço Privado
+22/08/2023,Aluguel Carro Executivo,3,1287.32,3861.96,2308.32,1553.64,Não,Serviço Privado
+22/08/2023,City Tour Completo (Van),3,1379.14,4137.42,2373.38,1764.04,Não,City Tour
+22/08/2023,City Tour Completo (Van),3,1106.3,3318.9,2250.45,1068.45,Sim,City Tour
+22/08/2023,Aluguel Carro Executivo,2,876.5,1753.0,969.47,783.53,Não,Serviço Privado
+22/08/2023,Aluguel Van Corporativa,2,416.79,833.58,623.74,209.84,Não,Serviço Privado
+22/08/2023,Aluguel Van Corporativa,3,534.17,1602.51,1190.49,412.02,Não,Serviço Privado
+23/08/2023,Passeio Cristo Redentor (Carro),1,1048.19,1048.19,678.94,369.25,Não,Passeios Locais
+23/08/2023,Tour Búzios (Van),3,515.56,1546.68,1014.63,532.05,Sim,Viagens Longas
+23/08/2023,Passeio Cristo Redentor (Carro),3,967.31,2901.93,1870.8,1031.13,Não,Passeios Locais
+23/08/2023,City Tour Completo (Van),1,245.54,245.54,135.31,110.23,Não,City Tour
+23/08/2023,Passeio Cristo Redentor (Carro),3,672.7,2018.1,1122.07,896.03,Sim,Passeios Locais
+24/08/2023,Tour Petrópolis (Carro),1,1434.33,1434.33,939.12,495.21,Não,Viagens Longas
+24/08/2023,Translado Aeroporto Santos Dumont,2,172.78,345.56,215.88,129.68,Não,Translados
+24/08/2023,Tour Búzios (Van),3,242.96,728.88,410.06,318.82,Não,Viagens Longas
+24/08/2023,Tour Petrópolis (Carro),2,642.43,1284.86,959.14,325.72,Não,Viagens Longas
+24/08/2023,City Tour Completo (Van),3,1184.29,3552.87,2178.12,1374.75,Sim,City Tour
+24/08/2023,Aluguel Carro Executivo,2,461.4,922.8,597.34,325.46,Sim,Serviço Privado
+24/08/2023,Passeio Cristo Redentor (Carro),3,728.03,2184.09,1396.66,787.43,Não,Passeios Locais
+25/08/2023,City Tour Completo (Van),3,1186.45,3559.35,2496.07,1063.28,Sim,City Tour
+25/08/2023,Translado Aeroporto Galeão,1,1324.89,1324.89,781.13,543.76,Sim,Translados
+25/08/2023,Tour Petrópolis (Carro),3,351.35,1054.05,595.53,458.52,Não,Viagens Longas
+25/08/2023,Passeio Cristo Redentor (Carro),3,1180.69,3542.07,2349.71,1192.36,Não,Passeios Locais
+25/08/2023,Translado Aeroporto Santos Dumont,1,207.53,207.53,133.21,74.32,Não,Translados
+26/08/2023,Aluguel Carro Executivo,2,608.43,1216.86,807.46,409.4,Sim,Serviço Privado
+26/08/2023,City Tour Completo (Van),1,1029.52,1029.52,572.83,456.69,Não,City Tour
+26/08/2023,Passeio Pão de Açúcar (Carro),1,811.08,811.08,583.67,227.41,Sim,Passeios Locais
+26/08/2023,Translado Aeroporto Santos Dumont,2,244.81,489.62,290.65,198.97,Não,Translados
+26/08/2023,Aluguel Van Corporativa,1,523.01,523.01,294.63,228.38,Não,Serviço Privado
+27/08/2023,Tour Petrópolis (Carro),1,1098.37,1098.37,673.97,424.4,Sim,Viagens Longas
+27/08/2023,Translado Aeroporto Galeão,2,350.69,701.38,478.03,223.35,Sim,Translados
+27/08/2023,City Tour Completo (Van),1,418.84,418.84,300.23,118.61,Sim,City Tour
+27/08/2023,Tour Arraial do Cabo (Van),2,1207.19,2414.38,1772.99,641.39,Não,Viagens Longas
+27/08/2023,Translado Aeroporto Galeão,3,252.81,758.43,450.69,307.74,Não,Translados
+28/08/2023,Tour Arraial do Cabo (Van),2,785.82,1571.64,888.57,683.07,Não,Viagens Longas
+28/08/2023,Aluguel Carro Executivo,3,426.01,1278.03,793.54,484.49,Sim,Serviço Privado
+28/08/2023,Translado Aeroporto Santos Dumont,1,1293.86,1293.86,878.9,414.96,Sim,Translados
+29/08/2023,City Tour Completo (Van),1,1332.71,1332.71,894.23,438.48,Não,City Tour
+29/08/2023,Aluguel Van Corporativa,1,1210.96,1210.96,769.02,441.94,Não,Serviço Privado
+29/08/2023,Passeio Cristo Redentor (Carro),2,480.74,961.48,634.28,327.2,Sim,Passeios Locais
+29/08/2023,Passeio Pão de Açúcar (Carro),2,956.88,1913.76,1286.16,627.6,Não,Passeios Locais
+29/08/2023,Aluguel Carro Executivo,1,1037.78,1037.78,636.27,401.51,Sim,Serviço Privado
+29/08/2023,Translado Aeroporto Galeão,1,996.72,996.72,650.43,346.29,Não,Translados
+29/08/2023,Tour Arraial do Cabo (Van),3,1259.48,3778.44,2591.15,1187.29,Não,Viagens Longas
+30/08/2023,Tour Petrópolis (Carro),2,295.98,591.96,350.34,241.62,Não,Viagens Longas
+30/08/2023,City Tour Completo (Van),1,196.14,196.14,138.15,57.99,Não,City Tour
+30/08/2023,Aluguel Carro Executivo,2,1367.3,2734.6,1627.72,1106.88,Sim,Serviço Privado
+30/08/2023,Aluguel Carro Executivo,3,1054.71,3164.13,2171.94,992.19,Não,Serviço Privado
+30/08/2023,Tour Búzios (Van),2,744.57,1489.14,1085.12,404.02,Não,Viagens Longas
+30/08/2023,Translado Aeroporto Santos Dumont,3,155.71,467.13,300.75,166.38,Sim,Translados
+30/08/2023,Passeio Pão de Açúcar (Carro),2,1332.26,2664.52,1641.31,1023.21,Não,Passeios Locais
+31/08/2023,City Tour Completo (Van),1,1492.84,1492.84,995.55,497.29,Sim,City Tour
+31/08/2023,Passeio Pão de Açúcar (Carro),3,800.92,2402.76,1695.69,707.07,Não,Passeios Locais
+31/08/2023,Aluguel Carro Executivo,3,742.67,2228.01,1325.02,902.99,Não,Serviço Privado
+31/08/2023,Aluguel Van Corporativa,2,1051.25,2102.5,1243.86,858.64,Sim,Serviço Privado
+31/08/2023,Aluguel Carro Executivo,2,1341.43,2682.86,1681.29,1001.57,Não,Serviço Privado
+31/08/2023,Tour Petrópolis (Carro),1,257.13,257.13,162.27,94.86,Não,Viagens Longas
+31/08/2023,Aluguel Van Corporativa,2,1272.77,2545.54,1420.3,1125.24,Não,Serviço Privado
+01/09/2023,Passeio Pão de Açúcar (Carro),2,478.82,957.64,543.3,414.34,Não,Passeios Locais
+01/09/2023,Tour Petrópolis (Carro),1,428.69,428.69,315.54,113.15,Não,Viagens Longas
+01/09/2023,Aluguel Van Corporativa,2,582.45,1164.9,761.65,403.25,Sim,Serviço Privado
+01/09/2023,City Tour Completo (Van),2,1332.08,2664.16,1558.33,1105.83,Não,City Tour
+01/09/2023,Translado Aeroporto Galeão,3,681.1,2043.3,1520.22,523.08,Não,Translados
+02/09/2023,Aluguel Van Corporativa,1,194.18,194.18,143.63,50.55,Não,Serviço Privado
+02/09/2023,Translado Aeroporto Santos Dumont,1,1366.8,1366.8,828.69,538.11,Sim,Translados
+02/09/2023,Aluguel Van Corporativa,1,917.54,917.54,668.28,249.26,Sim,Serviço Privado
+02/09/2023,City Tour Completo (Van),1,1077.36,1077.36,724.25,353.11,Não,City Tour
+02/09/2023,Passeio Cristo Redentor (Carro),2,799.49,1598.98,960.02,638.96,Não,Passeios Locais
+02/09/2023,Aluguel Van Corporativa,1,392.84,392.84,226.0,166.84,Não,Serviço Privado
+02/09/2023,Passeio Pão de Açúcar (Carro),3,814.6,2443.8,1645.5,798.3,Não,Passeios Locais
+02/09/2023,Passeio Cristo Redentor (Carro),2,1389.01,2778.02,1981.76,796.26,Sim,Passeios Locais
+03/09/2023,Tour Arraial do Cabo (Van),3,1028.44,3085.32,2122.8,962.52,Não,Viagens Longas
+03/09/2023,Tour Búzios (Van),1,1055.01,1055.01,705.13,349.88,Não,Viagens Longas
+03/09/2023,Passeio Pão de Açúcar (Carro),1,1100.69,1100.69,689.28,411.41,Sim,Passeios Locais
+03/09/2023,Passeio Cristo Redentor (Carro),1,1466.8,1466.8,1066.06,400.74,Não,Passeios Locais
+03/09/2023,Translado Aeroporto Santos Dumont,2,545.74,1091.48,621.98,469.5,Não,Translados
+03/09/2023,Tour Arraial do Cabo (Van),2,515.9,1031.8,607.15,424.65,Não,Viagens Longas
+03/09/2023,Tour Arraial do Cabo (Van),2,625.41,1250.82,697.73,553.09,Não,Viagens Longas
+03/09/2023,Aluguel Carro Executivo,3,855.42,2566.26,1636.37,929.89,Sim,Serviço Privado
+04/09/2023,Translado Aeroporto Galeão,3,1198.79,3596.37,2003.01,1593.36,Sim,Translados
+04/09/2023,Passeio Pão de Açúcar (Carro),3,1191.8,3575.4,2578.95,996.45,Sim,Passeios Locais
+04/09/2023,Aluguel Carro Executivo,2,978.29,1956.58,1375.36,581.22,Não,Serviço Privado
+05/09/2023,Tour Búzios (Van),3,1124.56,3373.68,2122.44,1251.24,Não,Viagens Longas
+05/09/2023,Passeio Cristo Redentor (Carro),1,856.71,856.71,514.27,342.44,Não,Passeios Locais
+05/09/2023,Tour Arraial do Cabo (Van),2,1057.32,2114.64,1505.61,609.03,Não,Viagens Longas
+05/09/2023,Tour Búzios (Van),2,508.14,1016.28,650.82,365.46,Sim,Viagens Longas
+05/09/2023,Aluguel Carro Executivo,2,390.86,781.72,473.89,307.83,Sim,Serviço Privado
+05/09/2023,Passeio Cristo Redentor (Carro),2,479.7,959.4,681.54,277.86,Sim,Passeios Locais
+06/09/2023,Aluguel Carro Executivo,2,573.96,1147.92,799.61,348.31,Não,Serviço Privado
+06/09/2023,Tour Arraial do Cabo (Van),1,1176.89,1176.89,713.87,463.02,Não,Viagens Longas
+06/09/2023,Translado Aeroporto Galeão,3,600.7,1802.1,1269.14,532.96,Sim,Translados
+06/09/2023,Tour Búzios (Van),1,1291.24,1291.24,803.45,487.79,Não,Viagens Longas
+06/09/2023,Aluguel Van Corporativa,1,854.86,854.86,476.29,378.57,Não,Serviço Privado
+06/09/2023,Translado Aeroporto Santos Dumont,3,276.81,830.43,580.26,250.17,Não,Translados
+06/09/2023,Passeio Cristo Redentor (Carro),3,1175.42,3526.26,2526.66,999.6,Não,Passeios Locais
+07/09/2023,Tour Búzios (Van),1,232.78,232.78,146.38,86.4,Sim,Viagens Longas
+07/09/2023,City Tour Completo (Van),3,892.67,2678.01,1823.96,854.05,Sim,City Tour
+07/09/2023,Passeio Pão de Açúcar (Carro),3,899.55,2698.65,1884.25,814.4,Sim,Passeios Locais
+07/09/2023,Passeio Pão de Açúcar (Carro),3,685.56,2056.68,1307.47,749.21,Não,Passeios Locais
+07/09/2023,Aluguel Carro Executivo,3,1375.05,4125.15,3071.36,1053.79,Não,Serviço Privado
+08/09/2023,Translado Aeroporto Santos Dumont,1,1227.01,1227.01,858.66,368.35,Sim,Translados
+08/09/2023,Aluguel Van Corporativa,2,359.62,719.24,490.23,229.01,Não,Serviço Privado
+08/09/2023,Translado Aeroporto Galeão,2,989.69,1979.38,1221.94,757.44,Não,Translados
+08/09/2023,Translado Aeroporto Galeão,2,290.03,580.06,390.33,189.73,Sim,Translados
+08/09/2023,Aluguel Van Corporativa,2,256.95,513.9,373.8,140.1,Não,Serviço Privado
+08/09/2023,City Tour Completo (Van),3,367.22,1101.66,676.47,425.19,Sim,City Tour
+08/09/2023,Tour Búzios (Van),2,426.59,853.18,571.83,281.35,Sim,Viagens Longas
+09/09/2023,Translado Aeroporto Santos Dumont,1,430.39,430.39,288.84,141.55,Sim,Translados
+09/09/2023,Tour Arraial do Cabo (Van),2,505.81,1011.62,591.01,420.61,Não,Viagens Longas
+09/09/2023,City Tour Completo (Van),3,1159.19,3477.57,2499.01,978.56,Sim,City Tour
+09/09/2023,Aluguel Van Corporativa,3,422.18,1266.54,790.65,475.89,Não,Serviço Privado
+09/09/2023,Aluguel Van Corporativa,3,1203.55,3610.65,2246.76,1363.89,Não,Serviço Privado
+09/09/2023,Passeio Cristo Redentor (Carro),3,1015.61,3046.83,1867.28,1179.55,Sim,Passeios Locais
+09/09/2023,Passeio Pão de Açúcar (Carro),3,1251.4,3754.2,2655.18,1099.02,Não,Passeios Locais
+10/09/2023,City Tour Completo (Van),1,453.77,453.77,301.38,152.39,Sim,City Tour
+10/09/2023,Tour Búzios (Van),2,1396.46,2792.92,1828.92,964.0,Sim,Viagens Longas
+10/09/2023,Translado Aeroporto Galeão,3,520.75,1562.25,947.47,614.78,Não,Translados
+10/09/2023,Aluguel Carro Executivo,2,1440.17,2880.34,1647.05,1233.29,Não,Serviço Privado
+10/09/2023,Tour Arraial do Cabo (Van),2,212.55,425.1,258.86,166.24,Não,Viagens Longas
+10/09/2023,City Tour Completo (Van),2,1142.58,2285.16,1271.05,1014.11,Não,City Tour
+10/09/2023,Passeio Pão de Açúcar (Carro),1,1375.14,1375.14,1001.84,373.3,Sim,Passeios Locais
+10/09/2023,Translado Aeroporto Santos Dumont,3,444.7,1334.1,767.93,566.17,Não,Translados
+11/09/2023,Tour Petrópolis (Carro),2,1159.72,2319.44,1370.39,949.05,Não,Viagens Longas
+11/09/2023,Translado Aeroporto Galeão,2,443.8,887.6,584.32,303.28,Sim,Translados
+11/09/2023,Aluguel Van Corporativa,3,819.44,2458.32,1795.05,663.27,Não,Serviço Privado
+11/09/2023,Tour Petrópolis (Carro),3,981.6,2944.8,2168.6,776.2,Não,Viagens Longas
+12/09/2023,Tour Petrópolis (Carro),3,525.01,1575.03,971.68,603.35,Não,Viagens Longas
+12/09/2023,Translado Aeroporto Galeão,1,1162.7,1162.7,712.85,449.85,Não,Translados
+12/09/2023,Tour Arraial do Cabo (Van),2,1235.88,2471.76,1765.97,705.79,Sim,Viagens Longas
+12/09/2023,City Tour Completo (Van),3,261.89,785.67,499.23,286.44,Não,City Tour
+12/09/2023,Tour Búzios (Van),3,856.68,2570.04,1456.44,1113.6,Sim,Viagens Longas
+12/09/2023,Tour Arraial do Cabo (Van),1,792.76,792.76,444.57,348.19,Não,Viagens Longas
+12/09/2023,Aluguel Carro Executivo,3,326.75,980.25,683.11,297.14,Sim,Serviço Privado
+12/09/2023,Translado Aeroporto Santos Dumont,1,1303.29,1303.29,976.73,326.56,Sim,Translados
+13/09/2023,Aluguel Van Corporativa,3,1375.83,4127.49,2796.79,1330.7,Não,Serviço Privado
+13/09/2023,City Tour Completo (Van),3,376.61,1129.83,679.56,450.27,Não,City Tour
+13/09/2023,Translado Aeroporto Galeão,1,930.23,930.23,576.21,354.02,Sim,Translados
+13/09/2023,City Tour Completo (Van),1,1222.48,1222.48,747.15,475.33,Sim,City Tour
+13/09/2023,Passeio Cristo Redentor (Carro),2,520.28,1040.56,674.67,365.89,Não,Passeios Locais
+13/09/2023,Tour Arraial do Cabo (Van),2,1459.69,2919.38,2035.5,883.88,Sim,Viagens Longas
+13/09/2023,Translado Aeroporto Galeão,2,1389.67,2779.34,1721.08,1058.26,Não,Translados
+14/09/2023,Tour Petrópolis (Carro),2,1139.92,2279.84,1534.28,745.56,Não,Viagens Longas
+14/09/2023,Tour Arraial do Cabo (Van),1,1399.04,1399.04,932.88,466.16,Não,Viagens Longas
+14/09/2023,Passeio Pão de Açúcar (Carro),3,610.29,1830.87,1345.22,485.65,Não,Passeios Locais
+14/09/2023,Tour Búzios (Van),1,322.26,322.26,224.13,98.13,Não,Viagens Longas
+14/09/2023,Passeio Pão de Açúcar (Carro),3,1223.51,3670.53,2564.57,1105.96,Sim,Passeios Locais
+15/09/2023,Passeio Pão de Açúcar (Carro),3,722.26,2166.78,1476.57,690.21,Não,Passeios Locais
+15/09/2023,Aluguel Van Corporativa,3,471.21,1413.63,997.49,416.14,Sim,Serviço Privado
+15/09/2023,Tour Petrópolis (Carro),1,510.18,510.18,376.92,133.26,Sim,Viagens Longas
+15/09/2023,Aluguel Carro Executivo,1,217.99,217.99,157.12,60.87,Não,Serviço Privado
+15/09/2023,Translado Aeroporto Santos Dumont,3,417.65,1252.95,886.97,365.98,Não,Translados
+15/09/2023,Translado Aeroporto Santos Dumont,2,431.41,862.82,515.84,346.98,Não,Translados
+15/09/2023,Translado Aeroporto Santos Dumont,1,493.74,493.74,327.56,166.18,Sim,Translados
+15/09/2023,Aluguel Van Corporativa,3,216.43,649.29,391.27,258.02,Não,Serviço Privado
+16/09/2023,Translado Aeroporto Santos Dumont,2,1056.75,2113.5,1361.96,751.54,Sim,Translados
+16/09/2023,Passeio Pão de Açúcar (Carro),3,519.13,1557.39,1068.68,488.71,Não,Passeios Locais
+16/09/2023,Aluguel Van Corporativa,3,777.25,2331.75,1432.16,899.59,Sim,Serviço Privado
+16/09/2023,Translado Aeroporto Galeão,1,396.43,396.43,271.47,124.96,Não,Translados
+16/09/2023,Aluguel Carro Executivo,1,1286.19,1286.19,783.23,502.96,Sim,Serviço Privado
+16/09/2023,Translado Aeroporto Galeão,2,1184.99,2369.98,1661.79,708.19,Sim,Translados
+17/09/2023,Tour Petrópolis (Carro),2,184.04,368.08,265.77,102.31,Não,Viagens Longas
+17/09/2023,Translado Aeroporto Galeão,3,304.71,914.13,517.46,396.67,Sim,Translados
+17/09/2023,Translado Aeroporto Santos Dumont,3,1464.47,4393.41,2750.75,1642.66,Sim,Translados
+17/09/2023,Passeio Cristo Redentor (Carro),3,351.95,1055.85,619.33,436.52,Não,Passeios Locais
+17/09/2023,Passeio Cristo Redentor (Carro),1,1435.64,1435.64,972.84,462.8,Não,Passeios Locais
+17/09/2023,Translado Aeroporto Galeão,1,569.77,569.77,338.41,231.36,Não,Translados
+17/09/2023,Passeio Cristo Redentor (Carro),1,342.29,342.29,240.1,102.19,Sim,Passeios Locais
+18/09/2023,Tour Arraial do Cabo (Van),2,597.4,1194.8,793.82,400.98,Não,Viagens Longas
+18/09/2023,Aluguel Carro Executivo,2,1363.91,2727.82,1828.39,899.43,Sim,Serviço Privado
+18/09/2023,Translado Aeroporto Galeão,3,524.1,1572.3,1172.45,399.85,Não,Translados
+18/09/2023,Translado Aeroporto Galeão,1,575.06,575.06,362.73,212.33,Não,Translados
+18/09/2023,Tour Petrópolis (Carro),2,1310.92,2621.84,1613.86,1007.98,Sim,Viagens Longas
+18/09/2023,Tour Búzios (Van),1,693.36,693.36,427.43,265.93,Não,Viagens Longas
+18/09/2023,Tour Arraial do Cabo (Van),3,1458.98,4376.94,2918.61,1458.33,Não,Viagens Longas
+18/09/2023,Passeio Cristo Redentor (Carro),1,621.82,621.82,342.52,279.3,Sim,Passeios Locais
+19/09/2023,Translado Aeroporto Santos Dumont,2,485.25,970.5,577.52,392.98,Não,Translados
+19/09/2023,Passeio Cristo Redentor (Carro),1,372.87,372.87,213.72,159.15,Sim,Passeios Locais
+19/09/2023,Translado Aeroporto Santos Dumont,1,780.79,780.79,583.57,197.22,Não,Translados
+19/09/2023,Tour Búzios (Van),1,933.24,933.24,647.1,286.14,Sim,Viagens Longas
+20/09/2023,Translado Aeroporto Santos Dumont,3,1103.07,3309.21,2479.64,829.57,Não,Translados
+20/09/2023,Tour Arraial do Cabo (Van),3,811.5,2434.5,1459.84,974.66,Não,Viagens Longas
+20/09/2023,Translado Aeroporto Santos Dumont,2,213.78,427.56,265.26,162.3,Não,Translados
+20/09/2023,Tour Petrópolis (Carro),1,1082.64,1082.64,694.75,387.89,Sim,Viagens Longas
+20/09/2023,Aluguel Van Corporativa,3,839.27,2517.81,1409.43,1108.38,Sim,Serviço Privado
+20/09/2023,Translado Aeroporto Galeão,3,1306.82,3920.46,2272.24,1648.22,Não,Translados
+20/09/2023,Translado Aeroporto Santos Dumont,1,247.38,247.38,175.96,71.42,Não,Translados
+20/09/2023,Tour Búzios (Van),2,1154.58,2309.16,1663.74,645.42,Não,Viagens Longas
+21/09/2023,Translado Aeroporto Santos Dumont,2,934.89,1869.78,1274.62,595.16,Sim,Translados
+21/09/2023,Translado Aeroporto Santos Dumont,3,1360.44,4081.32,2917.5,1163.82,Não,Translados
+21/09/2023,Aluguel Carro Executivo,2,797.4,1594.8,877.52,717.28,Não,Serviço Privado
+22/09/2023,Aluguel Van Corporativa,3,1059.98,3179.94,2162.12,1017.82,Não,Serviço Privado
+22/09/2023,City Tour Completo (Van),1,426.97,426.97,283.32,143.65,Não,City Tour
+22/09/2023,Aluguel Carro Executivo,3,582.99,1748.97,1170.61,578.36,Não,Serviço Privado
+22/09/2023,Tour Petrópolis (Carro),2,521.86,1043.72,588.26,455.46,Não,Viagens Longas
+23/09/2023,Tour Petrópolis (Carro),3,404.47,1213.41,842.63,370.78,Não,Viagens Longas
+23/09/2023,Passeio Pão de Açúcar (Carro),1,679.38,679.38,375.07,304.31,Sim,Passeios Locais
+23/09/2023,Translado Aeroporto Galeão,1,855.98,855.98,527.72,328.26,Não,Translados
+23/09/2023,Passeio Pão de Açúcar (Carro),1,1147.01,1147.01,766.96,380.05,Sim,Passeios Locais
+23/09/2023,Translado Aeroporto Galeão,1,267.79,267.79,151.79,116.0,Não,Translados
+24/09/2023,Translado Aeroporto Santos Dumont,2,1244.29,2488.58,1644.53,844.05,Sim,Translados
+24/09/2023,Tour Petrópolis (Carro),1,340.5,340.5,202.5,138.0,Sim,Viagens Longas
+24/09/2023,Translado Aeroporto Santos Dumont,2,1266.49,2532.98,1759.09,773.89,Sim,Translados
+25/09/2023,Translado Aeroporto Santos Dumont,2,876.45,1752.9,1072.14,680.76,Não,Translados
+25/09/2023,Passeio Pão de Açúcar (Carro),2,268.26,536.52,359.65,176.87,Sim,Passeios Locais
+25/09/2023,Tour Arraial do Cabo (Van),3,793.35,2380.05,1713.21,666.84,Sim,Viagens Longas
+25/09/2023,Tour Búzios (Van),1,1017.34,1017.34,758.68,258.66,Não,Viagens Longas
+25/09/2023,Passeio Cristo Redentor (Carro),3,173.36,520.08,309.02,211.06,Não,Passeios Locais
+25/09/2023,Aluguel Van Corporativa,2,518.9,1037.8,620.03,417.77,Sim,Serviço Privado
+25/09/2023,Translado Aeroporto Galeão,2,1234.84,2469.68,1714.62,755.06,Sim,Translados
+25/09/2023,Passeio Cristo Redentor (Carro),2,574.13,1148.26,674.0,474.26,Sim,Passeios Locais
+26/09/2023,Tour Arraial do Cabo (Van),3,600.38,1801.14,1170.37,630.77,Não,Viagens Longas
+26/09/2023,Aluguel Van Corporativa,1,583.37,583.37,367.39,215.98,Sim,Serviço Privado
+26/09/2023,Tour Petrópolis (Carro),3,494.89,1484.67,866.19,618.48,Não,Viagens Longas
+26/09/2023,Passeio Pão de Açúcar (Carro),3,1022.19,3066.57,1869.37,1197.2,Não,Passeios Locais
+26/09/2023,Aluguel Van Corporativa,1,1454.85,1454.85,855.2,599.65,Sim,Serviço Privado
+26/09/2023,City Tour Completo (Van),2,621.68,1243.36,799.76,443.6,Sim,City Tour
+26/09/2023,Passeio Cristo Redentor (Carro),2,1219.66,2439.32,1493.66,945.66,Sim,Passeios Locais
+27/09/2023,Passeio Cristo Redentor (Carro),1,1079.5,1079.5,774.47,305.03,Não,Passeios Locais
+27/09/2023,Passeio Pão de Açúcar (Carro),1,670.39,670.39,394.71,275.68,Não,Passeios Locais
+27/09/2023,Tour Petrópolis (Carro),2,312.83,625.66,354.36,271.3,Sim,Viagens Longas
+27/09/2023,Passeio Cristo Redentor (Carro),2,938.61,1877.22,1363.18,514.04,Não,Passeios Locais
+27/09/2023,City Tour Completo (Van),1,575.29,575.29,319.53,255.76,Não,City Tour
+27/09/2023,Tour Arraial do Cabo (Van),3,859.71,2579.13,1626.79,952.34,Não,Viagens Longas
+27/09/2023,Passeio Cristo Redentor (Carro),3,1056.49,3169.47,1988.21,1181.26,Sim,Passeios Locais
+28/09/2023,Aluguel Carro Executivo,3,396.93,1190.79,839.88,350.91,Não,Serviço Privado
+28/09/2023,Tour Arraial do Cabo (Van),3,301.01,903.03,511.9,391.13,Não,Viagens Longas
+28/09/2023,Aluguel Carro Executivo,3,1154.91,3464.73,2293.6,1171.13,Sim,Serviço Privado
+28/09/2023,City Tour Completo (Van),2,772.41,1544.82,992.93,551.89,Não,City Tour
+28/09/2023,Passeio Cristo Redentor (Carro),2,303.85,607.7,441.09,166.61,Não,Passeios Locais
+28/09/2023,Tour Petrópolis (Carro),3,1043.96,3131.88,1918.76,1213.12,Sim,Viagens Longas
+28/09/2023,Translado Aeroporto Galeão,3,1099.35,3298.05,1906.15,1391.9,Não,Translados
+28/09/2023,Translado Aeroporto Galeão,1,949.89,949.89,625.1,324.79,Não,Translados
+29/09/2023,Passeio Cristo Redentor (Carro),1,185.75,185.75,135.29,50.46,Não,Passeios Locais
+29/09/2023,Passeio Pão de Açúcar (Carro),1,686.96,686.96,493.19,193.77,Não,Passeios Locais
+29/09/2023,Tour Petrópolis (Carro),3,1081.06,3243.18,2336.97,906.21,Não,Viagens Longas
+29/09/2023,Translado Aeroporto Santos Dumont,1,1191.87,1191.87,821.19,370.68,Não,Translados
+30/09/2023,Passeio Pão de Açúcar (Carro),1,506.82,506.82,330.72,176.1,Não,Passeios Locais
+30/09/2023,Aluguel Carro Executivo,1,991.14,991.14,624.83,366.31,Sim,Serviço Privado
+30/09/2023,Translado Aeroporto Santos Dumont,1,1022.64,1022.64,745.68,276.96,Sim,Translados
+30/09/2023,Tour Petrópolis (Carro),2,1238.12,2476.24,1498.5,977.74,Não,Viagens Longas
+01/10/2023,Passeio Pão de Açúcar (Carro),1,639.89,639.89,404.46,235.43,Sim,Passeios Locais
+01/10/2023,Tour Búzios (Van),3,272.25,816.75,543.16,273.59,Sim,Viagens Longas
+01/10/2023,Passeio Cristo Redentor (Carro),1,1039.98,1039.98,733.26,306.72,Sim,Passeios Locais
+01/10/2023,Tour Petrópolis (Carro),1,431.08,431.08,259.55,171.53,Sim,Viagens Longas
+02/10/2023,Passeio Pão de Açúcar (Carro),3,1186.29,3558.87,2000.82,1558.05,Sim,Passeios Locais
+02/10/2023,Aluguel Carro Executivo,2,1207.72,2415.44,1607.1,808.34,Não,Serviço Privado
+02/10/2023,Tour Búzios (Van),2,853.68,1707.36,1081.16,626.2,Não,Viagens Longas
+03/10/2023,Tour Petrópolis (Carro),1,933.73,933.73,569.61,364.12,Sim,Viagens Longas
+03/10/2023,Tour Búzios (Van),1,1385.15,1385.15,967.92,417.23,Não,Viagens Longas
+03/10/2023,Tour Arraial do Cabo (Van),1,1013.8,1013.8,701.68,312.12,Sim,Viagens Longas
+03/10/2023,City Tour Completo (Van),3,1074.57,3223.71,2150.95,1072.76,Não,City Tour
+03/10/2023,Tour Petrópolis (Carro),1,570.07,570.07,426.67,143.4,Sim,Viagens Longas
+03/10/2023,Tour Arraial do Cabo (Van),1,396.7,396.7,232.66,164.04,Não,Viagens Longas
+04/10/2023,City Tour Completo (Van),2,443.88,887.76,530.63,357.13,Não,City Tour
+04/10/2023,Tour Arraial do Cabo (Van),3,671.84,2015.52,1183.06,832.46,Sim,Viagens Longas
+04/10/2023,Tour Petrópolis (Carro),2,613.03,1226.06,677.59,548.47,Não,Viagens Longas
+04/10/2023,Translado Aeroporto Galeão,3,1473.09,4419.27,2549.41,1869.86,Sim,Translados
+04/10/2023,Aluguel Van Corporativa,2,796.29,1592.58,1075.0,517.58,Não,Serviço Privado
+04/10/2023,City Tour Completo (Van),1,471.69,471.69,296.24,175.45,Não,City Tour
+04/10/2023,Aluguel Van Corporativa,1,1058.55,1058.55,735.06,323.49,Sim,Serviço Privado
+04/10/2023,Translado Aeroporto Galeão,2,785.19,1570.38,1161.12,409.26,Não,Translados
+05/10/2023,Aluguel Carro Executivo,2,1273.29,2546.58,1517.37,1029.21,Sim,Serviço Privado
+05/10/2023,City Tour Completo (Van),3,244.79,734.37,456.76,277.61,Não,City Tour
+05/10/2023,Aluguel Carro Executivo,3,193.24,579.72,377.29,202.43,Não,Serviço Privado
+06/10/2023,Tour Arraial do Cabo (Van),2,1057.73,2115.46,1540.0,575.46,Não,Viagens Longas
+06/10/2023,Passeio Cristo Redentor (Carro),3,777.43,2332.29,1707.53,624.76,Sim,Passeios Locais
+06/10/2023,Aluguel Van Corporativa,2,1199.64,2399.28,1744.59,654.69,Não,Serviço Privado
+06/10/2023,Tour Arraial do Cabo (Van),2,743.77,1487.54,886.78,600.76,Não,Viagens Longas
+06/10/2023,City Tour Completo (Van),1,1218.05,1218.05,854.31,363.74,Não,City Tour
+06/10/2023,Aluguel Van Corporativa,1,286.65,286.65,196.83,89.82,Sim,Serviço Privado
+07/10/2023,Tour Búzios (Van),2,1492.92,2985.84,1819.79,1166.05,Sim,Viagens Longas
+07/10/2023,Tour Arraial do Cabo (Van),3,433.62,1300.86,909.51,391.35,Sim,Viagens Longas
+07/10/2023,Aluguel Van Corporativa,3,1352.11,4056.33,2572.26,1484.07,Não,Serviço Privado
+07/10/2023,Tour Arraial do Cabo (Van),1,1200.33,1200.33,779.39,420.94,Não,Viagens Longas
+07/10/2023,Translado Aeroporto Galeão,2,1362.13,2724.26,1924.84,799.42,Não,Translados
+08/10/2023,Tour Arraial do Cabo (Van),2,1466.66,2933.32,2092.06,841.26,Sim,Viagens Longas
+08/10/2023,Translado Aeroporto Galeão,3,196.09,588.27,418.62,169.65,Não,Translados
+08/10/2023,Aluguel Van Corporativa,2,611.57,1223.14,672.79,550.35,Não,Serviço Privado
+08/10/2023,Translado Aeroporto Santos Dumont,3,359.14,1077.42,782.44,294.98,Não,Translados
+09/10/2023,Aluguel Carro Executivo,2,1264.6,2529.2,1440.89,1088.31,Não,Serviço Privado
+09/10/2023,Aluguel Carro Executivo,3,519.91,1559.73,1094.62,465.11,Não,Serviço Privado
+09/10/2023,Passeio Pão de Açúcar (Carro),1,1155.05,1155.05,806.84,348.21,Não,Passeios Locais
+09/10/2023,Translado Aeroporto Galeão,3,1107.7,3323.1,2365.45,957.65,Não,Translados
+09/10/2023,Tour Arraial do Cabo (Van),2,1377.54,2755.08,1924.79,830.29,Não,Viagens Longas
+10/10/2023,Tour Búzios (Van),3,681.82,2045.46,1446.1,599.36,Não,Viagens Longas
+10/10/2023,Passeio Pão de Açúcar (Carro),3,1133.71,3401.13,2289.66,1111.47,Não,Passeios Locais
+10/10/2023,Passeio Cristo Redentor (Carro),3,1024.19,3072.57,1742.51,1330.06,Não,Passeios Locais
+10/10/2023,Tour Petrópolis (Carro),1,658.8,658.8,410.21,248.59,Sim,Viagens Longas
+10/10/2023,Tour Petrópolis (Carro),3,1341.41,4024.23,2600.19,1424.04,Não,Viagens Longas
+10/10/2023,Tour Búzios (Van),2,256.64,513.28,365.57,147.71,Sim,Viagens Longas
+10/10/2023,Tour Arraial do Cabo (Van),3,1182.15,3546.45,2648.44,898.01,Não,Viagens Longas
+10/10/2023,Passeio Cristo Redentor (Carro),3,928.17,2784.51,2064.25,720.26,Sim,Passeios Locais
+11/10/2023,Passeio Cristo Redentor (Carro),1,310.19,310.19,203.47,106.72,Não,Passeios Locais
+11/10/2023,Tour Arraial do Cabo (Van),3,1425.67,4277.01,2638.71,1638.3,Não,Viagens Longas
+11/10/2023,Translado Aeroporto Galeão,3,191.06,573.18,377.67,195.51,Não,Translados
+11/10/2023,Aluguel Carro Executivo,1,1086.04,1086.04,692.68,393.36,Não,Serviço Privado
+11/10/2023,Tour Petrópolis (Carro),1,627.95,627.95,403.1,224.85,Não,Viagens Longas
+11/10/2023,Tour Búzios (Van),3,1442.78,4328.34,2659.8,1668.54,Sim,Viagens Longas
+11/10/2023,Translado Aeroporto Santos Dumont,2,1447.49,2894.98,2004.83,890.15,Não,Translados
+11/10/2023,Tour Petrópolis (Carro),2,474.8,949.6,605.4,344.2,Sim,Viagens Longas
+12/10/2023,City Tour Completo (Van),2,1279.88,2559.76,1657.26,902.5,Não,City Tour
+12/10/2023,Passeio Pão de Açúcar (Carro),2,1183.82,2367.64,1304.97,1062.67,Sim,Passeios Locais
+12/10/2023,Aluguel Van Corporativa,2,1355.33,2710.66,1777.64,933.02,Sim,Serviço Privado
+12/10/2023,Translado Aeroporto Santos Dumont,1,1390.83,1390.83,907.44,483.39,Sim,Translados
+12/10/2023,Aluguel Carro Executivo,1,1430.81,1430.81,836.89,593.92,Não,Serviço Privado
+13/10/2023,Translado Aeroporto Galeão,2,1470.23,2940.46,1686.95,1253.51,Sim,Translados
+13/10/2023,City Tour Completo (Van),2,643.41,1286.82,863.28,423.54,Não,City Tour
+13/10/2023,Aluguel Van Corporativa,1,1471.1,1471.1,922.17,548.93,Não,Serviço Privado
+13/10/2023,Tour Arraial do Cabo (Van),1,455.61,455.61,274.02,181.59,Não,Viagens Longas
+13/10/2023,Tour Petrópolis (Carro),2,1180.11,2360.22,1508.21,852.01,Sim,Viagens Longas
+13/10/2023,Tour Búzios (Van),2,1267.26,2534.52,1776.02,758.5,Não,Viagens Longas
+14/10/2023,Tour Petrópolis (Carro),2,928.71,1857.42,1318.05,539.37,Não,Viagens Longas
+14/10/2023,Aluguel Van Corporativa,3,974.93,2924.79,2036.3,888.49,Não,Serviço Privado
+14/10/2023,Aluguel Van Corporativa,3,769.23,2307.69,1387.04,920.65,Não,Serviço Privado
+14/10/2023,Passeio Cristo Redentor (Carro),1,873.34,873.34,572.29,301.05,Não,Passeios Locais
+14/10/2023,Tour Búzios (Van),3,1206.76,3620.28,2588.09,1032.19,Sim,Viagens Longas
+14/10/2023,Tour Arraial do Cabo (Van),2,1108.23,2216.46,1466.28,750.18,Sim,Viagens Longas
+14/10/2023,Passeio Pão de Açúcar (Carro),3,1277.06,3831.18,2312.14,1519.04,Não,Passeios Locais
+15/10/2023,Translado Aeroporto Galeão,2,420.19,840.38,584.93,255.45,Não,Translados
+15/10/2023,Translado Aeroporto Santos Dumont,2,159.86,319.72,220.35,99.37,Não,Translados
+15/10/2023,Translado Aeroporto Galeão,2,1259.46,2518.92,1791.55,727.37,Sim,Translados
+15/10/2023,City Tour Completo (Van),1,764.4,764.4,452.61,311.79,Não,City Tour
+15/10/2023,Translado Aeroporto Santos Dumont,1,1351.69,1351.69,762.16,589.53,Sim,Translados
+15/10/2023,Passeio Cristo Redentor (Carro),2,741.44,1482.88,897.2,585.68,Sim,Passeios Locais
+15/10/2023,Tour Búzios (Van),3,287.73,863.19,621.09,242.1,Não,Viagens Longas
+16/10/2023,City Tour Completo (Van),3,771.02,2313.06,1626.71,686.35,Não,City Tour
+16/10/2023,Aluguel Carro Executivo,3,1353.34,4060.02,2266.28,1793.74,Sim,Serviço Privado
+16/10/2023,Passeio Cristo Redentor (Carro),2,829.56,1659.12,1115.27,543.85,Sim,Passeios Locais
+16/10/2023,Translado Aeroporto Santos Dumont,2,555.78,1111.56,720.61,390.95,Não,Translados
+16/10/2023,Passeio Pão de Açúcar (Carro),1,1142.06,1142.06,686.89,455.17,Sim,Passeios Locais
+16/10/2023,Translado Aeroporto Santos Dumont,3,1431.43,4294.29,3071.84,1222.45,Não,Translados
+16/10/2023,Tour Petrópolis (Carro),1,1225.99,1225.99,723.04,502.95,Sim,Viagens Longas
+17/10/2023,Passeio Pão de Açúcar (Carro),1,1278.63,1278.63,937.23,341.4,Não,Passeios Locais
+17/10/2023,Tour Búzios (Van),1,172.74,172.74,110.77,61.97,Sim,Viagens Longas
+17/10/2023,Tour Búzios (Van),3,541.52,1624.56,1177.63,446.93,Não,Viagens Longas
+17/10/2023,Tour Petrópolis (Carro),3,768.29,2304.87,1374.91,929.96,Não,Viagens Longas
+18/10/2023,Passeio Pão de Açúcar (Carro),1,704.19,704.19,484.93,219.26,Sim,Passeios Locais
+18/10/2023,Aluguel Van Corporativa,1,1411.97,1411.97,791.22,620.75,Não,Serviço Privado
+18/10/2023,Translado Aeroporto Santos Dumont,2,1257.26,2514.52,1660.54,853.98,Sim,Translados
+18/10/2023,Translado Aeroporto Santos Dumont,3,170.22,510.66,285.48,225.18,Não,Translados
+18/10/2023,Tour Arraial do Cabo (Van),2,1256.45,2512.9,1705.88,807.02,Não,Viagens Longas
+18/10/2023,Passeio Cristo Redentor (Carro),2,1346.63,2693.26,1897.07,796.19,Sim,Passeios Locais
+18/10/2023,Aluguel Carro Executivo,2,1214.87,2429.74,1668.85,760.89,Não,Serviço Privado
+19/10/2023,Passeio Cristo Redentor (Carro),2,499.66,999.32,688.93,310.39,Não,Passeios Locais
+19/10/2023,City Tour Completo (Van),3,1440.93,4322.79,3038.04,1284.75,Não,City Tour
+19/10/2023,Tour Arraial do Cabo (Van),3,1283.55,3850.65,2421.42,1429.23,Não,Viagens Longas
+19/10/2023,City Tour Completo (Van),3,1416.5,4249.5,2379.01,1870.49,Não,City Tour
+20/10/2023,Aluguel Carro Executivo,2,474.95,949.9,603.2,346.7,Sim,Serviço Privado
+20/10/2023,Aluguel Van Corporativa,1,874.2,874.2,600.93,273.27,Não,Serviço Privado
+20/10/2023,Translado Aeroporto Santos Dumont,2,1419.37,2838.74,1914.17,924.57,Sim,Translados
+20/10/2023,Passeio Cristo Redentor (Carro),1,1018.65,1018.65,640.68,377.97,Sim,Passeios Locais
+20/10/2023,Aluguel Carro Executivo,1,518.44,518.44,328.96,189.48,Não,Serviço Privado
+20/10/2023,Tour Búzios (Van),3,201.4,604.2,349.94,254.26,Não,Viagens Longas
+21/10/2023,Passeio Pão de Açúcar (Carro),1,599.72,599.72,394.67,205.05,Não,Passeios Locais
+21/10/2023,Tour Búzios (Van),2,695.42,1390.84,979.41,411.43,Sim,Viagens Longas
+21/10/2023,Aluguel Van Corporativa,1,433.11,433.11,281.4,151.71,Não,Serviço Privado
+21/10/2023,City Tour Completo (Van),3,921.53,2764.59,1846.91,917.68,Não,City Tour
+21/10/2023,Passeio Pão de Açúcar (Carro),2,601.07,1202.14,855.6,346.54,Sim,Passeios Locais
+22/10/2023,Translado Aeroporto Santos Dumont,3,579.52,1738.56,1081.12,657.44,Não,Translados
+22/10/2023,Passeio Cristo Redentor (Carro),2,355.25,710.5,404.97,305.53,Não,Passeios Locais
+22/10/2023,Passeio Cristo Redentor (Carro),3,460.34,1381.02,885.44,495.58,Não,Passeios Locais
+22/10/2023,Tour Búzios (Van),1,507.25,507.25,355.13,152.12,Não,Viagens Longas
+22/10/2023,Aluguel Carro Executivo,1,1473.06,1473.06,1063.92,409.14,Não,Serviço Privado
+22/10/2023,Passeio Pão de Açúcar (Carro),1,960.91,960.91,718.89,242.02,Sim,Passeios Locais
+22/10/2023,Tour Búzios (Van),1,288.79,288.79,205.71,83.08,Não,Viagens Longas
+22/10/2023,Translado Aeroporto Galeão,2,935.8,1871.6,1180.63,690.97,Não,Translados
+23/10/2023,Passeio Cristo Redentor (Carro),3,942.33,2826.99,1597.65,1229.34,Não,Passeios Locais
+23/10/2023,Passeio Cristo Redentor (Carro),1,754.86,754.86,445.38,309.48,Não,Passeios Locais
+23/10/2023,Aluguel Carro Executivo,3,1026.97,3080.91,1967.84,1113.07,Não,Serviço Privado
+23/10/2023,Tour Búzios (Van),2,1269.6,2539.2,1733.31,805.89,Sim,Viagens Longas
+23/10/2023,Tour Petrópolis (Carro),2,1062.28,2124.56,1405.25,719.31,Sim,Viagens Longas
+23/10/2023,Passeio Pão de Açúcar (Carro),2,601.07,1202.14,848.12,354.02,Sim,Passeios Locais
+23/10/2023,Aluguel Van Corporativa,3,572.81,1718.43,1122.39,596.04,Não,Serviço Privado
+24/10/2023,City Tour Completo (Van),1,381.16,381.16,222.45,158.71,Sim,City Tour
+24/10/2023,Aluguel Carro Executivo,2,860.49,1720.98,1273.19,447.79,Sim,Serviço Privado
+24/10/2023,City Tour Completo (Van),3,527.38,1582.14,1186.55,395.59,Não,City Tour
+24/10/2023,Passeio Cristo Redentor (Carro),3,1030.93,3092.79,2094.35,998.44,Sim,Passeios Locais
+25/10/2023,Tour Petrópolis (Carro),1,1020.12,1020.12,595.75,424.37,Não,Viagens Longas
+25/10/2023,Translado Aeroporto Santos Dumont,1,209.64,209.64,142.07,67.57,Não,Translados
+25/10/2023,Aluguel Carro Executivo,3,400.11,1200.33,735.78,464.55,Não,Serviço Privado
+25/10/2023,Passeio Cristo Redentor (Carro),3,878.74,2636.22,1665.23,970.99,Sim,Passeios Locais
+25/10/2023,Translado Aeroporto Galeão,2,664.84,1329.68,988.04,341.64,Não,Translados
+26/10/2023,Tour Petrópolis (Carro),3,1393.2,4179.6,2501.97,1677.63,Sim,Viagens Longas
+26/10/2023,Passeio Cristo Redentor (Carro),3,1459.14,4377.42,2608.1,1769.32,Não,Passeios Locais
+26/10/2023,Translado Aeroporto Galeão,3,508.18,1524.54,1131.73,392.81,Não,Translados
+26/10/2023,Passeio Cristo Redentor (Carro),2,608.7,1217.4,719.49,497.91,Não,Passeios Locais
+27/10/2023,Aluguel Carro Executivo,3,1440.62,4321.86,2905.59,1416.27,Sim,Serviço Privado
+27/10/2023,City Tour Completo (Van),2,401.15,802.3,510.86,291.44,Não,City Tour
+27/10/2023,Tour Arraial do Cabo (Van),2,726.06,1452.12,1015.1,437.02,Não,Viagens Longas
+27/10/2023,Passeio Cristo Redentor (Carro),2,1288.72,2577.44,1436.09,1141.35,Sim,Passeios Locais
+27/10/2023,City Tour Completo (Van),1,1455.81,1455.81,881.06,574.75,Não,City Tour
+28/10/2023,Passeio Pão de Açúcar (Carro),2,416.53,833.06,574.31,258.75,Sim,Passeios Locais
+28/10/2023,Aluguel Van Corporativa,3,374.74,1124.22,634.87,489.35,Não,Serviço Privado
+28/10/2023,Translado Aeroporto Santos Dumont,2,300.31,600.62,421.59,179.03,Não,Translados
+29/10/2023,Passeio Pão de Açúcar (Carro),3,195.84,587.52,366.2,221.32,Não,Passeios Locais
+29/10/2023,Tour Petrópolis (Carro),1,1495.62,1495.62,1068.74,426.88,Não,Viagens Longas
+29/10/2023,Tour Búzios (Van),1,1452.78,1452.78,834.34,618.44,Não,Viagens Longas
+29/10/2023,Tour Petrópolis (Carro),1,937.78,937.78,586.87,350.91,Não,Viagens Longas
+29/10/2023,Tour Búzios (Van),3,1219.77,3659.31,2306.24,1353.07,Sim,Viagens Longas
+29/10/2023,Aluguel Van Corporativa,3,810.33,2430.99,1404.63,1026.36,Não,Serviço Privado
+29/10/2023,Passeio Pão de Açúcar (Carro),1,346.45,346.45,236.49,109.96,Sim,Passeios Locais
+29/10/2023,Passeio Pão de Açúcar (Carro),2,1265.65,2531.3,1829.21,702.09,Não,Passeios Locais
+30/10/2023,Aluguel Carro Executivo,2,997.18,1994.36,1481.4,512.96,Não,Serviço Privado
+30/10/2023,Translado Aeroporto Galeão,3,1451.35,4354.05,3261.2,1092.85,Não,Translados
+30/10/2023,Passeio Pão de Açúcar (Carro),1,561.4,561.4,332.21,229.19,Não,Passeios Locais
+30/10/2023,Tour Búzios (Van),2,1001.84,2003.68,1254.17,749.51,Não,Viagens Longas
+31/10/2023,Passeio Pão de Açúcar (Carro),3,354.8,1064.4,701.39,363.01,Não,Passeios Locais
+31/10/2023,Passeio Cristo Redentor (Carro),1,584.32,584.32,379.31,205.01,Sim,Passeios Locais
+31/10/2023,Aluguel Carro Executivo,3,953.48,2860.44,2124.35,736.09,Não,Serviço Privado
+31/10/2023,Passeio Pão de Açúcar (Carro),2,840.33,1680.66,996.49,684.17,Sim,Passeios Locais
+31/10/2023,Aluguel Van Corporativa,2,488.76,977.52,563.16,414.36,Não,Serviço Privado
+31/10/2023,Tour Arraial do Cabo (Van),3,787.08,2361.24,1578.71,782.53,Não,Viagens Longas
+01/11/2023,Tour Búzios (Van),1,998.46,998.46,577.74,420.72,Não,Viagens Longas
+01/11/2023,Passeio Pão de Açúcar (Carro),2,224.97,449.94,294.64,155.3,Sim,Passeios Locais
+01/11/2023,Tour Arraial do Cabo (Van),2,684.58,1369.16,802.16,567.0,Não,Viagens Longas
+01/11/2023,Tour Búzios (Van),2,189.11,378.22,262.92,115.3,Não,Viagens Longas
+02/11/2023,Translado Aeroporto Galeão,1,1129.29,1129.29,658.53,470.76,Sim,Translados
+02/11/2023,Tour Petrópolis (Carro),1,991.07,991.07,602.48,388.59,Sim,Viagens Longas
+02/11/2023,Aluguel Carro Executivo,2,407.3,814.6,528.62,285.98,Sim,Serviço Privado
+02/11/2023,City Tour Completo (Van),2,1190.07,2380.14,1572.94,807.2,Não,City Tour
+03/11/2023,Aluguel Van Corporativa,2,604.74,1209.48,869.62,339.86,Sim,Serviço Privado
+03/11/2023,Translado Aeroporto Galeão,1,1495.27,1495.27,1056.59,438.68,Não,Translados
+03/11/2023,Aluguel Carro Executivo,3,633.26,1899.78,1321.79,577.99,Sim,Serviço Privado
+03/11/2023,Tour Búzios (Van),3,696.43,2089.29,1396.81,692.48,Não,Viagens Longas
+03/11/2023,Tour Arraial do Cabo (Van),2,968.61,1937.22,1101.72,835.5,Sim,Viagens Longas
+03/11/2023,Passeio Cristo Redentor (Carro),1,1087.66,1087.66,697.96,389.7,Sim,Passeios Locais
+03/11/2023,City Tour Completo (Van),1,1401.54,1401.54,925.65,475.89,Não,City Tour
+03/11/2023,City Tour Completo (Van),1,1450.07,1450.07,921.68,528.39,Não,City Tour
+04/11/2023,Tour Búzios (Van),2,285.98,571.96,407.15,164.81,Sim,Viagens Longas
+04/11/2023,Aluguel Van Corporativa,2,230.46,460.92,335.41,125.51,Sim,Serviço Privado
+04/11/2023,Passeio Cristo Redentor (Carro),1,1135.89,1135.89,794.8,341.09,Não,Passeios Locais
+04/11/2023,Tour Búzios (Van),2,1259.23,2518.46,1682.05,836.41,Não,Viagens Longas
+04/11/2023,Tour Búzios (Van),3,429.57,1288.71,863.41,425.3,Sim,Viagens Longas
+04/11/2023,Aluguel Carro Executivo,1,1496.95,1496.95,1087.38,409.57,Não,Serviço Privado
+04/11/2023,Translado Aeroporto Galeão,2,618.07,1236.14,694.53,541.61,Não,Translados
+04/11/2023,Tour Petrópolis (Carro),3,271.86,815.58,535.77,279.81,Não,Viagens Longas
+05/11/2023,Translado Aeroporto Santos Dumont,1,243.11,243.11,173.28,69.83,Sim,Translados
+05/11/2023,Passeio Cristo Redentor (Carro),2,426.22,852.44,596.18,256.26,Não,Passeios Locais
+05/11/2023,City Tour Completo (Van),1,295.27,295.27,211.57,83.7,Sim,City Tour
+05/11/2023,Tour Arraial do Cabo (Van),1,1077.87,1077.87,741.6,336.27,Sim,Viagens Longas
+05/11/2023,Tour Arraial do Cabo (Van),3,975.8,2927.4,2038.79,888.61,Sim,Viagens Longas
+05/11/2023,Aluguel Carro Executivo,2,1136.14,2272.28,1285.65,986.63,Não,Serviço Privado
+06/11/2023,Tour Búzios (Van),3,1376.64,4129.92,2361.38,1768.54,Não,Viagens Longas
+06/11/2023,Translado Aeroporto Galeão,1,243.65,243.65,150.74,92.91,Não,Translados
+06/11/2023,Passeio Pão de Açúcar (Carro),2,719.48,1438.96,927.31,511.65,Não,Passeios Locais
+06/11/2023,Translado Aeroporto Galeão,1,1295.23,1295.23,821.95,473.28,Não,Translados
+06/11/2023,Aluguel Van Corporativa,1,1369.68,1369.68,838.3,531.38,Sim,Serviço Privado
+07/11/2023,Translado Aeroporto Santos Dumont,1,299.57,299.57,201.95,97.62,Não,Translados
+07/11/2023,Translado Aeroporto Santos Dumont,1,1414.78,1414.78,797.7,617.08,Sim,Translados
+07/11/2023,Passeio Pão de Açúcar (Carro),1,186.29,186.29,109.54,76.75,Sim,Passeios Locais
+07/11/2023,Aluguel Carro Executivo,3,1386.14,4158.42,2942.49,1215.93,Não,Serviço Privado
+07/11/2023,Translado Aeroporto Galeão,2,649.28,1298.56,783.89,514.67,Não,Translados
+07/11/2023,Tour Arraial do Cabo (Van),1,354.41,354.41,239.81,114.6,Não,Viagens Longas
+07/11/2023,Tour Arraial do Cabo (Van),1,684.39,684.39,386.06,298.33,Não,Viagens Longas
+08/11/2023,Passeio Pão de Açúcar (Carro),1,216.37,216.37,133.77,82.6,Não,Passeios Locais
+08/11/2023,Translado Aeroporto Santos Dumont,2,1245.72,2491.44,1522.31,969.13,Não,Translados
+08/11/2023,Tour Petrópolis (Carro),2,294.09,588.18,362.08,226.1,Não,Viagens Longas
+08/11/2023,Translado Aeroporto Santos Dumont,3,1137.6,3412.8,2144.32,1268.48,Não,Translados
+08/11/2023,Aluguel Van Corporativa,2,975.33,1950.66,1288.53,662.13,Sim,Serviço Privado
+08/11/2023,Tour Petrópolis (Carro),3,363.59,1090.77,805.51,285.26,Sim,Viagens Longas
+08/11/2023,City Tour Completo (Van),2,886.56,1773.12,1084.58,688.54,Sim,City Tour
+09/11/2023,Translado Aeroporto Galeão,2,974.76,1949.52,1170.98,778.54,Sim,Translados
+09/11/2023,Passeio Pão de Açúcar (Carro),1,1338.15,1338.15,977.52,360.63,Não,Passeios Locais
+09/11/2023,Tour Búzios (Van),3,300.54,901.62,615.28,286.34,Sim,Viagens Longas
+09/11/2023,Passeio Pão de Açúcar (Carro),2,497.44,994.88,644.57,350.31,Não,Passeios Locais
+09/11/2023,Aluguel Van Corporativa,2,556.84,1113.68,819.9,293.78,Não,Serviço Privado
+09/11/2023,Passeio Cristo Redentor (Carro),3,368.71,1106.13,726.42,379.71,Sim,Passeios Locais
+10/11/2023,Passeio Pão de Açúcar (Carro),1,497.01,497.01,286.32,210.69,Sim,Passeios Locais
+10/11/2023,Tour Petrópolis (Carro),3,1068.45,3205.35,2138.61,1066.74,Não,Viagens Longas
+10/11/2023,Aluguel Van Corporativa,1,219.48,219.48,138.24,81.24,Não,Serviço Privado
+11/11/2023,Passeio Cristo Redentor (Carro),3,376.2,1128.6,677.28,451.32,Sim,Passeios Locais
+11/11/2023,Passeio Pão de Açúcar (Carro),3,479.85,1439.55,846.1,593.45,Não,Passeios Locais
+11/11/2023,Aluguel Van Corporativa,2,1165.3,2330.6,1534.81,795.79,Não,Serviço Privado
+11/11/2023,Tour Arraial do Cabo (Van),1,824.11,824.11,579.81,244.3,Sim,Viagens Longas
+11/11/2023,Translado Aeroporto Galeão,3,1338.3,4014.9,2501.15,1513.75,Sim,Translados
+12/11/2023,City Tour Completo (Van),2,580.78,1161.56,765.57,395.99,Não,City Tour
+12/11/2023,Tour Petrópolis (Carro),3,415.54,1246.62,712.07,534.55,Não,Viagens Longas
+12/11/2023,Translado Aeroporto Galeão,3,1090.82,3272.46,1824.22,1448.24,Sim,Translados
+12/11/2023,Tour Búzios (Van),3,987.81,2963.43,1960.19,1003.24,Não,Viagens Longas
+12/11/2023,Tour Petrópolis (Carro),3,886.05,2658.15,1643.04,1015.11,Não,Viagens Longas
+13/11/2023,Passeio Cristo Redentor (Carro),2,724.98,1449.96,941.61,508.35,Não,Passeios Locais
+13/11/2023,City Tour Completo (Van),2,1438.84,2877.68,1606.82,1270.86,Sim,City Tour
+13/11/2023,City Tour Completo (Van),2,669.43,1338.86,749.24,589.62,Sim,City Tour
+14/11/2023,Aluguel Carro Executivo,1,760.94,760.94,528.67,232.27,Não,Serviço Privado
+14/11/2023,Aluguel Van Corporativa,3,1104.42,3313.26,2270.42,1042.84,Sim,Serviço Privado
+14/11/2023,Aluguel Van Corporativa,3,184.57,553.71,313.92,239.79,Não,Serviço Privado
+14/11/2023,Passeio Pão de Açúcar (Carro),1,1376.22,1376.22,944.29,431.93,Sim,Passeios Locais
+14/11/2023,Tour Arraial do Cabo (Van),3,389.43,1168.29,686.29,482.0,Sim,Viagens Longas
+14/11/2023,Translado Aeroporto Galeão,3,1416.33,4248.99,3133.43,1115.56,Não,Translados
+15/11/2023,Passeio Cristo Redentor (Carro),1,934.28,934.28,658.74,275.54,Sim,Passeios Locais
+15/11/2023,Translado Aeroporto Santos Dumont,3,1077.88,3233.64,2062.89,1170.75,Sim,Translados
+15/11/2023,City Tour Completo (Van),3,744.06,2232.18,1340.8,891.38,Sim,City Tour
+15/11/2023,Tour Búzios (Van),1,1153.98,1153.98,771.99,381.99,Não,Viagens Longas
+15/11/2023,City Tour Completo (Van),2,1141.32,2282.64,1555.93,726.71,Sim,City Tour
+15/11/2023,Aluguel Van Corporativa,1,649.45,649.45,418.72,230.73,Não,Serviço Privado
+15/11/2023,Tour Búzios (Van),2,549.05,1098.1,783.22,314.88,Não,Viagens Longas
+15/11/2023,Tour Petrópolis (Carro),2,1306.53,2613.06,1798.01,815.05,Sim,Viagens Longas
+16/11/2023,Translado Aeroporto Santos Dumont,3,1195.7,3587.1,2524.96,1062.14,Não,Translados
+16/11/2023,Tour Búzios (Van),3,1119.97,3359.91,2499.09,860.82,Não,Viagens Longas
+16/11/2023,Passeio Cristo Redentor (Carro),2,1359.72,2719.44,1790.8,928.64,Sim,Passeios Locais
+16/11/2023,Translado Aeroporto Galeão,3,394.03,1182.09,717.27,464.82,Não,Translados
+16/11/2023,Passeio Pão de Açúcar (Carro),3,1147.61,3442.83,2423.55,1019.28,Não,Passeios Locais
+16/11/2023,Translado Aeroporto Santos Dumont,1,816.95,816.95,501.59,315.36,Não,Translados
+16/11/2023,Tour Arraial do Cabo (Van),2,305.68,611.36,436.66,174.7,Não,Viagens Longas
+16/11/2023,Passeio Cristo Redentor (Carro),2,591.09,1182.18,879.31,302.87,Não,Passeios Locais
+17/11/2023,City Tour Completo (Van),3,414.53,1243.59,912.26,331.33,Não,City Tour
+17/11/2023,Translado Aeroporto Santos Dumont,3,1094.42,3283.26,2237.32,1045.94,Sim,Translados
+17/11/2023,City Tour Completo (Van),1,902.11,902.11,505.29,396.82,Sim,City Tour
+17/11/2023,Aluguel Carro Executivo,3,1152.65,3457.95,2458.29,999.66,Não,Serviço Privado
+17/11/2023,Aluguel Carro Executivo,3,1129.71,3389.13,2335.35,1053.78,Não,Serviço Privado
+17/11/2023,Aluguel Carro Executivo,2,1116.79,2233.58,1402.23,831.35,Sim,Serviço Privado
+17/11/2023,Translado Aeroporto Santos Dumont,2,1085.71,2171.42,1275.38,896.04,Sim,Translados
+17/11/2023,Passeio Cristo Redentor (Carro),3,1368.95,4106.85,2401.07,1705.78,Não,Passeios Locais
+18/11/2023,City Tour Completo (Van),1,1060.33,1060.33,637.42,422.91,Não,City Tour
+18/11/2023,Aluguel Van Corporativa,3,339.44,1018.32,760.78,257.54,Não,Serviço Privado
+18/11/2023,Tour Búzios (Van),3,971.19,2913.57,2076.04,837.53,Não,Viagens Longas
+18/11/2023,Aluguel Carro Executivo,3,1446.98,4340.94,3071.43,1269.51,Não,Serviço Privado
+18/11/2023,Translado Aeroporto Santos Dumont,2,737.54,1475.08,918.0,557.08,Sim,Translados
+18/11/2023,Translado Aeroporto Galeão,1,1342.06,1342.06,743.58,598.48,Sim,Translados
+19/11/2023,Passeio Pão de Açúcar (Carro),1,358.15,358.15,231.13,127.02,Sim,Passeios Locais
+19/11/2023,Passeio Cristo Redentor (Carro),3,884.44,2653.32,1543.68,1109.64,Não,Passeios Locais
+19/11/2023,Tour Petrópolis (Carro),2,563.26,1126.52,639.76,486.76,Não,Viagens Longas
+19/11/2023,Tour Búzios (Van),2,913.22,1826.44,1260.34,566.1,Não,Viagens Longas
+19/11/2023,Translado Aeroporto Santos Dumont,3,1454.86,4364.58,2588.43,1776.15,Não,Translados
+19/11/2023,Passeio Pão de Açúcar (Carro),3,1446.52,4339.56,3038.96,1300.6,Não,Passeios Locais
+19/11/2023,Passeio Pão de Açúcar (Carro),1,227.65,227.65,136.35,91.3,Sim,Passeios Locais
+20/11/2023,Aluguel Van Corporativa,2,941.77,1883.54,1388.7,494.84,Não,Serviço Privado
+20/11/2023,Translado Aeroporto Galeão,2,864.29,1728.58,952.32,776.26,Não,Translados
+20/11/2023,Aluguel Carro Executivo,2,920.27,1840.54,1284.95,555.59,Não,Serviço Privado
+20/11/2023,Passeio Cristo Redentor (Carro),1,1480.07,1480.07,850.91,629.16,Não,Passeios Locais
+20/11/2023,Passeio Cristo Redentor (Carro),2,653.62,1307.24,724.61,582.63,Sim,Passeios Locais
+21/11/2023,Translado Aeroporto Santos Dumont,3,242.86,728.58,423.72,304.86,Sim,Translados
+21/11/2023,Aluguel Carro Executivo,3,484.12,1452.36,801.93,650.43,Não,Serviço Privado
+21/11/2023,Translado Aeroporto Galeão,3,1027.77,3083.31,1986.28,1097.03,Sim,Translados
+21/11/2023,Aluguel Van Corporativa,1,1114.34,1114.34,674.47,439.87,Não,Serviço Privado
+21/11/2023,Passeio Cristo Redentor (Carro),3,886.08,2658.24,1513.22,1145.02,Sim,Passeios Locais
+22/11/2023,City Tour Completo (Van),3,711.32,2133.96,1600.15,533.81,Sim,City Tour
+22/11/2023,Translado Aeroporto Santos Dumont,3,1264.81,3794.43,2220.68,1573.75,Sim,Translados
+22/11/2023,City Tour Completo (Van),1,1023.2,1023.2,682.54,340.66,Sim,City Tour
+22/11/2023,Translado Aeroporto Santos Dumont,3,1041.07,3123.21,1776.2,1347.01,Não,Translados
+22/11/2023,Tour Búzios (Van),1,1450.34,1450.34,1062.13,388.21,Sim,Viagens Longas
+22/11/2023,Translado Aeroporto Galeão,3,955.97,2867.91,2085.66,782.25,Sim,Translados
+23/11/2023,City Tour Completo (Van),3,1341.71,4025.13,2956.0,1069.13,Sim,City Tour
+23/11/2023,City Tour Completo (Van),2,1213.0,2426.0,1694.44,731.56,Não,City Tour
+23/11/2023,Tour Búzios (Van),2,198.48,396.96,281.17,115.79,Não,Viagens Longas
+23/11/2023,Tour Arraial do Cabo (Van),3,648.35,1945.05,1164.81,780.24,Sim,Viagens Longas
+23/11/2023,Passeio Pão de Açúcar (Carro),2,349.71,699.42,507.68,191.74,Não,Passeios Locais
+23/11/2023,City Tour Completo (Van),2,675.47,1350.94,983.25,367.69,Não,City Tour
+23/11/2023,Aluguel Van Corporativa,2,797.93,1595.86,1146.36,449.5,Sim,Serviço Privado
+23/11/2023,Passeio Pão de Açúcar (Carro),3,847.34,2542.02,1881.01,661.01,Não,Passeios Locais
+24/11/2023,Tour Arraial do Cabo (Van),1,546.05,546.05,396.1,149.95,Sim,Viagens Longas
+24/11/2023,Passeio Pão de Açúcar (Carro),2,1408.5,2817.0,1568.2,1248.8,Não,Passeios Locais
+24/11/2023,Aluguel Van Corporativa,1,1015.23,1015.23,731.56,283.67,Sim,Serviço Privado
+24/11/2023,City Tour Completo (Van),1,1047.92,1047.92,753.34,294.58,Sim,City Tour
+24/11/2023,Translado Aeroporto Galeão,1,646.25,646.25,429.53,216.72,Não,Translados
+24/11/2023,Passeio Cristo Redentor (Carro),2,1438.5,2877.0,1836.1,1040.9,Sim,Passeios Locais
+24/11/2023,Tour Petrópolis (Carro),3,925.31,2775.93,1798.93,977.0,Sim,Viagens Longas
+25/11/2023,Tour Búzios (Van),1,960.77,960.77,709.0,251.77,Não,Viagens Longas
+25/11/2023,Passeio Cristo Redentor (Carro),1,923.87,923.87,567.23,356.64,Sim,Passeios Locais
+25/11/2023,Translado Aeroporto Galeão,3,818.8,2456.4,1595.87,860.53,Não,Translados
+26/11/2023,Tour Arraial do Cabo (Van),2,200.89,401.78,228.7,173.08,Sim,Viagens Longas
+26/11/2023,Translado Aeroporto Santos Dumont,1,1159.02,1159.02,835.88,323.14,Sim,Translados
+26/11/2023,Aluguel Van Corporativa,2,682.94,1365.88,895.69,470.19,Sim,Serviço Privado
+26/11/2023,Aluguel Carro Executivo,2,361.69,723.38,539.22,184.16,Sim,Serviço Privado
+26/11/2023,City Tour Completo (Van),3,701.8,2105.4,1186.6,918.8,Não,City Tour
+26/11/2023,Passeio Pão de Açúcar (Carro),1,287.63,287.63,185.75,101.88,Não,Passeios Locais
+26/11/2023,Translado Aeroporto Santos Dumont,2,561.4,1122.8,832.82,289.98,Sim,Translados
+26/11/2023,Passeio Cristo Redentor (Carro),3,468.77,1406.31,1046.26,360.05,Não,Passeios Locais
+27/11/2023,Translado Aeroporto Galeão,3,377.47,1132.41,644.93,487.48,Não,Translados
+27/11/2023,Tour Arraial do Cabo (Van),2,405.69,811.38,557.73,253.65,Não,Viagens Longas
+27/11/2023,Tour Búzios (Van),1,706.78,706.78,397.41,309.37,Não,Viagens Longas
+27/11/2023,Aluguel Van Corporativa,2,1004.49,2008.98,1185.25,823.73,Não,Serviço Privado
+27/11/2023,Tour Arraial do Cabo (Van),1,906.71,906.71,563.56,343.15,Sim,Viagens Longas
+27/11/2023,Passeio Cristo Redentor (Carro),2,157.55,315.1,179.12,135.98,Não,Passeios Locais
+28/11/2023,Aluguel Carro Executivo,1,929.08,929.08,608.87,320.21,Sim,Serviço Privado
+28/11/2023,Tour Búzios (Van),3,507.21,1521.63,1005.93,515.7,Sim,Viagens Longas
+28/11/2023,Tour Arraial do Cabo (Van),3,174.63,523.89,310.99,212.9,Não,Viagens Longas
+29/11/2023,Tour Búzios (Van),1,1128.05,1128.05,795.03,333.02,Sim,Viagens Longas
+29/11/2023,Tour Búzios (Van),3,1208.18,3624.54,2689.68,934.86,Não,Viagens Longas
+29/11/2023,Tour Arraial do Cabo (Van),1,1080.62,1080.62,673.26,407.36,Não,Viagens Longas
+29/11/2023,Tour Petrópolis (Carro),1,761.08,761.08,503.25,257.83,Não,Viagens Longas
+29/11/2023,Tour Búzios (Van),1,288.45,288.45,209.95,78.5,Sim,Viagens Longas
+30/11/2023,Tour Petrópolis (Carro),3,229.41,688.23,463.41,224.82,Sim,Viagens Longas
+30/11/2023,Tour Arraial do Cabo (Van),3,950.46,2851.38,1813.49,1037.89,Sim,Viagens Longas
+30/11/2023,Aluguel Carro Executivo,1,1389.44,1389.44,802.45,586.99,Sim,Serviço Privado
+01/12/2023,Aluguel Van Corporativa,3,323.13,969.39,624.83,344.56,Não,Serviço Privado
+01/12/2023,Passeio Pão de Açúcar (Carro),1,427.29,427.29,257.48,169.81,Não,Passeios Locais
+01/12/2023,Translado Aeroporto Galeão,3,233.67,701.01,456.72,244.29,Sim,Translados
+01/12/2023,Translado Aeroporto Santos Dumont,1,1400.12,1400.12,871.64,528.48,Não,Translados
+01/12/2023,Tour Arraial do Cabo (Van),2,1361.9,2723.8,1510.27,1213.53,Sim,Viagens Longas
+01/12/2023,Passeio Pão de Açúcar (Carro),3,257.34,772.02,571.07,200.95,Sim,Passeios Locais
+01/12/2023,Tour Arraial do Cabo (Van),1,1252.23,1252.23,936.82,315.41,Sim,Viagens Longas
+02/12/2023,Tour Búzios (Van),2,954.13,1908.26,1299.34,608.92,Não,Viagens Longas
+02/12/2023,Aluguel Carro Executivo,3,639.3,1917.9,1428.49,489.41,Sim,Serviço Privado
+02/12/2023,Aluguel Van Corporativa,3,509.05,1527.15,851.1,676.05,Não,Serviço Privado
+02/12/2023,Aluguel Van Corporativa,1,724.49,724.49,434.14,290.35,Não,Serviço Privado
+02/12/2023,Passeio Pão de Açúcar (Carro),3,1377.32,4131.96,2630.62,1501.34,Sim,Passeios Locais
+02/12/2023,Tour Petrópolis (Carro),3,350.25,1050.75,688.25,362.5,Não,Viagens Longas
+03/12/2023,Passeio Pão de Açúcar (Carro),1,1055.87,1055.87,789.51,266.36,Não,Passeios Locais
+03/12/2023,City Tour Completo (Van),1,418.7,418.7,254.89,163.81,Não,City Tour
+03/12/2023,City Tour Completo (Van),1,1380.69,1380.69,882.89,497.8,Sim,City Tour
+03/12/2023,Aluguel Van Corporativa,2,1412.32,2824.64,2026.43,798.21,Sim,Serviço Privado
+03/12/2023,Aluguel Van Corporativa,2,821.4,1642.8,969.93,672.87,Não,Serviço Privado
+03/12/2023,Tour Petrópolis (Carro),1,1473.74,1473.74,818.19,655.55,Não,Viagens Longas
+03/12/2023,City Tour Completo (Van),1,172.81,172.81,111.89,60.92,Sim,City Tour
+03/12/2023,Aluguel Carro Executivo,1,1205.63,1205.63,725.36,480.27,Sim,Serviço Privado
+04/12/2023,City Tour Completo (Van),2,1333.29,2666.58,1858.51,808.07,Não,City Tour
+04/12/2023,Translado Aeroporto Santos Dumont,1,1041.42,1041.42,598.91,442.51,Não,Translados
+04/12/2023,Aluguel Van Corporativa,2,738.72,1477.44,838.38,639.06,Não,Serviço Privado
+04/12/2023,Translado Aeroporto Santos Dumont,1,499.66,499.66,361.99,137.67,Sim,Translados
+04/12/2023,Passeio Cristo Redentor (Carro),3,1181.71,3545.13,2547.12,998.01,Não,Passeios Locais
+04/12/2023,Passeio Pão de Açúcar (Carro),3,1427.35,4282.05,2870.54,1411.51,Não,Passeios Locais
+05/12/2023,City Tour Completo (Van),2,340.78,681.56,484.71,196.85,Não,City Tour
+05/12/2023,Passeio Pão de Açúcar (Carro),1,1173.82,1173.82,648.68,525.14,Não,Passeios Locais
+05/12/2023,Passeio Cristo Redentor (Carro),2,1212.35,2424.7,1674.17,750.53,Não,Passeios Locais
+05/12/2023,Tour Búzios (Van),1,1130.08,1130.08,644.71,485.37,Não,Viagens Longas
+05/12/2023,Aluguel Van Corporativa,2,1393.16,2786.32,1736.0,1050.32,Não,Serviço Privado
+05/12/2023,Passeio Pão de Açúcar (Carro),2,902.21,1804.42,1187.82,616.6,Não,Passeios Locais
+05/12/2023,Tour Búzios (Van),1,1287.99,1287.99,805.6,482.39,Não,Viagens Longas
+05/12/2023,Aluguel Van Corporativa,3,1008.46,3025.38,2230.32,795.06,Sim,Serviço Privado
+06/12/2023,Tour Arraial do Cabo (Van),1,576.96,576.96,372.94,204.02,Não,Viagens Longas
+06/12/2023,Tour Búzios (Van),3,695.76,2087.28,1374.63,712.65,Não,Viagens Longas
+06/12/2023,Translado Aeroporto Santos Dumont,3,952.07,2856.21,1586.5,1269.71,Sim,Translados
+06/12/2023,Aluguel Van Corporativa,2,1143.41,2286.82,1294.07,992.75,Não,Serviço Privado
+06/12/2023,Translado Aeroporto Galeão,1,1195.69,1195.69,799.73,395.96,Sim,Translados
+06/12/2023,Passeio Cristo Redentor (Carro),3,312.62,937.86,614.1,323.76,Não,Passeios Locais
+06/12/2023,Translado Aeroporto Galeão,2,1392.68,2785.36,1939.18,846.18,Não,Translados
+06/12/2023,Passeio Pão de Açúcar (Carro),3,664.98,1994.94,1134.05,860.89,Não,Passeios Locais
+07/12/2023,Aluguel Van Corporativa,1,814.88,814.88,524.33,290.55,Sim,Serviço Privado
+07/12/2023,Passeio Pão de Açúcar (Carro),1,1165.12,1165.12,676.8,488.32,Não,Passeios Locais
+07/12/2023,Tour Búzios (Van),2,1360.61,2721.22,1936.06,785.16,Não,Viagens Longas
+07/12/2023,Tour Arraial do Cabo (Van),2,1218.99,2437.98,1692.2,745.78,Não,Viagens Longas
+07/12/2023,Translado Aeroporto Galeão,2,879.41,1758.82,1097.63,661.19,Sim,Translados
+08/12/2023,Passeio Cristo Redentor (Carro),2,1331.25,2662.5,1919.24,743.26,Não,Passeios Locais
+08/12/2023,Passeio Pão de Açúcar (Carro),1,1053.8,1053.8,618.03,435.77,Não,Passeios Locais
+08/12/2023,Aluguel Van Corporativa,1,1351.25,1351.25,848.67,502.58,Não,Serviço Privado
+08/12/2023,City Tour Completo (Van),1,1324.78,1324.78,771.1,553.68,Sim,City Tour
+09/12/2023,Tour Búzios (Van),1,1432.3,1432.3,990.73,441.57,Não,Viagens Longas
+09/12/2023,Aluguel Carro Executivo,1,1005.15,1005.15,628.36,376.79,Não,Serviço Privado
+09/12/2023,Translado Aeroporto Galeão,1,860.22,860.22,544.54,315.68,Não,Translados
+09/12/2023,Tour Búzios (Van),3,456.43,1369.29,792.5,576.79,Sim,Viagens Longas
+09/12/2023,City Tour Completo (Van),2,658.82,1317.64,903.09,414.55,Não,City Tour
+09/12/2023,Passeio Cristo Redentor (Carro),2,1272.34,2544.68,1749.13,795.55,Não,Passeios Locais
+09/12/2023,Aluguel Van Corporativa,3,224.47,673.41,477.57,195.84,Não,Serviço Privado
+10/12/2023,Passeio Pão de Açúcar (Carro),2,762.68,1525.36,861.23,664.13,Não,Passeios Locais
+10/12/2023,Translado Aeroporto Galeão,1,969.34,969.34,566.61,402.73,Não,Translados
+10/12/2023,Passeio Cristo Redentor (Carro),2,1026.28,2052.56,1467.42,585.14,Não,Passeios Locais
+10/12/2023,Translado Aeroporto Santos Dumont,3,876.53,2629.59,1625.53,1004.06,Não,Translados
+10/12/2023,Tour Búzios (Van),3,968.27,2904.81,1763.48,1141.33,Não,Viagens Longas
+10/12/2023,Aluguel Van Corporativa,1,665.35,665.35,367.45,297.9,Não,Serviço Privado
+10/12/2023,Aluguel Carro Executivo,1,474.93,474.93,269.1,205.83,Sim,Serviço Privado
+11/12/2023,City Tour Completo (Van),1,557.31,557.31,315.07,242.24,Não,City Tour
+11/12/2023,Aluguel Van Corporativa,1,244.58,244.58,142.72,101.86,Não,Serviço Privado
+11/12/2023,Aluguel Carro Executivo,2,502.3,1004.6,617.04,387.56,Não,Serviço Privado
+11/12/2023,Aluguel Van Corporativa,3,460.02,1380.06,908.23,471.83,Não,Serviço Privado
+12/12/2023,Passeio Pão de Açúcar (Carro),2,894.49,1788.98,1276.52,512.46,Sim,Passeios Locais
+12/12/2023,Aluguel Carro Executivo,2,212.88,425.76,306.2,119.56,Não,Serviço Privado
+12/12/2023,Tour Búzios (Van),3,278.7,836.1,487.68,348.42,Sim,Viagens Longas
+12/12/2023,Passeio Pão de Açúcar (Carro),1,202.64,202.64,126.7,75.94,Sim,Passeios Locais
+12/12/2023,Aluguel Carro Executivo,2,1349.41,2698.82,1596.07,1102.75,Sim,Serviço Privado
+12/12/2023,Tour Búzios (Van),1,244.74,244.74,169.37,75.37,Sim,Viagens Longas
+13/12/2023,Translado Aeroporto Santos Dumont,2,1133.29,2266.58,1480.42,786.16,Sim,Translados
+13/12/2023,City Tour Completo (Van),1,1071.72,1071.72,793.1,278.62,Não,City Tour
+13/12/2023,Tour Arraial do Cabo (Van),3,220.83,662.49,377.51,284.98,Sim,Viagens Longas
+13/12/2023,Tour Arraial do Cabo (Van),2,612.18,1224.36,682.09,542.27,Sim,Viagens Longas
+13/12/2023,Passeio Pão de Açúcar (Carro),1,547.49,547.49,337.93,209.56,Não,Passeios Locais
+13/12/2023,Aluguel Carro Executivo,1,152.33,152.33,101.43,50.9,Não,Serviço Privado
+13/12/2023,Tour Arraial do Cabo (Van),2,616.96,1233.92,919.55,314.37,Sim,Viagens Longas
+13/12/2023,Passeio Cristo Redentor (Carro),3,1352.85,4058.55,2678.71,1379.84,Não,Passeios Locais
+14/12/2023,Passeio Cristo Redentor (Carro),3,1337.39,4012.17,3006.8,1005.37,Sim,Passeios Locais
+14/12/2023,Translado Aeroporto Santos Dumont,2,1314.13,2628.26,1620.17,1008.09,Não,Translados
+14/12/2023,Translado Aeroporto Galeão,3,364.36,1093.08,679.34,413.74,Sim,Translados
+14/12/2023,Translado Aeroporto Santos Dumont,1,385.03,385.03,252.52,132.51,Sim,Translados
+15/12/2023,Tour Petrópolis (Carro),1,798.74,798.74,567.61,231.13,Não,Viagens Longas
+15/12/2023,City Tour Completo (Van),2,1135.48,2270.96,1366.38,904.58,Sim,City Tour
+15/12/2023,City Tour Completo (Van),2,327.23,654.46,420.34,234.12,Não,City Tour
+15/12/2023,Passeio Pão de Açúcar (Carro),3,888.27,2664.81,1988.71,676.1,Não,Passeios Locais
+16/12/2023,Passeio Pão de Açúcar (Carro),1,538.49,538.49,394.2,144.29,Sim,Passeios Locais
+16/12/2023,Passeio Cristo Redentor (Carro),3,1210.28,3630.84,2681.17,949.67,Não,Passeios Locais
+16/12/2023,Translado Aeroporto Galeão,2,418.24,836.48,471.46,365.02,Sim,Translados
+16/12/2023,Passeio Pão de Açúcar (Carro),1,446.48,446.48,327.81,118.67,Não,Passeios Locais
+16/12/2023,Passeio Pão de Açúcar (Carro),1,1095.3,1095.3,760.83,334.47,Não,Passeios Locais
+16/12/2023,Passeio Pão de Açúcar (Carro),1,374.76,374.76,217.06,157.7,Sim,Passeios Locais
+16/12/2023,Tour Petrópolis (Carro),3,941.96,2825.88,1611.67,1214.21,Não,Viagens Longas
+16/12/2023,Passeio Pão de Açúcar (Carro),1,448.84,448.84,310.04,138.8,Sim,Passeios Locais
+17/12/2023,Tour Búzios (Van),2,501.86,1003.72,698.44,305.28,Sim,Viagens Longas
+17/12/2023,Aluguel Carro Executivo,2,1179.11,2358.22,1641.56,716.66,Não,Serviço Privado
+17/12/2023,Passeio Pão de Açúcar (Carro),1,1283.84,1283.84,759.02,524.82,Não,Passeios Locais
+17/12/2023,Tour Petrópolis (Carro),1,772.44,772.44,468.82,303.62,Não,Viagens Longas
+17/12/2023,Aluguel Van Corporativa,2,946.9,1893.8,1064.72,829.08,Não,Serviço Privado
+17/12/2023,Translado Aeroporto Galeão,1,858.17,858.17,502.31,355.86,Não,Translados
+18/12/2023,Tour Petrópolis (Carro),1,174.07,174.07,97.1,76.97,Não,Viagens Longas
+18/12/2023,Aluguel Van Corporativa,3,890.95,2672.85,1877.02,795.83,Não,Serviço Privado
+18/12/2023,Aluguel Van Corporativa,2,358.76,717.52,396.45,321.07,Não,Serviço Privado
+19/12/2023,Translado Aeroporto Santos Dumont,1,1264.77,1264.77,854.24,410.53,Não,Translados
+19/12/2023,Aluguel Van Corporativa,2,1394.94,2789.88,2018.86,771.02,Não,Serviço Privado
+19/12/2023,Translado Aeroporto Galeão,3,996.36,2989.08,1831.04,1158.04,Não,Translados
+19/12/2023,City Tour Completo (Van),2,539.8,1079.6,691.07,388.53,Não,City Tour
+19/12/2023,Aluguel Van Corporativa,1,516.44,516.44,368.64,147.8,Não,Serviço Privado
+19/12/2023,Tour Petrópolis (Carro),3,814.76,2444.28,1410.41,1033.87,Não,Viagens Longas
+20/12/2023,Tour Petrópolis (Carro),2,412.8,825.6,601.3,224.3,Não,Viagens Longas
+20/12/2023,Aluguel Carro Executivo,2,1092.11,2184.22,1242.4,941.82,Não,Serviço Privado
+20/12/2023,Translado Aeroporto Santos Dumont,2,863.48,1726.96,1267.46,459.5,Não,Translados
+20/12/2023,Passeio Cristo Redentor (Carro),2,1250.7,2501.4,1491.27,1010.13,Não,Passeios Locais
+20/12/2023,Tour Petrópolis (Carro),3,1305.47,3916.41,2425.37,1491.04,Não,Viagens Longas
+20/12/2023,Passeio Cristo Redentor (Carro),1,578.68,578.68,333.03,245.65,Sim,Passeios Locais
+20/12/2023,Passeio Pão de Açúcar (Carro),2,722.82,1445.64,942.13,503.51,Não,Passeios Locais
+21/12/2023,Passeio Pão de Açúcar (Carro),3,382.04,1146.12,691.52,454.6,Não,Passeios Locais
+21/12/2023,Translado Aeroporto Santos Dumont,1,631.81,631.81,366.96,264.85,Sim,Translados
+21/12/2023,Tour Arraial do Cabo (Van),1,847.8,847.8,466.95,380.85,Não,Viagens Longas
+21/12/2023,City Tour Completo (Van),3,1360.24,4080.72,2588.87,1491.85,Sim,City Tour
+22/12/2023,Translado Aeroporto Galeão,2,1270.64,2541.28,1791.41,749.87,Não,Translados
+22/12/2023,Tour Petrópolis (Carro),3,1272.86,3818.58,2355.25,1463.33,Não,Viagens Longas
+22/12/2023,City Tour Completo (Van),1,728.56,728.56,423.9,304.66,Sim,City Tour
+22/12/2023,Tour Petrópolis (Carro),3,924.03,2772.09,1532.52,1239.57,Não,Viagens Longas
+22/12/2023,Translado Aeroporto Santos Dumont,1,1073.42,1073.42,762.69,310.73,Não,Translados
+23/12/2023,Translado Aeroporto Santos Dumont,1,304.28,304.28,200.63,103.65,Sim,Translados
+23/12/2023,Passeio Pão de Açúcar (Carro),2,815.45,1630.9,1121.88,509.02,Não,Passeios Locais
+23/12/2023,City Tour Completo (Van),2,154.19,308.38,210.49,97.89,Sim,City Tour
+24/12/2023,Tour Búzios (Van),1,254.3,254.3,187.89,66.41,Não,Viagens Longas
+24/12/2023,Passeio Cristo Redentor (Carro),2,557.41,1114.82,752.94,361.88,Sim,Passeios Locais
+24/12/2023,Passeio Cristo Redentor (Carro),1,193.73,193.73,133.83,59.9,Não,Passeios Locais
+25/12/2023,Aluguel Carro Executivo,2,1393.2,2786.4,1707.14,1079.26,Não,Serviço Privado
+25/12/2023,Tour Petrópolis (Carro),3,214.51,643.53,481.67,161.86,Sim,Viagens Longas
+25/12/2023,Translado Aeroporto Santos Dumont,3,577.79,1733.37,1294.49,438.88,Não,Translados
+25/12/2023,Passeio Cristo Redentor (Carro),3,522.09,1566.27,954.3,611.97,Não,Passeios Locais
+25/12/2023,Tour Búzios (Van),1,335.16,335.16,208.27,126.89,Não,Viagens Longas
+25/12/2023,Tour Búzios (Van),2,444.34,888.68,560.71,327.97,Não,Viagens Longas
+25/12/2023,Translado Aeroporto Santos Dumont,2,762.73,1525.46,866.44,659.02,Não,Translados
+25/12/2023,Tour Arraial do Cabo (Van),3,1080.85,3242.55,2280.95,961.6,Não,Viagens Longas
+26/12/2023,City Tour Completo (Van),3,273.82,821.46,563.65,257.81,Não,City Tour
+26/12/2023,Aluguel Carro Executivo,2,521.07,1042.14,725.23,316.91,Sim,Serviço Privado
+26/12/2023,Passeio Pão de Açúcar (Carro),2,1448.31,2896.62,2016.14,880.48,Não,Passeios Locais
+26/12/2023,Tour Petrópolis (Carro),2,717.52,1435.04,811.72,623.32,Não,Viagens Longas
+26/12/2023,Tour Búzios (Van),2,1271.31,2542.62,1783.32,759.3,Sim,Viagens Longas
+26/12/2023,Tour Búzios (Van),2,1151.24,2302.48,1670.61,631.87,Não,Viagens Longas
+27/12/2023,Tour Arraial do Cabo (Van),3,1136.22,3408.66,2341.85,1066.81,Não,Viagens Longas
+27/12/2023,Aluguel Carro Executivo,1,1039.78,1039.78,758.14,281.64,Não,Serviço Privado
+27/12/2023,City Tour Completo (Van),3,1124.49,3373.47,2493.77,879.7,Não,City Tour
+27/12/2023,Translado Aeroporto Santos Dumont,3,581.7,1745.1,1006.97,738.13,Não,Translados
+27/12/2023,Passeio Cristo Redentor (Carro),1,898.21,898.21,499.25,398.96,Não,Passeios Locais
+28/12/2023,Translado Aeroporto Galeão,3,1389.12,4167.36,2562.59,1604.77,Não,Translados
+28/12/2023,Aluguel Van Corporativa,2,363.5,727.0,401.43,325.57,Sim,Serviço Privado
+28/12/2023,Tour Arraial do Cabo (Van),3,1498.42,4495.26,3170.34,1324.92,Não,Viagens Longas
+28/12/2023,Aluguel Van Corporativa,3,505.92,1517.76,943.99,573.77,Não,Serviço Privado
+28/12/2023,Aluguel Carro Executivo,3,653.27,1959.81,1088.41,871.4,Sim,Serviço Privado
+28/12/2023,Tour Arraial do Cabo (Van),2,929.75,1859.5,1087.18,772.32,Não,Viagens Longas
+28/12/2023,Translado Aeroporto Galeão,1,1199.52,1199.52,740.41,459.11,Não,Translados
+28/12/2023,Aluguel Van Corporativa,2,936.76,1873.52,1120.09,753.43,Sim,Serviço Privado
+29/12/2023,Translado Aeroporto Galeão,1,1093.42,1093.42,712.79,380.63,Sim,Translados
+29/12/2023,Tour Búzios (Van),1,385.87,385.87,259.35,126.52,Não,Viagens Longas
+29/12/2023,Tour Petrópolis (Carro),1,681.81,681.81,398.32,283.49,Não,Viagens Longas
+29/12/2023,Aluguel Carro Executivo,3,1148.77,3446.31,2209.96,1236.35,Sim,Serviço Privado
+29/12/2023,Translado Aeroporto Galeão,2,1198.14,2396.28,1654.2,742.08,Sim,Translados
+29/12/2023,Tour Arraial do Cabo (Van),2,414.62,829.24,501.69,327.55,Não,Viagens Longas
+29/12/2023,Passeio Cristo Redentor (Carro),3,1381.43,4144.29,2700.7,1443.59,Sim,Passeios Locais
+29/12/2023,Tour Búzios (Van),2,923.12,1846.24,1367.64,478.6,Não,Viagens Longas
+30/12/2023,Tour Arraial do Cabo (Van),3,838.46,2515.38,1640.76,874.62,Não,Viagens Longas
+30/12/2023,Translado Aeroporto Santos Dumont,2,1244.16,2488.32,1635.35,852.97,Sim,Translados
+30/12/2023,Tour Búzios (Van),3,287.84,863.52,535.56,327.96,Não,Viagens Longas
+30/12/2023,Translado Aeroporto Galeão,1,775.55,775.55,567.58,207.97,Não,Translados
+30/12/2023,Passeio Cristo Redentor (Carro),3,337.69,1013.07,574.23,438.84,Não,Passeios Locais
+30/12/2023,Tour Arraial do Cabo (Van),2,687.11,1374.22,924.62,449.6,Não,Viagens Longas
+31/12/2023,Aluguel Carro Executivo,3,1470.89,4412.67,2456.1,1956.57,Sim,Serviço Privado
+31/12/2023,Tour Arraial do Cabo (Van),1,875.86,875.86,605.68,270.18,Sim,Viagens Longas
+31/12/2023,Tour Arraial do Cabo (Van),3,576.78,1730.34,1040.15,690.19,Sim,Viagens Longas
+31/12/2023,Aluguel Van Corporativa,1,1033.77,1033.77,721.68,312.09,Sim,Serviço Privado
